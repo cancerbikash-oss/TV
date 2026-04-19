@@ -49,3 +49,23 @@ http://103.157.248.140:8000/play/a00k/index.m3u8
 http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
 http://103.229.254.25:7001/play/a0dl/index.m3u8
+
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies (576p)
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+Bhojpuri Cinema SD
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+B4U Bhojpuri SD
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+B4U Bhojpuri
+https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
+
+
+Goldmines (576p)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+Goldmines 2 (576p)
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+Goldmines Movies (576p)
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+Goldmines Bollywood
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+

@@ -153,8 +153,6 @@ http://maxotts.maxdigitaltv.com/x-media/C26/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C38/master.m3u8
 #EXTINF:-1  Channel No.60
 http://maxotts.maxdigitaltv.com/x-media/C60/master.m3u8
-#EXTINF:-1  Channel No.62
-http://maxotts.maxdigitaltv.com/x-media/C62/master.m3u8
 #EXTINF:-1  Channel No.68
 http://maxotts.maxdigitaltv.com/x-media/C68/master.m3u8
 #EXTINF:-1  Channel No.69
@@ -249,6 +247,187 @@ http://maxotts.maxdigitaltv.com/x-media/C204/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C205/master.m3u8
 #EXTINF:-1 Channel No.206
 http://maxotts.maxdigitaltv.com/x-media/C206/master.m3u8
+tvg-logo=""
+#EXTINF:-1  tvg-logo="https://i.ibb.co/67bKYdgk/Sony-Max-HD.png" group-title="Movies",Sony Max HD
+http://maxotts.maxdigitaltv.com/x-media/C62/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6STtfNZ/sony-Max-2.png" group-title="Movies",Sony Max 2
+http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHFW5h0d/Sony-Pix-logo-svg.png" group-title="Movies",Sony PIX HD
+http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDdft9qw/Star-Gold-HD.jpg" group-title="Movies",Star Gold HD
+http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLhq1NsT/Pictures-HD.png" group-title="Movies",& Pictures
+http://maxotts.maxdigitaltv.com/x-media/C57/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prkBCYph/ZEE-CINEMA-HD.png" group-title="Movies",Z Cinema HD
+http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjkm0pjs/Colors-Cineplex-Superhits.jpg" group-title="Movies",Colors Cineplex Superhits - DD Free Dish
+http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFkz2Hdc/Goldmines.jpg" group-title="Movies",Goldmines
+http://maxotts.maxdigitaltv.com/x-media/C37/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH7cfsZv/Goldmines-Bollywood.jpg" group-title="Movies",Goldmines Bollywood
+http://maxotts.maxdigitaltv.com/x-media/C109/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBNk7KXD/Goldmines-Movies.jpg" group-title="Movies",Goldmines Movies
+http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTk3YQLq/Bhojpuri-Cinema-logo.png" group-title="Movies",Bhojpuri Cinema
+http://maxotts.maxdigitaltv.com/x-media/C19/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VphWsdyW/B4-U-Bhojpuri.png" group-title="Movies",B4U Bhojpuri
+http://maxotts.maxdigitaltv.com/x-media/C20/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXF81RDz/Lotus-TV-Macau-logo.jpg" group-title="Movies",Lotus Macau
+http://maxotts.maxdigitaltv.com/x-media/C49/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTLX5Fkr/Sony-Entertainment-Television.png" group-title="Entertainment",Sony Entertainment Television HD
+http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKCL95f2/Sony-Sab-HD.png" group-title="Entertainment",Sony SAB HD
+http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZtkY8YK/SONY-PAL.png" group-title="Entertainment",Sony Pal
+http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBRQyL6W/Colors-HD.jpg" group-title="Entertainment",Colors HD
+http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXDt3Bkk/Star-Plus-HD.jpg" group-title="Entertainment",Star Plus HD
+http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZkCTbXg/Zee-TV-2025-svg.png" group-title="Entertainment",Z TV
+http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxN1NHWr/TV-2025-svg.png" group-title="Entertainment",& TV
+http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Aaj Entertainment HD
+http://maxotts.maxdigitaltv.com/x-media/C125/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",ARY
+http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vpr3XLw2/Venus-Entertainment.jpg" group-title="Entertainment",V HD (Venus Entertainment)
+http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cartoons",LTN Family
+http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",DD National HD
+http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",DD Bharati
+http://maxotts.maxdigitaltv.com/x-media/C43/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",PTC Punjabi
+http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Dangal
+http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Anjan
+http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",& Zoom
+http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",9XM
+http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",M TV
+http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",YRF Music
+http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Stingray Karaoke
+http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",ABP News
+http://maxotts.maxdigitaltv.com/x-media/C52/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Zee BIhar Jharkhand
+http://maxotts.maxdigitaltv.com/x-media/C21/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Z News
+http://maxotts.maxdigitaltv.com/x-media/C32/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",News18 India
+http://maxotts.maxdigitaltv.com/x-media/C44/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", AAJ TAK
+http://maxotts.maxdigitaltv.com/x-media/C110/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",INDIA TV
+http://maxotts.maxdigitaltv.com/x-media/C53/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Z Business
+http://maxotts.maxdigitaltv.com/x-media/C139/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",NDTV
+http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",FOX Now
+http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", CGTN
+http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", TV5 MONDE
+http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",AL JAZEERA 
+http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",NHK World - Japan 
+http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", DW 
+http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",TRT WORLD
+http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",CNA
+http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",RT
+http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Arirang
+http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",France 24
+http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",BBC News
+http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Euro News.
+http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Rakuten TV
+http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",XZTV
+http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",SKY Sports News
+http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 1 HD
+http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8	
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 3 Hindi HD
+http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 5 HD
+http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",PTV Sports HD
+http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",A Sports HD
+http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",DD Sports HD
+http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery Science
+http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery HD
+http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",Sony BB Earth HD
+http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery Kids
+http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",Animal Planet HD
+http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",TCL HD
+http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",History TV HD
+http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery Turbo
+http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",RT Documentry
+http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adventure",Stingray Holiday Scapes
+http://maxotts.maxdigitaltv.com/x-media/C101/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cartoons",POGO
+http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cartoons",Cartoon Channel
+http://maxotts.maxdigitaltv.com/x-media/C102/master.m3u8	
+#EXTINF:-1 tvg-logo="" group-title="Cartoons",Cartoon Network + HD
+http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cartoons",Nick
+http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cartoons",S Kids Zone HD
+http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cartoons",Hooray! Rhymes
+http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
+#EXTINF:-1tvg-logo=""  group-title="Religious",Aastha TV
+http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Sanskar TV
+http://maxotts.maxdigitaltv.com/x-media/C28/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Satsang TV
+http://maxotts.maxdigitaltv.com/x-media/C29/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Peace of Mind
+http://maxotts.maxdigitaltv.com/x-media/C50/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Sadhana Gold
+http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Peace TV Urdu
+http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",EWTN 
+http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Madani TV
+http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Fashiom",Fashion TV
+http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
 
 #EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepal",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
@@ -294,185 +473,6 @@ http://103.157.248.140:8000/play/a00k/index.m3u8
 http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
 http://103.229.254.25:7001/play/a0dl/index.m3u8
-
-#EXTINF:-1 group-title="Movies",Star Gold HD
-http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
-#EXTINF:-1 group-title="Movies",Colors Cineplex Superhits - DD Free Dish
-http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
-#EXTINF:-1 group-title="Movies",Goldmines Bollywood
-http://maxotts.maxdigitaltv.com/x-media/C109/master.m3u8
-#EXTINF:-1 group-title="Movies",Goldmines Movies
-http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
-#EXTINF:-1 group-title="Movies",Sony Max 2
-http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
-#EXTINF:-1 group-title="Movies",Bhojpuri Cinema
-http://maxotts.maxdigitaltv.com/x-media/C19/master.m3u8
-#EXTINF:-1 group-title="Movies",B4U Bhojpuri
-http://maxotts.maxdigitaltv.com/x-media/C20/master.m3u8
-#EXTINF:-1 group-title="Movies",Goldmines
-http://maxotts.maxdigitaltv.com/x-media/C37/master.m3u8
-#EXTINF:-1 group-title="Movies",Sony PIX HD
-http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
-#EXTINF:-1 group-title="Movies",Sony PIX HD
-http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
-#EXTINF:-1 group-title="Movies",Lotus Macau
-http://maxotts.maxdigitaltv.com/x-media/C49/master.m3u8
-#EXTINF:-1 group-title="Movies",& Pictures
-http://maxotts.maxdigitaltv.com/x-media/C57/master.m3u8
-#EXTINF:-1 group-title="Movies",Z Cinema HD
-http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Sony Entertainment Television HD
-http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
-#EXTINF:-1 group-title="Entertainment",DD National HD
-http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Colors HD
-http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Star Plus
-http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Z TV
-http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
-#EXTINF:-1 group-title="Entertainment",& TV
-http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Sony Pal
-http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
-#EXTINF:-1 group-title="Entertainment",PTC Punjabi
-http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Aaj Entertainment HD
-http://maxotts.maxdigitaltv.com/x-media/C125/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Dangal
-http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Anjan
-http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
-#EXTINF:-1 group-title="Entertainment",DD Bharati
-http://maxotts.maxdigitaltv.com/x-media/C43/master.m3u8
-#EXTINF:-1 group-title="Entertainment",ARY
-http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
-#EXTINF:-1 group-title="Entertainment",V HD (Venus Entertainment)
-http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
-#EXTINF:-1 group-title="Music",& Zoom
-http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
-#EXTINF:-1 group-title="Music",9XM
-http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
-#EXTINF:-1 group-title="Music",M TV
-http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
-#EXTINF:-1 group-title="Music",YRF Music
-http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
-#EXTINF:-1 group-title="Music",Stingray Karaoke
-http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
-#EXTINF:-1 group-title="News",ABP News
-http://maxotts.maxdigitaltv.com/x-media/C52/master.m3u8
-#EXTINF:-1 group-title="News",Zee BIhar Jharkhand
-http://maxotts.maxdigitaltv.com/x-media/C21/master.m3u8
-#EXTINF:-1 group-title="News",Z News
-http://maxotts.maxdigitaltv.com/x-media/C32/master.m3u8
-#EXTINF:-1 group-title="News",News18 India
-http://maxotts.maxdigitaltv.com/x-media/C44/master.m3u8
-#EXTINF:-1 group-title="News", AAJ TAK
-http://maxotts.maxdigitaltv.com/x-media/C110/master.m3u8
-#EXTINF:-1 group-title="News",INDIA TV
-http://maxotts.maxdigitaltv.com/x-media/C53/master.m3u8
-#EXTINF:-1 group-title="News",Z Business
-http://maxotts.maxdigitaltv.com/x-media/C139/master.m3u8
-#EXTINF:-1 group-title="News",NDTV
-http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
-#EXTINF:-1 group-title="News",FOX Now
-http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
-#EXTINF:-1 group-title="News", CGTN
-http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
-#EXTINF:-1 group-title="News", TV5 MONDE
-http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
-#EXTINF:-1 group-title="News",AL JAZEERA 
-http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
-#EXTINF:-1 group-title="News",NHK World - Japan 
-http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
-#EXTINF:-1 group-title="News", DW 
-http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
-#EXTINF:-1 group-title="News",TRT WORLD
-http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
-#EXTINF:-1 group-title="News",CNA
-http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
-#EXTINF:-1 group-title="News",RT
-http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
-#EXTINF:-1 group-title="News",Arirang
-http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
-#EXTINF:-1 group-title="News",France 24
-http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
-#EXTINF:-1 group-title="News",BBC News
-http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
-#EXTINF:-1 group-title="News",Euro News.
-http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
-#EXTINF:-1 group-title="News",Rakuten TV
-http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
-#EXTINF:-1 group-title="News",XZTV
-http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
-#EXTINF:-1 group-title="News",SKY Sports News
-http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
-#EXTINF:-1 group-title="Sports",Sony Sports 5 HD
-http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
-#EXTINF:-1 group-title="Sports",Sony Sports 2 HD
-http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8	
-#EXTINF:-1 group-title="Sports",Sony Sports 3 Hindi HD
-http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
-#EXTINF:-1 group-title="Sports",Sony Sports 1 HD
-http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
-#EXTINF:-1 group-title="Sports",PTV Sports HD
-http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
-#EXTINF:-1 group-title="Sports",A Sports HD
-http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
-#EXTINF:-1 group-title="Sports",DD Sports HD
-http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
-#EXTINF:-1 group-title="Adventure",Discovery Science
-http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
-#EXTINF:-1 group-title="Adventure",Discovery HD
-http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
-#EXTINF:-1 group-title="Adventure",Sony BB Earth HD
-http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
-#EXTINF:-1 group-title="Adventure",Discovery Kids
-http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
-#EXTINF:-1  group-title="Adventure",Animal Planet HD
-http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
-#EXTINF:-1  group-title="Adventure",TCL HD
-http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
-#EXTINF:-1 group-title="Adventure",History TV HD
-http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
-#EXTINF:-1 group-title="Adventure",Discovery Turbo
-http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
-#EXTINF:-1 group-title="Adventure",RT Documentry
-http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
-#EXTINF:-1 group-title="Adventure",Stingray Holiday Scapes
-http://maxotts.maxdigitaltv.com/x-media/C101/master.m3u8
-#EXTINF:-1 group-title="Cartoons",POGO
-http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
-#EXTINF:-1 group-title="Cartoons",Cartoon Channel
-http://maxotts.maxdigitaltv.com/x-media/C102/master.m3u8	
-#EXTINF:-1 group-title="Cartoons",Cartoon Network + HD
-http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
-#EXTINF:-1 group-title="Cartoons",Nick
-http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
-#EXTINF:-1 group-title="Cartoons",S Kids Zone HD
-http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
-#EXTINF:-1 group-title="Cartoons",Hooray! Rhymes
-http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
-#EXTINF:-1 group-title="Cartoons",LTN Family
-http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
-#EXTINF:-1 group-title="Religious",Aastha TV
-http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8
-#EXTINF:-1 group-title="Religious",Sanskar TV
-http://maxotts.maxdigitaltv.com/x-media/C28/master.m3u8
-#EXTINF:-1 group-title="Religious",Satsang TV
-http://maxotts.maxdigitaltv.com/x-media/C29/master.m3u8
-#EXTINF:-1 group-title="Religious",Peace of Mind
-http://maxotts.maxdigitaltv.com/x-media/C50/master.m3u8
-#EXTINF:-1 group-title="Religious",Sadhana Gold
-http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
-#EXTINF:-1 group-title="Religious",Peace TV Urdu
-http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8
-#EXTINF:-1 group-title="Religious",EWTN 
-http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
-#EXTINF:-1 group-title="Religious",Madani TV
-http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
-#EXTINF:-1 Fashion TV
-http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
 
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies (576p)
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8

@@ -21,7 +21,7 @@ http://maxotts.maxdigitaltv.com/x-media/C4/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E97g8QK.png" group-title="Nepal",TV Today
 http://maxotts.maxdigitaltv.com/x-media/C6/master.m3u8
-Channel No.7
+#EXTINF:-1  Channel No.7
 http://maxotts.maxdigitaltv.com/x-media/C7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a62DiwH.png" group-title="Nepal",Himalayan TV
 http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
@@ -33,9 +33,9 @@ http://maxotts.maxdigitaltv.com/x-media/C10/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C11/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TDOvTw6.png" group-title="Nepal",Sagarmatha TV
 http://maxotts.maxdigitaltv.com/x-media/C12/master.m3u8
-Channel No.13
+#EXTINF:-1  Channel No.13
 http://maxotts.maxdigitaltv.com/x-media/C13/master.m3u8
-Channel No.14
+#EXTINF:-1  Channel No.14
 http://maxotts.maxdigitaltv.com/x-media/C14/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxQAb3k.png" group-title="Nepal",NTV Itahari
 http://maxotts.maxdigitaltv.com/x-media/C15/master.m3u8
@@ -43,93 +43,93 @@ http://maxotts.maxdigitaltv.com/x-media/C15/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C16/master.m3u8
 #EXTINF:-1 tvg-id="AP1TV.np@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png" group-title="Nepal",AP1 TV
 http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
-Channel No.23
+#EXTINF:-1  Channel No.23
 http://maxotts.maxdigitaltv.com/x-media/C23/master.m3u8
-Channel No.24
+#EXTINF:-1  Channel No.24
 http://maxotts.maxdigitaltv.com/x-media/C24/master.m3u8
-Channel No.25
+#EXTINF:-1  Channel No.25
 http://maxotts.maxdigitaltv.com/x-media/C25/master.m3u8
-Channel No.26
+#EXTINF:-1  Channel No.26
 http://maxotts.maxdigitaltv.com/x-media/C26/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjwmJtk4/Ray-TV.jpg" group-title="Nepal",Ray TV HD
 http://maxotts.maxdigitaltv.com/x-media/C33/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h1fbyd5g/Syangja-TV.png" group-title="Nepal",Syangja TV
 http://maxotts.maxdigitaltv.com/x-media/C35/master.m3u8
-Channel No.38
+#EXTINF:-1  Channel No.38
 http://maxotts.maxdigitaltv.com/x-media/C38/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iaFUcW6.png" group-title="Nepal",NTV Kohalpur
 http://maxotts.maxdigitaltv.com/x-media/C40/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9T9rYux.png" group-title="Nepal",NTV News
 http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
-Channel No.60
+#EXTINF:-1  Channel No.60
 http://maxotts.maxdigitaltv.com/x-media/C60/master.m3u8
-Channel No.62
+#EXTINF:-1  Channel No.62
 http://maxotts.maxdigitaltv.com/x-media/C62/master.m3u8
-Channel No.68
+#EXTINF:-1  Channel No.68
 http://maxotts.maxdigitaltv.com/x-media/C68/master.m3u8
-Channel No.69
+#EXTINF:-1  Channel No.69
 http://maxotts.maxdigitaltv.com/x-media/C69/master.m3u8
-Channel No.70
+#EXTINF:-1  Channel No.70
 http://maxotts.maxdigitaltv.com/x-media/C70/master.m3u8
-Channel No.71
+#EXTINF:-1  Channel No.71
 http://maxotts.maxdigitaltv.com/x-media/C71/master.m3u8
-Channel No.74
+#EXTINF:-1  Channel No.74
 http://maxotts.maxdigitaltv.com/x-media/C74/master.m3u8
-Channel No.85
+#EXTINF:-1  Channel No.85
 http://maxotts.maxdigitaltv.com/x-media/C85/master.m3u8
-Channel No.86
+#EXTINF:-1  Channel No.86
 http://maxotts.maxdigitaltv.com/x-media/C86/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nepal",Nepali Channel 93
 http://maxotts.maxdigitaltv.com/x-media/C93/master.m3u8
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/bgKbj7TV/Nepal-Press-HD.png " group-title="Nepal",Nepal Press HD
 http://maxotts.maxdigitaltv.com/x-media/C94/master.m3u8
-Channel No.95
+#EXTINF:-1  Channel No.95
 http://maxotts.maxdigitaltv.com/x-media/C95/master.m3u8
-Channel No.96
+#EXTINF:-1  Channel No.96
 http://maxotts.maxdigitaltv.com/x-media/C96/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgKbj7TV/Nepal-Press-HD.png" group-title="Nepal",Nepal Press HD
 http://maxotts.maxdigitaltv.com/x-media/C97/master.m3u8
-Channel No.98
+#EXTINF:-1  Channel No.98
 http://maxotts.maxdigitaltv.com/x-media/C98/master.m3u8
-Channel No.99
+#EXTINF:-1  Channel No.99
 http://maxotts.maxdigitaltv.com/x-media/C99/master.m3u8
-Channel No.100
+#EXTINF:-1  Channel No.100
 http://maxotts.maxdigitaltv.com/x-media/C100/master.m3u8
-Channel No.104
+#EXTINF:-1  Channel No.104
 http://maxotts.maxdigitaltv.com/x-media/C104/master.m3u8
-Channel No.105
+#EXTINF:-1  Channel No.105
 http://maxotts.maxdigitaltv.com/x-media/C105/master.m3u8
-Channel No.112
+#EXTINF:-1  Channel No.112
 http://maxotts.maxdigitaltv.com/x-media/C112/master.m3u8
-Channel No.113
+#EXTINF:-1  Channel No.113
 http://maxotts.maxdigitaltv.com/x-media/C113/master.m3u8
-Channel No.114
+#EXTINF:-1  Channel No.114
 http://maxotts.maxdigitaltv.com/x-media/C114/master.m3u8
-Channel No.115
+#EXTINF:-1  Channel No.115
 http://maxotts.maxdigitaltv.com/x-media/C115/master.m3u8
-Channel No.116
+#EXTINF:-1  Channel No.116
 http://maxotts.maxdigitaltv.com/x-media/C116/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1tTudCH.png" group-title="Nepal",Dhaulagiri HD
 http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8
-Channel No.118
+#EXTINF:-1  Channel No.118
 http://maxotts.maxdigitaltv.com/x-media/C118/master.m3u8
-Channel No.120
+#EXTINF:-1  Channel No.120
 http://maxotts.maxdigitaltv.com/x-media/C120/master.m3u8
-Channel No.123
+#EXTINF:-1  Channel No.123
 http://maxotts.maxdigitaltv.com/x-media/C123/master.m3u8
-Channel No.124
+#EXTINF:-1  Channel No.124
 http://maxotts.maxdigitaltv.com/x-media/C124/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fzTXt4vx/Action-Sports-Nepal-Partnership.jpg" group-title="Nepal",Action Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C129/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dDpAbfB.png" group-title="Nepal",Sarokar TV HD
 http://maxotts.maxdigitaltv.com/x-media/C130/master.m3u8
-Channel No.132
+#EXTINF:-1  Channel No.132
 http://maxotts.maxdigitaltv.com/x-media/C132/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xctHWUv.png" group-title="Nepal",Image Channel HD
 http://maxotts.maxdigitaltv.com/x-media/C133/master.m3u8
-Channel No.134
+#EXTINF:-1  Channel No.134
 http://maxotts.maxdigitaltv.com/x-media/C134/master.m3u8
-Channel No.135
+#EXTINF:-1  Channel No.135
 http://maxotts.maxdigitaltv.com/x-media/C135/master.m3u8
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/Y79ybWK6/Channel-4-Nepal.jpg " group-title="Nepal",Channel 4 Nepal 
 http://maxotts.maxdigitaltv.com/x-media/C137/master.m3u8
@@ -137,7 +137,7 @@ http://maxotts.maxdigitaltv.com/x-media/C137/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C138/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6x2cBPP/Times-TV-HD.png" group-title="Nepal",Times TV HD
 http://maxotts.maxdigitaltv.com/x-media/C140/master.m3u8
-Channel No.141
+#EXTINF:-1  Channel No.141
 http://maxotts.maxdigitaltv.com/x-media/C141/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5IzASS7.jpg" group-title="Nepal",Kalika HD
 http://maxotts.maxdigitaltv.com/x-media/C142/master.m3u8
@@ -161,25 +161,25 @@ http://maxotts.maxdigitaltv.com/x-media/C150/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFcnQF21/YES-BC-TV.png" group-title="Nepal",YES BC
 http://maxotts.maxdigitaltv.com/x-media/C152/master.m3u8
-Channel No.153
+#EXTINF:-1  Channel No.153
 http://maxotts.maxdigitaltv.com/x-media/C153/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BVRX4SV5/Saptarangi-TV.jpg" group-title="Nepal",Saptarangi Television HD
 http://maxotts.maxdigitaltv.com/x-media/C154/master.m3u8
-Channel No.155
+#EXTINF:-1  Channel No.155
 http://maxotts.maxdigitaltv.com/x-media/C155/master.m3u8
-Channel No.156
+#EXTINF:-1  Channel No.156
 http://maxotts.maxdigitaltv.com/x-media/C156/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Nepal",Divya Darshan TV HD
 http://maxotts.maxdigitaltv.com/x-media/C157/master.m3u8
-Channel No.158
+#EXTINF:-1  Channel No.158
 http://maxotts.maxdigitaltv.com/x-media/C158/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Nepal",INDIGENOUS TV
 http://maxotts.maxdigitaltv.com/x-media/C159/master.m3u8
-Channel No.160
+#EXTINF:-1  Channel No.160
 http://maxotts.maxdigitaltv.com/x-media/C160/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwznSWX.jpg" group-title="Nepal",Rajya TV HD
 http://maxotts.maxdigitaltv.com/x-media/C161/master.m3u8
-Channel No.162
+#EXTINF:-1  Channel No.162
 http://maxotts.maxdigitaltv.com/x-media/C162/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xYY2oU6.jpg" group-title="Nepal",Life OK HD
 http://maxotts.maxdigitaltv.com/x-media/C163/master.m3u8
@@ -208,11 +208,11 @@ http://maxotts.maxdigitaltv.com/x-media/C173/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C174/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KpHRfj0B/Channel-ACE.jpg" group-title="Nepal",Channel ACE TV HD 
 http://maxotts.maxdigitaltv.com/x-media/C175/master.m3u8
-Channel No.176
+#EXTINF:-1  Channel No.176
 http://maxotts.maxdigitaltv.com/x-media/C176/master.m3u8
-Channel No.177
+#EXTINF:-1  Channel No.177
 http://maxotts.maxdigitaltv.com/x-media/C177/master.m3u8
-Channel No.178
+#EXTINF:-1  Channel No.178
 http://maxotts.maxdigitaltv.com/x-media/C178/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBxwBYb.jpg" group-title="Nepal",Rapti Darpan TV HD 
 http://maxotts.maxdigitaltv.com/x-media/C179/master.m3u8
@@ -220,35 +220,35 @@ http://maxotts.maxdigitaltv.com/x-media/C179/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kV5MdK7g/Golden-Eye-TV.jpg" group-title="Nepal",Golden Eye HD 
 http://maxotts.maxdigitaltv.com/x-media/C181/master.m3u8
-Channel No.182
+#EXTINF:-1  Channel No.182
 http://maxotts.maxdigitaltv.com/x-media/C182/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EZUyzhG.jpg" group-title="Nepal",Kantipur MAX HD 
 http://maxotts.maxdigitaltv.com/x-media/C183/master.m3u8
-Channel No.185
+#EXTINF:-1  Channel No.185
 http://maxotts.maxdigitaltv.com/x-media/C185/master.m3u8
-Channel No.187
+#EXTINF:-1  Channel No.187
 http://maxotts.maxdigitaltv.com/x-media/C187/master.m3u8
-Channel No.188
+#EXTINF:-1  Channel No.188
 http://maxotts.maxdigitaltv.com/x-media/C188/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ShK58p6/Kantipur-Max-2-HD.jpg" group-title="Nepal",Kantipur Max 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
-Channel No.195
+#EXTINF:-1  Channel No.195
 http://maxotts.maxdigitaltv.com/x-media/C195/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPT6BJN7/TEAM-TV.png" group-title="Nepal",TEAM HD
 http://maxotts.maxdigitaltv.com/x-media/C196/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2wW70P.png" group-title="Nepal",Prime Television HD
 http://maxotts.maxdigitaltv.com/x-media/C198/master.m3u8
-Channel No.199
+#EXTINF:-1 Channel No.199
 http://maxotts.maxdigitaltv.com/x-media/C199/master.m3u8
-Channel No.201
+#EXTINF:-1 Channel No.201
 http://maxotts.maxdigitaltv.com/x-media/C201/master.m3u8
-Channel No.203
+#EXTINF:-1 Channel No.203
 http://maxotts.maxdigitaltv.com/x-media/C203/master.m3u8
-Channel No.204
+#EXTINF:-1 Channel No.204
 http://maxotts.maxdigitaltv.com/x-media/C204/master.m3u8
-Channel No.205
+#EXTINF:-1 Channel No.205
 http://maxotts.maxdigitaltv.com/x-media/C205/master.m3u8
-Channel No.206
+#EXTINF:-1 Channel No.206
 http://maxotts.maxdigitaltv.com/x-media/C206/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJF4ptGL/RODHI-TV.png" group-title="Nepal",Rodhi TV
 http://maxotts.maxdigitaltv.com/x-media/C207/master.m3u8
@@ -336,9 +336,9 @@ http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
 #EXTINF:-1 group-title="Entertainment",DD National HD
 http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
-#EXTINF:-1, group-title="Entertainment",Colors HD
+#EXTINF:-1 group-title="Entertainment",Colors HD
 http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
-#EXTINF:-1, group-title="Entertainment",Star Plus
+#EXTINF:-1 group-title="Entertainment",Star Plus
 http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
 #EXTINF:-1 group-title="Entertainment",Z TV
 http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
@@ -406,17 +406,17 @@ http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
 #EXTINF:-1 group-title="News",Arirang
 http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
-#EXTINF:-1, group-title="News",France 24
+#EXTINF:-1 group-title="News",France 24
 http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
 #EXTINF:-1 group-title="News",BBC News
 http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
-#EXTINF:-1, group-title="News",Euro News.
+#EXTINF:-1 group-title="News",Euro News.
 http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
-#EXTINF:-1, group-title="News",Rakuten TV
+#EXTINF:-1 group-title="News",Rakuten TV
 http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
-#EXTINF:-1, group-title="News",XZTV
+#EXTINF:-1 group-title="News",XZTV
 http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
-#EXTINF:-1, group-title="News",SKY Sports News
+#EXTINF:-1 group-title="News",SKY Sports News
 http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
 #EXTINF:-1 group-title="Sports",Sony Sports 5 HD
 http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
@@ -428,15 +428,15 @@ http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 #EXTINF:-1 group-title="Sports",PTV Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
-#EXTINF:-1, group-title="Sports",A Sports HD
+#EXTINF:-1 group-title="Sports",A Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
-#EXTINF:-1, group-title="Sports",DD Sports HD
+#EXTINF:-1 group-title="Sports",DD Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
-#EXTINF:-1, group-title="Adventure",Discovery Science
+#EXTINF:-1 group-title="Adventure",Discovery Science
 http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
-#EXTINF:-1, group-title="Adventure",Discovery HD
+#EXTINF:-1 group-title="Adventure",Discovery HD
 http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
-#EXTINF:-1, group-title="Adventure",Sony BB Earth HD
+#EXTINF:-1 group-title="Adventure",Sony BB Earth HD
 http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
 #EXTINF:-1 group-title="Adventure",Discovery Kids
 http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
@@ -1408,3 +1408,102 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",History TV HD
+http://103.157.248.140:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony BBC Earth HD
+http://103.157.248.140:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold Select HD
+http://103.157.248.140:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",& pictures HD
+http://103.157.248.140:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",& TV HD 
+http://103.157.248.140:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold Romance 
+http://103.157.248.140:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",TCL
+http://103.157.248.140:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony Max 
+http://103.157.248.140:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 2 Hindi HD
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Nickelodeon 
+http://103.157.248.140:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Z TV HD 
+http://103.157.248.140:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",MTV HD
+http://103.157.248.140:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony Sports 2 HD
+http://103.157.248.140:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony PIX HD 
+http://103.157.248.140:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Movies Select HD 
+http://103.157.248.140:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Movies HD
+http://103.157.248.140:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",&FLIX HD
+http://103.157.248.140:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony SAB 
+http://103.157.248.140:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Z Business 
+http://103.157.248.140:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony Entertainment Television HD
+http://103.157.248.140:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Plus HD 
+http://103.157.248.140:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 1 HD
+http://103.157.248.140:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Colors HD
+http://103.157.248.140:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",National Geographic Wild HD
+http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",National Geographic HD (1080p)
+http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",EURO SPORT HD
+http://103.157.248.140:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",ID
+http://103.157.248.140:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Romedy NOW 
+http://103.157.248.140:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery HD 
+http://103.157.248.140:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery Science 
+http://103.157.248.140:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold Thrills (576p)
+http://103.157.248.140:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony SAB HD 
+http://103.157.248.140:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold HD 
+http://103.157.248.140:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold 2
+http://103.157.248.140:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 1 Hindi 
+http://103.157.248.140:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 3
+http://103.157.248.140:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Zee TV
+http://103.157.248.140:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Nick Jr. (576p)
+http://103.157.248.140:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sonic 
+http://103.157.248.140:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports Select 1 HD 
+http://103.157.248.140:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports Select 2 HD 
+http://103.157.248.140:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Zee Cinema HD 
+http://103.157.248.140:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Asianet HD 
+http://103.157.248.140:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery Turbo 
+http://103.157.248.140:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",MOVIES NOW HD
+http://103.157.248.140:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Colors Cineplex Bollywood SD 
+http://103.157.248.140:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Colors Cineplex HD
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold 2 HD (1080p)
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 2 Tamil HD
+http://103.229.254.25:7001/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 2 HD 
+https://mini.allinonereborn.fun/tata.php?id=11819

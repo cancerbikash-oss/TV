@@ -1367,3 +1367,44 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8?ads.vf=2CLHl7hmvGC
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom (720p)
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+EXTINF:-1 group-title="Movies",&xplor HD HD #36903 
+https://mini.allinonereborn.fun/tata.php?id=11619
+EXTINF:-1 group-title="Movies",&PRIVE HD Tata Play 
+https://mini.allinonereborn.fun/tata.php?id=11618
+#EXTINF:-1 group-title="Sports",USA (English)
+https://dvrfl04.tulix.tv/teleup-usa/mpegtshttp://85.117.37.41/cnn/index.m3u8
+#EXTINF:-1 group-title="Entertainment",USA (English)
+https://dvrfl04.tulix.tv/teleup-usa/mpegtshttp://85.117.37.41/cnn/index.m3u8
+#EXTINF:-1 group-title="HBO",AXN HD
+http://58.147.140.106:4000/play/a0el/index.m3u8
+#EXTINF:-1 group-title="HBO",AXN
+http://181.13.252.102:8000/play/a05f/index.m3u8?hls
+#EXTINF:-1 group-title="HBO",Bloomberg
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="HBO",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="HBO",HITS 
+http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO HD
+https://hls.iill.top/api/HBO/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO family HD
+https://hls.iill.top/api/HBO-Family/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Signature HD
+https://hls.iill.top/api/HBO-Signature/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8 
+#EXTINF:-1 group-title="HBO",CINEMAX
+http://179.60.51.134:8888/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="HBO",Cinemax
+http://23.88.66.93/Cinemax/index.m3u8
+#EXTINF:-1 group-title="HBO",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Hits
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8

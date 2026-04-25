@@ -279,31 +279,31 @@ tvg-id="@SD" tvg-logo=""
 http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://i.ibb.co/CKCL95f2/Sony-Sab-HD.png" group-title="Entertainment",Sony SAB HD
 http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
-#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.ibb.co/wZtkY8YK/SONY-PAL.png" group-title="Entertainment",Sony Pal
+#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://i.ibb.co/wZtkY8YK/SONY-PAL.png" group-title="Entertainment",Sony Pal
 http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
-#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.ibb.co/yBRQyL6W/Colors-HD.jpg" group-title="Entertainment",Colors HD
+#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.ibb.co/yBRQyL6W/Colors-HD.jpg" group-title="Entertainment",Colors HD
 http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
-#EXTINF:-1 tvg-id="@SD" tvg-logo="https://i.ibb.co/LXDt3Bkk/Star-Plus-HD.jpg" group-title="Entertainment",Star Plus HD
+#EXTINF:-1 tvg-id="StarPlusHD.in@HD" tvg-logo="https://i.ibb.co/LXDt3Bkk/Star-Plus-HD.jpg" group-title="Entertainment",Star Plus HD
 http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://i.ibb.co/PZkCTbXg/Zee-TV-2025-svg.png" group-title="Entertainment",Z TV
 http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxN1NHWr/TV-2025-svg.png" group-title="Entertainment",& TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XxN1NHWr/TV-2025-svg.png" group-title="Entertainment",& TV
 http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DffHpft9/Aan-TV.jpg" group-title="Entertainment",Aan TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DffHpft9/Aan-TV.jpg" group-title="Entertainment",Aan TV HD
 http://maxotts.maxdigitaltv.com/x-media/C125/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",ARY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",ARY
 http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vpr3XLw2/Venus-Entertainment.jpg" group-title="Entertainment",V HD (Venus Entertainment)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Vpr3XLw2/Venus-Entertainment.jpg" group-title="Entertainment",V HD (Venus Entertainment)
 http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fk5Gfj4y/LTN-Family-HD.jpg" group-title="Entertainment",LTN Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fk5Gfj4y/LTN-Family-HD.jpg" group-title="Entertainment",LTN Family
 http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://i.ibb.co/9HQDKPvN/DD-National-HD.jpg" group-title="Entertainment",DD National HD
 http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
-#EXTINF:-1 tvg-logo="tvg-id="DDBharati.in@SD" tvg-logo="https://i.imgur.com/4tfUIEo.png" " group-title="Entertainment",DD Bharati
+#EXTINF:-1 tvg-id="" tvg-logo="tvg-id="DDBharati.in@SD" tvg-logo="https://i.imgur.com/4tfUIEo.png" " group-title="Entertainment",DD Bharati
 http://maxotts.maxdigitaltv.com/x-media/C43/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VbbvySw/PTC-PUNJABI.png" group-title="Entertainment",PTC Punjabi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VbbvySw/PTC-PUNJABI.png" group-title="Entertainment",PTC Punjabi
 http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vn0yYpt/Dangal-TVLogo.png" group-title="Entertainment",Dangal
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Vn0yYpt/Dangal-TVLogo.png" group-title="Entertainment",Dangal
 http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Entertainment",Anjan TV
 http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
@@ -315,121 +315,301 @@ http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Stingray Karaoke
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Stingray Karaoke
 http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",ABP News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",ABP News
 http://maxotts.maxdigitaltv.com/x-media/C52/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",Zee BIhar Jharkhand
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Zee BIhar Jharkhand
 http://maxotts.maxdigitaltv.com/x-media/C21/master.m3u8
-#EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="News",Z News
+#EXTINF:-1 tvg-id="" tvg-id="ZeeNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="News",Z News
 http://maxotts.maxdigitaltv.com/x-media/C32/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",News18 India
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",News18 India
 http://maxotts.maxdigitaltv.com/x-media/C44/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", AAJ TAK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", AAJ TAK
 http://maxotts.maxdigitaltv.com/x-media/C110/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",INDIA TV
 http://maxotts.maxdigitaltv.com/x-media/C53/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Z Business
 http://maxotts.maxdigitaltv.com/x-media/C139/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",NDTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NDTV
 http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",FOX Now
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX Now
 http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", CGTN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", CGTN
 http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", TV5 MONDE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", TV5 MONDE
 http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",AL JAZEERA 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",AL JAZEERA 
 http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",NHK World - Japan 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NHK World - Japan 
 http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", DW 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", DW 
 http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",TRT WORLD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",TRT WORLD
 http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",CNA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CNA
 http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",RT
 http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Arirang
 http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",France 24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",France 24
 http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",BBC News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",BBC News
 http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",Euro News.
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Euro News.
 http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",Rakuten TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Rakuten TV
 http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",XZTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",XZTV
 http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",SKY Sports News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",SKY Sports News
 http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8	
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 3 Hindi HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports 3 Hindi HD
 http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 5 HD
 http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",PTV Sports HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",PTV Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",A Sports HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",A Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",DD Sports HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",DD Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Discovery Science
 http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Discovery HD
 http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",Sony BB Earth HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Sony BB Earth HD
 http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Discovery Kids
 http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Animal Planet HD
 http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",TCL HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",TCL HD
 http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",History TV HD
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Adventure",History TV HD
 http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Discovery Turbo
 http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",RT Documentry
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",RT Documentry
 http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adventure",Stingray Holiday Scapes
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Stingray Holiday Scapes
 http://maxotts.maxdigitaltv.com/x-media/C101/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoons",POGO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",POGO
 http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoons",Cartoon Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cartoon Channel
 http://maxotts.maxdigitaltv.com/x-media/C102/master.m3u8	
-#EXTINF:-1 tvg-logo="" group-title="Cartoons",Cartoon Network + HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cartoon Network + HD
 http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoons",Nick
+#EXTINF:-1 tvg-logo="" group-title="Kids",Nick
 http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoons",S Kids Zone HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",S Kids Zone HD
 http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoons",Hooray! Rhymes
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Hooray! Rhymes
 http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
-#EXTINF:-1tvg-logo=""  group-title="Religious",Aastha TV
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="Religious",Aastha TV
 http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",Sanskar TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Sanskar TV
 http://maxotts.maxdigitaltv.com/x-media/C28/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",Satsang TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Satsang TV
 http://maxotts.maxdigitaltv.com/x-media/C29/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",Peace of Mind
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Peace of Mind
 http://maxotts.maxdigitaltv.com/x-media/C50/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",Sadhana Gold
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Sadhana Gold
 http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",Peace TV Urdu
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Peace TV Urdu
 http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",EWTN 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",EWTN 
 http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",Madani TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Madani TV
 http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMdBCjv9/Fashion-TV-HD.jpg" group-title="Fashiom",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nMdBCjv9/Fashion-TV-HD.jpg" group-title="Fashiom",Fashion TV
 http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
 
+#EXTINF:-1 tvg-id="JooMusic.pk@HD" tvg-logo="https://i.ibb.co/cSm1bDzn/Joo-Music.png" group-title="Music",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="Movies;Music",Shemaroo Filmi Gaane (1080p)
+http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
+
+TATA PLAY TV CHANNELS LIST
+EXTINF:-1 group-title="Movies",&xplor HD HD #36903 
+https://mini.allinonereborn.fun/tata.php?id=11619
+EXTINF:-1 group-title="Movies",&PRIVE HD Tata Play 
+https://mini.allinonereborn.fun/tata.php?id=11618
+#EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony PIX HD 
+http://103.157.248.140:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony Sports 2 HD
+http://103.157.248.140:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Documentary",Sony BBC Earth
+http://103.157.248.140:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",Star Plus HD 
+http://103.157.248.140:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Movies",Star Gold HD 
+http://103.157.248.140:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies",Star Gold Select HD
+http://103.157.248.140:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TATA PLAY TV CHANNELS LIST",Star Movies Select HD 
+http://103.157.248.140:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yDX8DnH/Star-Sport-1-HD.jpg" group-title="Sports",Star Sports 1 HD
+http://103.157.248.140:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QFxz4p2b/Star-Sports-2-HD.jpg" group-title="Sports",Star Sports 2 HD 
+https://mini.allinonereborn.fun/tata.php?id=11819
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Star Sports 2 Tamil HD
+http://103.229.254.25:7001/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/h1r7bFn0/Star-Sports-Select-1-HD.jpg" group-title="Sports",Star Sports Select 1 HD 
+http://103.157.248.140:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dg5f05t6/Star-Sports-Select-2-HD.jpg"group-title="Sports",Star Sports Select 2 HD 
+http://103.157.248.140:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Sports",Star Sports 3
+http://103.157.248.140:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title="TATA PLAY TV CHANNELS LIST",Romedy NOW 
+http://103.157.248.140:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title="TATA PLAY TV CHANNELS LIST",MOVIES NOW HD
+http://103.157.248.140:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",& pictures HD
+http://103.157.248.140:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",& TV HD 
+http://103.157.248.140:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",&FLIX HD
+http://103.157.248.140:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Zee Cinema HD 
+http://103.157.248.140:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Z TV HD 
+http://103.157.248.140:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Z Business 
+http://103.157.248.140:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Zee TV
+http://103.157.248.140:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",MTV HD
+http://103.157.248.140:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD
+http://103.157.248.140:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" group-title="Movies",Colors Cineplex Bollywood
+http://103.157.248.140:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Documentary",History TV18 HD (1080p)
+http://103.157.248.140:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",ID
+http://103.157.248.140:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery HD 
+http://103.157.248.140:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery Turbo 
+http://103.157.248.140:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery Science 
+http://103.157.248.140:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",TCL
+http://103.157.248.140:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",National Geographic Wild HD
+http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",National Geographic HD (1080p)
+http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",EURO SPORT HD
+http://103.157.248.140:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Nick Jr. (576p)
+http://103.157.248.140:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Nickelodeon 
+http://103.157.248.140:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
+http://103.157.248.140:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Asianet HD 
+http://103.157.248.140:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="Animation;General;Kids",BBC Four/CBeebies (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-id="BBCKids.us@SD" tvg-logo="https://i.imgur.com/vKUD64a.png" group-title="Kids",BBC Kids (720p)
+https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Animation;Family;Kids",BBC Three/CBBC (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk@SD" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="Kids",CBBC HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png" group-title="Kids",CBeebies HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney Channel (576p)
+http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel (576p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (576p)
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel (1080p)
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids",Disney Channel East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney International HD (1080p)
+http://116.90.120.151:8000/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.tr@SD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Animation;Kids",Disney Jr. (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="DisneyJunior.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Junior (576p)
+https://bbb.exoadash.com/TVD1561/index.mpd
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Junior (1080i)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="Kids",Hungama TV (576p)
+https://mini.allinonereborn.fun/tata.php?id=11647
+#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids",Minimax (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" group-title="Kids",Nick HD+ (1080p)
+http://103.72.101.252:8080/live/1226.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr. (576p)
+http://103.72.101.252:8080/live/544.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (576p)
+http://103.72.101.252:8080/live/545.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="Animation;Kids",Sony Yay! (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
+#EXTINF:-1 tvg-id="AnimationPlus.us@SD" tvg-logo="https://i.imgur.com/OIFK6JB.png" group-title="Animation",Animation+ (1080p) [Geo-blocked]
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Animax.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/960px-Animax_logo.svg.png" http-referrer="https://utako.moe" group-title="Animation",Animax (576p)
+#EXTVLCOPT:http-referrer=https://utako.moe
+https://nl.utako.moe/Animax/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",USA
+https://dvrfl04.tulix.tv/teleup-usa/mpegtshttp://85.117.37.41/cnn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",AXN HD
+http://58.147.140.106:4000/play/a0el/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",AXN
+http://181.13.252.102:8000/play/a05f/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Bloomberg
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",HITS 
+http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",HBO HD
+https://hls.iill.top/api/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",HBO family HD
+https://hls.iill.top/api/HBO-Family/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",HBO Signature HD
+https://hls.iill.top/api/HBO-Signature/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",CINEMAX
+http://179.60.51.134:8888/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO",Cinemax
+http://23.88.66.93/Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",HBO Hits
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png" group-title="Entertainment",DD Arun Prabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="Entertainment",DD Kisan
@@ -1361,143 +1541,3 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8?ads.vf=2CLHl7hmvGC
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom (720p)
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-EXTINF:-1 group-title="Movies",&xplor HD HD #36903 
-https://mini.allinonereborn.fun/tata.php?id=11619
-EXTINF:-1 group-title="Movies",&PRIVE HD Tata Play 
-https://mini.allinonereborn.fun/tata.php?id=11618
-#EXTINF:-1 group-title="Sports",USA (English)
-https://dvrfl04.tulix.tv/teleup-usa/mpegtshttp://85.117.37.41/cnn/index.m3u8
-#EXTINF:-1 group-title="Entertainment",USA (English)
-https://dvrfl04.tulix.tv/teleup-usa/mpegtshttp://85.117.37.41/cnn/index.m3u8
-#EXTINF:-1 group-title="HBO",AXN HD
-http://58.147.140.106:4000/play/a0el/index.m3u8
-#EXTINF:-1 group-title="HBO",AXN
-http://181.13.252.102:8000/play/a05f/index.m3u8?hls
-#EXTINF:-1 group-title="HBO",Bloomberg
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 group-title="HBO",Bloomberg Asia
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 group-title="HBO",HITS 
-http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO HD
-https://hls.iill.top/api/HBO/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO family HD
-https://hls.iill.top/api/HBO-Family/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Signature HD
-https://hls.iill.top/api/HBO-Signature/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Hits
-https://hls.iill.top/api/HBO-Hits/index.m3u8 
-#EXTINF:-1 group-title="HBO",CINEMAX
-http://179.60.51.134:8888/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="HBO",Cinemax
-http://23.88.66.93/Cinemax/index.m3u8
-#EXTINF:-1 group-title="HBO",Cinemax
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Movies
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO Hits
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",History TV HD
-http://103.157.248.140:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony BBC Earth HD
-http://103.157.248.140:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold Select HD
-http://103.157.248.140:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",& pictures HD
-http://103.157.248.140:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",& TV HD 
-http://103.157.248.140:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold Romance 
-http://103.157.248.140:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",TCL
-http://103.157.248.140:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony Max 
-http://103.157.248.140:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 2 Hindi HD
-http://103.157.248.140:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Nickelodeon 
-http://103.157.248.140:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Z TV HD 
-http://103.157.248.140:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",MTV HD
-http://103.157.248.140:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony Sports 2 HD
-http://103.157.248.140:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony PIX HD 
-http://103.157.248.140:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Movies Select HD 
-http://103.157.248.140:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Movies HD
-http://103.157.248.140:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",&FLIX HD
-http://103.157.248.140:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony SAB 
-http://103.157.248.140:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Z Business 
-http://103.157.248.140:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony Entertainment Television HD
-http://103.157.248.140:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Plus HD 
-http://103.157.248.140:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 1 HD
-http://103.157.248.140:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Colors HD
-http://103.157.248.140:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",National Geographic Wild HD
-http://103.157.248.140:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",National Geographic HD (1080p)
-http://103.157.248.140:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",EURO SPORT HD
-http://103.157.248.140:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",ID
-http://103.157.248.140:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Romedy NOW 
-http://103.157.248.140:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery HD 
-http://103.157.248.140:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery Science 
-http://103.157.248.140:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold Thrills (576p)
-http://103.157.248.140:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sony SAB HD 
-http://103.157.248.140:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold HD 
-http://103.157.248.140:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold 2
-http://103.157.248.140:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 1 Hindi 
-http://103.157.248.140:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 3
-http://103.157.248.140:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Zee TV
-http://103.157.248.140:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Nick Jr. (576p)
-http://103.157.248.140:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Sonic 
-http://103.157.248.140:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports Select 1 HD 
-http://103.157.248.140:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports Select 2 HD 
-http://103.157.248.140:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Zee Cinema HD 
-http://103.157.248.140:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Asianet HD 
-http://103.157.248.140:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Discovery Turbo 
-http://103.157.248.140:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",MOVIES NOW HD
-http://103.157.248.140:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Colors Cineplex Bollywood SD 
-http://103.157.248.140:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Colors Cineplex HD
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Gold 2 HD (1080p)
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 2 Tamil HD
-http://103.229.254.25:7001/play/a0d1/index.m3u8
-#EXTINF:-1 group-title="TATA PLAY TV CHANNELS LIST",Star Sports 2 HD 
-https://mini.allinonereborn.fun/tata.php?id=11819

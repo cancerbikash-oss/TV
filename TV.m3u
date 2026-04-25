@@ -289,29 +289,29 @@ http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxN1NHWr/TV-2025-svg.png" group-title="Entertainment",& TV
 http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Aaj Entertainment HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DffHpft9/Aan-TV.jpg" group-title="Entertainment",Aan TV HD
 http://maxotts.maxdigitaltv.com/x-media/C125/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",ARY
 http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vpr3XLw2/Venus-Entertainment.jpg" group-title="Entertainment",V HD (Venus Entertainment)
 http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoons",LTN Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fk5Gfj4y/LTN-Family-HD.jpg" group-title="Entertainment",LTN Family
 http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",DD National HD
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://i.ibb.co/9HQDKPvN/DD-National-HD.jpg" group-title="Entertainment",DD National HD
 http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",DD Bharati
+#EXTINF:-1 tvg-logo="tvg-id="DDBharati.in@SD" tvg-logo="https://i.imgur.com/4tfUIEo.png" " group-title="Entertainment",DD Bharati
 http://maxotts.maxdigitaltv.com/x-media/C43/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",PTC Punjabi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VbbvySw/PTC-PUNJABI.png" group-title="Entertainment",PTC Punjabi
 http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Dangal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vn0yYpt/Dangal-TVLogo.png" group-title="Entertainment",Dangal
 http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Anjan
+#EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Entertainment",Anjan TV
 http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",& Zoom
+#EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://i.ibb.co/62mBvFv/Zoom-TV.png" group-title="Music",Zoom
 http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",9XM
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://i.ibb.co/MD0fHDMk/9XM.png" group-title="Music",9XM
 http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",M TV
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="" group-title="Music",M TV
 http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",YRF Music
 http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
@@ -427,9 +427,13 @@ http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Madani TV
 http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Fashiom",Fashion TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMdBCjv9/Fashion-TV-HD.jpg" group-title="Fashiom",Fashion TV
 http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
 
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png" group-title="Entertainment",DD Arun Prabha
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="Entertainment",DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
 #EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="General",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepal",Kantipur TV

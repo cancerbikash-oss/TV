@@ -101,7 +101,7 @@ http://maxotts.maxdigitaltv.com/x-media/C163/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C164/master.m3u8
 #EXTINF:-1 tvg-id="DeepTV.np@SD" tvg-logo="https://i.imgur.com/rTFr6JN.jpg" group-title="Nepal",Deep Telivision HD
 http://maxotts.maxdigitaltv.com/x-media/C165/master.m3u8
-#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png",Capital TV HD
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="Nepal",Capital TV HD
 http://maxotts.maxdigitaltv.com/x-media/C166/master.m3u8
 #EXTINF:-1 tvg-id="BagmatiTV.np@SD" tvg-logo="https://i.imgur.com/2K6qEvh.jpg"group-title="Nepal",Bagmati TV HD
 http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8

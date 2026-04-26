@@ -319,31 +319,31 @@ http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
 #EXTINF:-1 tvg-id="StingrayKaroke.ca@SD" tvg-logo="https://i.ibb.co/qFL9P0BZ/Stingray-Karaoke.png" group-title="Music",Stingray Karaoke
 http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Zee BIhar Jharkhand
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="News",Zee BIhar Jharkhand
 http://maxotts.maxdigitaltv.com/x-media/C21/master.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" group-title="News",ABP News
 http://maxotts.maxdigitaltv.com/x-media/C52/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",INDIA TV
+#EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png" group-title="News",INDIA TV
 http://maxotts.maxdigitaltv.com/x-media/C53/master.m3u8
-
 #EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="News",Z News
 http://maxotts.maxdigitaltv.com/x-media/C32/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",News18 India
+#EXTINF:-1 tvg-id="News18India.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png" group-title="News",News18 India
 http://maxotts.maxdigitaltv.com/x-media/C44/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="News", AAJ TAK
 http://maxotts.maxdigitaltv.com/x-media/C110/master.m3u8
-
 #EXTINF:-1 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="News",Z Business
 http://maxotts.maxdigitaltv.com/x-media/C139/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NDTV
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" group-title="News",NDTV
 http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX Now
+#EXTINF:-1 tvg-id="SkySportsNews.uk@HD" tvg-logo="https://i.ibb.co/WpFr0C2x/Sky-sports-main-event.jpg" group-title="Sports",SKY Sports News
+http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
+#EXTINF:-1 tvg-id="LiveNowFox.us@SD" tvg-logo="https://i.ibb.co/v64Kdp2b/Live-NOW-from-FOX.png" group-title="News",FOX Now
 http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", CGTN
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://i.ibb.co/v64Kdp2b/Live-NOW-from-FOX.png" group-title="News", CGTN
 http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", TV5 MONDE
 http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",AL JAZEERA 
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.ibb.co/sp55r0c8/Al-Jazeera-HD.jpg" group-title="News",AL JAZEERA 
 http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NHK World Japan 
 http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
@@ -367,8 +367,7 @@ http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",XZTV
 http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",SKY Sports News
-http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
+
 
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="" group-title="Sports",Sony Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8

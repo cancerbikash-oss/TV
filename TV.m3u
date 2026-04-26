@@ -270,7 +270,7 @@ http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C109/master.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.ibb.co/v6STtfNZ/sony-Max-2.png" group-title="Movies",Sony Max 2
 http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" tvg-logo="https://i.ibb.co/bjkm0pjs/Colors-Cineplex-Superhits.jpg" group-title="Movies",Colors Cineplex Superhits - DD Free Dish
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" tvg-logo="https://i.ibb.co/bjkm0pjs/Colors-Cineplex-Superhits.jpg" group-title="Movies",Colors Cineplex Superhits
 http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://i.ibb.co/TBNk7KXD/Goldmines-Movies.jpg" group-title="Movies",Goldmines Movies
 http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
@@ -341,33 +341,32 @@ http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://i.ibb.co/v64Kdp2b/Live-NOW-from-FOX.png" group-title="News", CGTN
 http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", TV5 MONDE
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@HD" tvg-logo="https://i.ibb.co/pB2V0Wcy/Logo-TV5-Monde-2021-svg.png" group-title="News", TV5 MONDE
 http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.ibb.co/sp55r0c8/Al-Jazeera-HD.jpg" group-title="News",AL JAZEERA 
 http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NHK World Japan 
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News",NHK World Japan 
 http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", DW 
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" group-title="News", DW
 http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",TRT WORLD
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://i.ibb.co/VYSH9QRp/TRT-World.jpg" group-title="News",TRT WORLD
 http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CNA
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",CNA
 http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",RT
+#EXTINF:-1 tvg-id="RT.ru@HD" tvg-logo="https://i.ibb.co/TxggHHX9/Russia-today-logo-svg.png" group-title="News",RT
 http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",Arirang
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News",Arirang
 http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",France 24
+#EXTINF:-1 tvg-id="France24.fr@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24
 http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News
 http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Euro News.
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euro News
 http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Rakuten TV
 http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",XZTV
 http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
-
 
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="" group-title="Sports",Sony Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8

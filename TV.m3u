@@ -85,7 +85,7 @@ http://maxotts.maxdigitaltv.com/x-media/C149/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C150/master.m3u8
 #EXTINF:-1 tvg-id="KasthamandapTelevision.np@SD" tvg-logo="https://i.imgur.com/SZkkBm8.jpeg" group-title="Nepal",Kasthamandap Television
 http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
-#EXTINF:-1 tvg-id="Yestv.np@SD" tvg-logo="https://i.ibb.co/yFcnQF21/YES-BC-TV.png" group-title="Nepal",YES BC
+#EXTINF:-1 tvg-id="Yestv.np@SD" tvg-logo="https://i.ibb.co/yFcnQF21/YES-BC-TV.png" group-title="Nepal",YES TV
 http://maxotts.maxdigitaltv.com/x-media/C152/master.m3u8
 #EXTINF:-1 tvg-id="SaptarangiTelevision.np@SD" tvg-logo="https://i.ibb.co/BVRX4SV5/Saptarangi-TV.jpg" group-title="Nepal",Saptarangi Television HD
 http://maxotts.maxdigitaltv.com/x-media/C154/master.m3u8
@@ -363,20 +363,20 @@ http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euro News
 http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Rakuten TV
+#EXTINF:-1 tvg-id="RakutenTV.uk@SD" tvg-logo="https://i.ibb.co/xbXdfv1/Rakuten-TV-Logo-W.png" group-title="Movies",Rakuten TV
 http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",XZTV
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.ibb.co/zV6m1nkB/XZTV-1-logo.webp" group-title="Entertainment",XZTV
 http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="" group-title="Sports",Sony Sports 1 HD
+tvg-id="@SD" tvg-logo=""
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://i.ibb.co/0RX9ySHP/Sony-Sports-Ten-1-HD.png" group-title="Sports",Sony Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports 2 HD
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://i.ibb.co/MKnp8VP/Sony-Sports-Ten-2-HD.png" group-title="Sports",Sony Sports 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8	
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sony Sports 3 Hindi HD
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://i.ibb.co/N2YqzP3w/Sony-Ten-3-HD-Hindi.png" group-title="Sports",Sony Sports 3 Hindi HD
 http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Sports 5 HD
+#EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://i.ibb.co/wN25f6X3/Sony-Sports-Ten-5-HD.png" group-title="Sports",Sony Sports 5 HD
 http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",PTV Sports HD
+#EXTINF:-1 tvg-id="PTVSports.pk@SD" tvg-logo="https://i.ibb.co/CXXxTyf/PTV-Sports-1.png" group-title="Sports",PTV Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",A Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8

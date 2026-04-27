@@ -415,23 +415,23 @@ http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
 #EXTINF:-1 tvg-id="Hooray!Rhymes.pk" tvg-logo="https://i.ibb.co/7dGYNVCC/Hooray-Rhymes-roku.jpg" group-title="Kids",Hooray! Rhymes
 http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="Religious",Aastha TV
+#EXTINF:-1 tvg-id="Aastha.in" tvg-logo="https://i.imgur.com/IqgrV92.png"  group-title="Religious",Aastha TV
 http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Sanskar TV
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143713_ld_h15_aa.png?lock=720x540" group-title="Religious",Sanskar TV
 http://maxotts.maxdigitaltv.com/x-media/C28/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Satsang TV
+#EXTINF:-1 tvg-id="SatsangTV.in" tvg-logo="https://dtil.tmsimg.com/assets/s143766_ld_h15_aa.png?lock=720x540" group-title="Religious",Satsang TV
 http://maxotts.maxdigitaltv.com/x-media/C29/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Peace of Mind
+#EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png" group-title="Religious",Peace of Mind
 http://maxotts.maxdigitaltv.com/x-media/C50/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Sadhana Gold
+#EXTINF:-1 tvg-id="Sadhna.in@SD" tvg-logo="https://i.ibb.co/mrn0SZ4n/Sadhana-Gold.png" group-title="Religious",Sadhna Gold
 http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Peace TV Urdu
+#EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="Religious",Peace TV Urdu
 http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",EWTN 
+#EXTINF:-1 tvg-id="EWTN.us@SD" tvg-logo="https://i.ibb.co/0VVr9sX7/EWTN.jpg" group-title="Religious",EWTN 
 http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious",Madani TV
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious",Madani TV
 http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nMdBCjv9/Fashion-TV-HD.jpg" group-title="Fashiom",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-logo="https://i.ibb.co/DgsrpQ6D/Fashion-TV.webp" group-title="Fashiom",Fashion TV
 http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
 
 tvg-id="" tvg-logo="" group-title="Entertainment",

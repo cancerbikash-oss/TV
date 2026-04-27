@@ -274,6 +274,8 @@ http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://i.ibb.co/TBNk7KXD/Goldmines-Movies.jpg" group-title="Movies",Goldmines Movies
 http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTV.uk@SD" tvg-logo="https://i.ibb.co/xbXdfv1/Rakuten-TV-Logo-W.png" group-title="Movies",Rakuten TV
+http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
 tvg-id="@SD" tvg-logo=""
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://i.ibb.co/HTLX5Fkr/Sony-Entertainment-Television.png" group-title="Entertainment",Sony Entertainment Television HD
 http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
@@ -307,6 +309,8 @@ http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Entertainment",Anjan TV
 http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.ibb.co/zV6m1nkB/XZTV-1-logo.webp" group-title="Entertainment",XZTV
+http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
 tvg-id="" tvg-logo="
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://i.ibb.co/62mBvFv/Zoom-TV.png" group-title="Music",Zoom
 http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
@@ -335,7 +339,7 @@ http://maxotts.maxdigitaltv.com/x-media/C110/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C139/master.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" group-title="News",NDTV
 http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.uk@HD" tvg-logo="https://i.ibb.co/WpFr0C2x/Sky-sports-main-event.jpg" group-title="Sports",SKY Sports News
+#EXTINF:-1 tvg-id="SkySportsNews.uk@HD" tvg-logo="https://i.ibb.co/WpFr0C2x/Sky-sports-main-event.jpg" group-title="News",SKY Sports News
 http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
 #EXTINF:-1 tvg-id="LiveNowFox.us@SD" tvg-logo="https://i.ibb.co/v64Kdp2b/Live-NOW-from-FOX.png" group-title="News",FOX Now
 http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
@@ -363,10 +367,7 @@ http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euro News
 http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTV.uk@SD" tvg-logo="https://i.ibb.co/xbXdfv1/Rakuten-TV-Logo-W.png" group-title="Movies",Rakuten TV
-http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
-#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.ibb.co/zV6m1nkB/XZTV-1-logo.webp" group-title="Entertainment",XZTV
-http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
+
 tvg-id="@SD" tvg-logo=""
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://i.ibb.co/0RX9ySHP/Sony-Sports-Ten-1-HD.png" group-title="Sports",Sony Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
@@ -378,41 +379,41 @@ http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk@SD" tvg-logo="https://i.ibb.co/CXXxTyf/PTV-Sports-1.png" group-title="Sports",PTV Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",A Sports HD
+#EXTINF:-1 tvg-id=""ASports.pk@SD" tvg-logo="https://i.ibb.co/k2dcD8zc/A-Sports.png" group-title="Sports",A Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",DD Sports HD
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://i.ibb.co/8VxG99C/DD-SPORTS.jpg" group-title="Sports",DD Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-logo="https://i.ibb.co/67JrqY1j/Discovery-Science.jpg" group-title="Adventure",Discovery Science
 http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Discovery HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Adventure",Discovery HD
 http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Sony BB Earth HD
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540"  group-title="Adventure",Sony BBC Earth HD
 http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Discovery Kids
-http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Adventure",Animal Planet HD
 http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",TCL HD
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Adventure",TLC HD
 http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Adventure",History TV HD
 http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-logo="https://i.ibb.co/2YS5K4MY/Discovery-Turbo-svg.png" group-title="Adventure",Discovery Turbo
 http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",RT Documentry
+#EXTINF:-1 tvg-id="RTDocumentry.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Adventure",RT Documentry
 http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Adventure",Stingray Holiday Scapes
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x100" group-title="Adventure",Stingray Holiday Scapes
 http://maxotts.maxdigitaltv.com/x-media/C101/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",POGO
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
+http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
+#EXTINF:-1 tvg-id="Pogo.in" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" group-title="Kids",POGO
 http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cartoon Channel
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel
 http://maxotts.maxdigitaltv.com/x-media/C102/master.m3u8	
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cartoon Network + HD
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Kids",Cartoon Network + HD
 http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",Nick
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540" group-title="Kids",Nick
 http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",S Kids Zone HD
+#EXTINF:-1 tvg-id="KidsZone.pk" tvg-logo="https://i.imgur.com/mJWBVH1.png" group-title="Kids",S Kids Zone HD
 http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Hooray! Rhymes
+#EXTINF:-1 tvg-id="Hooray!Rhymes.pk" tvg-logo="https://i.ibb.co/7dGYNVCC/Hooray-Rhymes-roku.jpg" group-title="Kids",Hooray! Rhymes
 http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="Religious",Aastha TV
 http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8

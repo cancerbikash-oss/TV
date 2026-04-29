@@ -343,7 +343,7 @@ http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C18/master.m3u8
 #EXTINF:-1 tvg-id="LiveNowFox.us@SD" tvg-logo="https://i.ibb.co/v64Kdp2b/Live-NOW-from-FOX.png" group-title="News",FOX Now
 http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://i.ibb.co/v64Kdp2b/Live-NOW-from-FOX.png" group-title="News", CGTN
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="News", CGTN
 http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@HD" tvg-logo="https://i.ibb.co/pB2V0Wcy/Logo-TV5-Monde-2021-svg.png" group-title="News", TV5 MONDE
 http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8

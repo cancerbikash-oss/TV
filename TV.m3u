@@ -247,7 +247,6 @@ http://maxotts.maxdigitaltv.com/x-media/C204/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C205/master.m3u8
 #EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.206
 http://maxotts.maxdigitaltv.com/x-media/C206/master.m3u8
-tvg-logo=""
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://i.ibb.co/zTk3YQLq/Bhojpuri-Cinema-logo.png" group-title="Movies",Bhojpuri Cinema
 http://maxotts.maxdigitaltv.com/x-media/C19/master.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.ibb.co/VphWsdyW/B4-U-Bhojpuri.png" group-title="Movies",B4U Bhojpuri
@@ -276,7 +275,6 @@ http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTV.uk@SD" tvg-logo="https://i.ibb.co/xbXdfv1/Rakuten-TV-Logo-W.png" group-title="Movies",Rakuten TV
 http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
-tvg-id="@SD" tvg-logo=""
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://i.ibb.co/HTLX5Fkr/Sony-Entertainment-Television.png" group-title="Entertainment",Sony Entertainment Television HD
 http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://i.ibb.co/CKCL95f2/Sony-Sab-HD.png" group-title="Entertainment",Sony SAB HD
@@ -311,7 +309,6 @@ http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.ibb.co/zV6m1nkB/XZTV-1-logo.webp" group-title="Entertainment",XZTV
 http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
-tvg-id="" tvg-logo="
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://i.ibb.co/62mBvFv/Zoom-TV.png" group-title="Music",Zoom
 http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://i.ibb.co/MD0fHDMk/9XM.png" group-title="Music",9XM
@@ -322,7 +319,6 @@ http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
 #EXTINF:-1 tvg-id="StingrayKaroke.ca@SD" tvg-logo="https://i.ibb.co/qFL9P0BZ/Stingray-Karaoke.png" group-title="Music",Stingray Karaoke
 http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
-
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="News",Zee BIhar Jharkhand
 http://maxotts.maxdigitaltv.com/x-media/C21/master.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" group-title="News",ABP News
@@ -367,8 +363,6 @@ http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euro News
 http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
-
-tvg-id="@SD" tvg-logo=""
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://i.ibb.co/0RX9ySHP/Sony-Sports-Ten-1-HD.png" group-title="Sports",Sony Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://i.ibb.co/MKnp8VP/Sony-Sports-Ten-2-HD.png" group-title="Sports",Sony Sports 2 HD
@@ -618,7 +612,6 @@ https://cdn.abra.stream/M-News/tracks-v1/index.fmp4.m3u8
 https://video.primexsports.com/suchnews/live/chunklist.m3u8
 #EXTINF:-1 tvg-id=" TVToday.pk" tvg-logo=" https://i.imgur.com/MYoosNo.png" group-title="Pakistan", TV Today
 https://sscsott.com/tvtodaynews/live/tracks-v1/index.fmp4.m3u8
-
 tvg-id="" tvg-logo="" group-title="Entertainment",
 
 #EXTINF:-1 tvg-id="JooMusic.pk@HD" tvg-logo="https://i.ibb.co/cSm1bDzn/Joo-Music.png" group-title="Music",Joo Music
@@ -904,6 +897,7 @@ https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="BigMagic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540" group-title="Entertainment",Big Magic (576p)
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Movies" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",Bollywood Classic (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.vf=QzgeokcHKvy
@@ -912,7 +906,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.vf=QzgeokcHKvy
 #EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",Bollywood HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
 
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8

@@ -433,6 +433,45 @@ http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
 #EXTINF:-1 tvg-id="FashionTV.in" tvg-logo="https://i.ibb.co/DgsrpQ6D/Fashion-TV.webp" group-title="Fashiom",Fashion TV
 http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
+Country Nepal
+#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepal",Public 4K TV
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepal",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="Nepal",Capital TV 
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="General",Capital TV
+https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="General",Capital TV
+https://streaming.tvnepal.com:19360/capitaltv/360p.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Nepal",Divya Darshan TV 
+http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV 
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Nepal",Indigenous Television 
+https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="Nepal",Mithila Nepal TV 
+http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepal",Nepal 1
+https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
+#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Entertainment",Nepal 1
+https://cdn-6.pishow.tv/live/1490/master.m3u8
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Entertainment",MTV HD (1080p)
+http://103.157.248.140:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic HD (1080p)
+http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild HD (1080p)
+http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (576p)
+http://103.157.248.140:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr. (576p)
+http://103.157.248.140:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+
+
 
 Pakistan TV - Website
 #EXTINF:-1 tvg-id="AajEntertainment.pk" tvg-logo="https://i.imgur.com/WK5Cqap.png " group-title="Entertainment",Aaj Entertainment
@@ -769,50 +808,6 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="Entertainment",DD Kisan
 https://cdn-6.pishow.tv/live/9/master.m3u8
-#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="General",Public 4K TV
-http://103.180.240.141:8080/hls/main1/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepal",Kantipur TV
-http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepal",Kantipur TV
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepal",Kantipur TV
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
-#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="Nepal",Capital TV 
-https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="General",Capital TV
-https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
-#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="General",Capital TV
-https://streaming.tvnepal.com:19360/capitaltv/360p.m3u8
-#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Nepal",Divya Darshan TV 
-http://live.divyadarshantv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Nepal",Divya Darshan TV 
-https://live.divyadarshantv.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Nepal",Indigenous Television 
-https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="Nepal",Mithila Nepal TV 
-http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepal",Nepal 1
-https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
-#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Entertainment",Nepal 1
-https://cdn-6.pishow.tv/live/1490/master.m3u8
-#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Entertainment",MTV (1080p)
-http://103.72.101.252:8080/live/248.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Entertainment",MTV HD (1080p)
-http://103.72.101.252:8080/live/1145.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Entertainment",MTV HD (1080p)
-http://103.157.248.140:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic HD (1080p)
-http://103.157.248.140:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild HD (1080p)
-http://103.157.248.140:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (576p)
-http://103.157.248.140:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr. (576p)
-http://103.157.248.140:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr. (576p)
-http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (576p)
-http://103.229.254.25:7001/play/a0dl/index.m3u8
 
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies (576p)
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8

@@ -479,30 +479,55 @@ http://maxotts.maxdigitaltv.com/x-media/C237/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C238/master.m3u8
 #EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.239
 http://maxotts.maxdigitaltv.com/x-media/C239/master.m3u8
+#EXTINF:-1 tvg-id="SuperSportsNews.al@HD" tvg-logo="https://i.ibb.co/wh4x8fQC/Super-Sport-Albania-svg.png" group-title="Sports",Super Sports News
 http://maxotts.maxdigitaltv.com/x-media/C240/master.m3u8
+#EXTINF:-1 tvg-id="CNN.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png" group-title="News",CNN
 http://maxotts.maxdigitaltv.com/x-media/C241/master.m3u8
+#EXTINF:-1 tvg-id="MegaTV.np@HD" tvg-logo="https://i.ibb.co/jk9cGN5q/Mega-TV-HD.jpg" group-title="Nepal",Mega TV HD
 http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8
+#EXTINF:-1 tvg-id="SuperSportsNews.al@HD" tvg-logo="https://i.ibb.co/wh4x8fQC/Super-Sport-Albania-svg.png" group-title="Sports",Super Sports News
 http://maxotts.maxdigitaltv.com/x-media/C243/master.m3u8
+#EXTINF:-1 tvg-id="SuperSport4.al@HD" tvg-logo="https://i.imgur.com/ZF70zIL.png" group-title="Sports",SuperSport 4
 http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
+#EXTINF:-1 tvg-id="SuperSport2.al@HD" tvg-logo="https://i.imgur.com/yXXCTh9.png" group-title="Sports",SuperSport 2
 http://maxotts.maxdigitaltv.com/x-media/C245/master.m3u8
+#EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="Entertainment",aurLife HD
 http://maxotts.maxdigitaltv.com/x-media/C246/master.m3u8
+#EXTINF:-1 tvg-id="MNX.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" group-title="Movies",MNX HD
 http://maxotts.maxdigitaltv.com/x-media/C247/master.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C248/master.m3u8
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="Nepal",Mithila Nepal TV 
 http://maxotts.maxdigitaltv.com/x-media/C249/master.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://i.imgur.com/ZY71cCY.png" group-title="Sports",ESPN
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo Umang
 http://maxotts.maxdigitaltv.com/x-media/C252/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo TV
 http://maxotts.maxdigitaltv.com/x-media/C253/master.m3u8
+#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="Entertainment",Dangal 2
 http://maxotts.maxdigitaltv.com/x-media/C254/master.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="Music",Music India
 http://maxotts.maxdigitaltv.com/x-media/C255/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" group-title="Music",Sangeet Bhojpuri
 http://maxotts.maxdigitaltv.com/x-media/C256/master.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Cooking;Lifestyle",Food Food
 http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://i.imgur.com/ZY71cCY.png" group-title="Sports",ESPN
 http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2
 http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.239
 http://maxotts.maxdigitaltv.com/x-media/C260/master.m3u8
+#EXTINF:-1 tvg-id="RongeenTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RONGEEN_TV/images/LOGO_HD/image.png" group-title="",Rongeen TV
 http://maxotts.maxdigitaltv.com/x-media/C261/master.m3u8
+#EXTINF:-1 tvg-id="ARYNews.pk@Pakistan" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="News",ARY News
 http://maxotts.maxdigitaltv.com/x-media/C262/master.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",Fight Box HD
 http://maxotts.maxdigitaltv.com/x-media/C263/master.m3u8
+#EXTINF:-1 tvg-id="NinjaWorrior.uk@HD" tvg-logo="https://i.ibb.co/RTq6P1BB/AAAABVVkzo-PRCMh-S4-Tc-Lo-D6l-NJk-DCfrub-HYWy-Ru6-Dysu1pf-Lkgio7-RZrj-AJqmada9lcp-Pl-De-Ani4du-NDmrbx-I.png" group-title="Sports",NinJa Worrior
 http://maxotts.maxdigitaltv.com/x-media/C264/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C265/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C266/master.m3u8

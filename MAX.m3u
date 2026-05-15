@@ -383,53 +383,101 @@ http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@SD" tvg-logo="https://i.ibb.co/0VVr9sX7/EWTN.jpg" group-title="Religious",EWTN 
 http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in@SD"" tvg-logo="https://i.ibb.co/VbbvySw/PTC-PUNJABI.png" group-title="Entertainment",PTC Punjabi
 http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.ibb.co/zV6m1nkB/XZTV-1-logo.webp" group-title="Entertainment",XZTV
 http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious",Madani TV
 http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.195
 http://maxotts.maxdigitaltv.com/x-media/C195/master.m3u8
+#EXTINF:-1 tvg-id="TeamTV.np@SD" tvg-logo="https://i.ibb.co/jPT6BJN7/TEAM-TV.png" group-title="Nepal",TEAM HD
 http://maxotts.maxdigitaltv.com/x-media/C196/master.m3u8
+#EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
+#EXTINF:-1 tvg-id="PrimeTimes.np@SD" tvg-logo="https://i.imgur.com/Y2wW70P.png" group-title="Nepal",Prime Television HD
 http://maxotts.maxdigitaltv.com/x-media/C198/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.199
 http://maxotts.maxdigitaltv.com/x-media/C199/master.m3u8
+#EXTINF:-1 tvg-id="Pogo.in" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" group-title="Kids",POGO
 http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.201
 http://maxotts.maxdigitaltv.com/x-media/C201/master.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Adventure",History TV HD
 http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.203
 http://maxotts.maxdigitaltv.com/x-media/C203/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.204
 http://maxotts.maxdigitaltv.com/x-media/C204/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.205
 http://maxotts.maxdigitaltv.com/x-media/C205/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.206
 http://maxotts.maxdigitaltv.com/x-media/C206/master.m3u8
+#EXTINF:-1 tvg-id="RodhiTV.np@SD" tvg-logo="https://i.ibb.co/sJF4ptGL/RODHI-TV.png" group-title="Nepal",Rodhi TV
 http://maxotts.maxdigitaltv.com/x-media/C207/master.m3u8
+#EXTINF:-1 tvg-id="SamataTV.np@SD" tvg-logo="https://i.ibb.co/1GV6Rjf3/Samata-TV-HD.png" group-title="Nepal",Samata TV
 http://maxotts.maxdigitaltv.com/x-media/C208/master.m3u8
+#EXTINF:-1 tvg-id="CityOneTelevision.np@SD" tvg-logo="https://i.imgur.com/AxBreI5.png" group-title="Nepal",City One Television HD 
 http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
+#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepal",Public 4K TV
 http://maxotts.maxdigitaltv.com/x-media/C210/master.m3u8
+#EXTINF:-1 tvg-id="BuddhaTV.np@SD" tvg-logo="https://i.imgur.com/5bk2qRU.jpeg" group-title="Nepal",Buddha TV HD
 http://maxotts.maxdigitaltv.com/x-media/C211/master.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk@SD" tvg-logo="https://i.ibb.co/CXXxTyf/PTV-Sports-1.png" group-title="Sports",PTV Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
+#EXTINF:-1 tvg-id=""ASports.pk@SD" tvg-logo="https://i.ibb.co/k2dcD8zc/A-Sports.png" group-title="Sports",A Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://i.ibb.co/8VxG99C/DD-SPORTS.jpg" group-title="Sports",DD Sports HD
 http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.215
 http://maxotts.maxdigitaltv.com/x-media/C215/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.216
 http://maxotts.maxdigitaltv.com/x-media/C216/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.217
 http://maxotts.maxdigitaltv.com/x-media/C217/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.218
 http://maxotts.maxdigitaltv.com/x-media/C218/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.219
 http://maxotts.maxdigitaltv.com/x-media/C219/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.220
 http://maxotts.maxdigitaltv.com/x-media/C220/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.221
 http://maxotts.maxdigitaltv.com/x-media/C221/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.222
 http://maxotts.maxdigitaltv.com/x-media/C222/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.223
 http://maxotts.maxdigitaltv.com/x-media/C223/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.224
 http://maxotts.maxdigitaltv.com/x-media/C224/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.225
 http://maxotts.maxdigitaltv.com/x-media/C225/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.226
 http://maxotts.maxdigitaltv.com/x-media/C226/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.227
 http://maxotts.maxdigitaltv.com/x-media/C227/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.228
 http://maxotts.maxdigitaltv.com/x-media/C228/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.229
 http://maxotts.maxdigitaltv.com/x-media/C229/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.230
 http://maxotts.maxdigitaltv.com/x-media/C230/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.231
 http://maxotts.maxdigitaltv.com/x-media/C231/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.232
 http://maxotts.maxdigitaltv.com/x-media/C232/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.233
 http://maxotts.maxdigitaltv.com/x-media/C233/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.234
 http://maxotts.maxdigitaltv.com/x-media/C234/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.235
 http://maxotts.maxdigitaltv.com/x-media/C235/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.236
 http://maxotts.maxdigitaltv.com/x-media/C236/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.237
 http://maxotts.maxdigitaltv.com/x-media/C237/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.238
 http://maxotts.maxdigitaltv.com/x-media/C238/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.239
 http://maxotts.maxdigitaltv.com/x-media/C239/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C240/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C241/master.m3u8
@@ -898,7 +946,7 @@ http://maxotts.maxdigitaltv.com/x-media/C703/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C704/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C705/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C706/master.m3u8
-#EXTINF:-1 tvg-id="HimalayaSports.np@HD" tvg-logo="https://i.ibb.co/MD6ycv7h/Himalayan-Sports-HD.jpg" group-title="Nepal",Himalaya Sports
+#EXTINF:-1 tvg-id="HimalayaSports.np@HD" tvg-logo="https://i.ibb.co/MD6ycv7h/Himalayan-Sports-HD.jpg" group-title="Nepal",Himalayan Sports
 http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C708/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C709/master.m3u8

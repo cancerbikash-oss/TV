@@ -77,6 +77,8 @@ http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C37/master.m3u8
 #EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.38
 http://maxotts.maxdigitaltv.com/x-media/C38/master.m3u8
+#EXTINF:-1 tvg-id="Hooray!Rhymes.pk" tvg-logo="https://i.ibb.co/7dGYNVCC/Hooray-Rhymes-roku.jpg" group-title="Kids",Hooray! Rhymes
+http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.gh@SD" tvg-logo="https://i.imgur.com/UEg6mJd.jpg" group-title="Kids",Green Gold TV
 http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
 #EXTINF:-1 tvg-id="NTVKohalpur.np@SD" tvg-logo="https://i.imgur.com/iaFUcW6.png" group-title="Nepal",NTV Kohalpur HD
@@ -241,7 +243,7 @@ http://maxotts.maxdigitaltv.com/x-media/C118/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
 #EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.120
 http://maxotts.maxdigitaltv.com/x-media/C120/master.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" tvg-logo="https://i.ibb.co/bjkm0pjs/Colors-Cineplex-Superhits.jpg" group-title="Movies",Colors Cineplex Superhits
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" tvg-logo="https://i.ibb.co/bjkm0pjs/Colors-Cineplex-Superhits.jpg" group-title="Movies",Colors Cineplex Superhits (DDFreeDish)
 http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://i.ibb.co/MD0fHDMk/9XM.png" group-title="Music",9XM
 http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
@@ -519,7 +521,7 @@ http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2
 http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
-#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.239
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.260
 http://maxotts.maxdigitaltv.com/x-media/C260/master.m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RONGEEN_TV/images/LOGO_HD/image.png" group-title="",Rongeen TV
 http://maxotts.maxdigitaltv.com/x-media/C261/master.m3u8
@@ -527,12 +529,17 @@ http://maxotts.maxdigitaltv.com/x-media/C261/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C262/master.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",Fight Box HD
 http://maxotts.maxdigitaltv.com/x-media/C263/master.m3u8
-#EXTINF:-1 tvg-id="NinjaWorrior.uk@HD" tvg-logo="https://i.ibb.co/RTq6P1BB/AAAABVVkzo-PRCMh-S4-Tc-Lo-D6l-NJk-DCfrub-HYWy-Ru6-Dysu1pf-Lkgio7-RZrj-AJqmada9lcp-Pl-De-Ani4du-NDmrbx-I.png" group-title="Sports",NinJa Worrior
+#EXTINF:-1 tvg-id="NinjaWorrior.uk@HD" tvg-logo="https://i.ibb.co/RTq6P1BB/AAAABVVkzo-PRCMh-S4-Tc-Lo-D6l-NJk-DCfrub-HYWy-Ru6-Dysu1pf-Lkgio7-RZrj-AJqmada9lcp-Pl-De-Ani4du-NDmrbx-I.png" group-title="Sports",Ninja Worrior
 http://maxotts.maxdigitaltv.com/x-media/C264/master.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Comedy",Just for Laughs Gags
 http://maxotts.maxdigitaltv.com/x-media/C265/master.m3u8
+#EXTINF:-1 tvg-id="WorldWar.us" tvg-logo="https://i.ibb.co/WvJf5rbw/World-War.png" group-title="Documentary”, World War TV
 http://maxotts.maxdigitaltv.com/x-media/C266/master.m3u8
+#EXTINF:-1 tvg-id="HumSitaray.pk" tvg-logo="https://i.imgur.com/D0A0eUJ.png" group-title="Entertainment”,Hum Sitaray
 http://maxotts.maxdigitaltv.com/x-media/C267/master.m3u8
+#EXTINF:-1 tvg-id="MasalaTV.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="Entertainment”,Hum Masala TV
 http://maxotts.maxdigitaltv.com/x-media/C268/master.m3u8
+#EXTINF:-1 tvg-id="xx.np@SD" tvg-logo="" group-title="Nepal",Channel No.269
 http://maxotts.maxdigitaltv.com/x-media/C269/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C270/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C271/master.m3u8

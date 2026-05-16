@@ -982,9 +982,12 @@ http://maxotts.maxdigitaltv.com/x-media/C664/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C665/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C666/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C667/master.m3u8
+#EXTINF:-1 tvg-id="NepalNetworkTV.np@SD" tvg-logo="https://i.imgur.com/ylp4qvw.jpeg" group-title="Nepal",Nepal Network TV
 http://maxotts.maxdigitaltv.com/x-media/C668/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C669/master.m3u8
+#EXTINF:-1 tvg-id="NepaChannel.np@SD" tvg-logo="https://i.imgur.com/LgCjKXZ.png" group-title="Nepal",Nepa TV
 http://maxotts.maxdigitaltv.com/x-media/C670/master.m3u8
+#EXTINF:-1 tvg-id="LumbiniTV.np@SD" tvg-logo="https://i.imgur.com/VBaXOuU.jpg" group-title="Nepal",Lumbini TV
 http://maxotts.maxdigitaltv.com/x-media/C671/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C672/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C673/master.m3u8
@@ -994,6 +997,7 @@ http://maxotts.maxdigitaltv.com/x-media/C676/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C677/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C678/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C679/master.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies India
 http://maxotts.maxdigitaltv.com/x-media/C680/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C681/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C682/master.m3u8
@@ -1002,6 +1006,7 @@ http://maxotts.maxdigitaltv.com/x-media/C684/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C685/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C686/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C687/master.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.ibb.co/XfzVSG1D/sky-sports-cricket.jpg" group-title="Sports",Sky Sports Cricket
 http://maxotts.maxdigitaltv.com/x-media/C688/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C689/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C690/master.m3u8
@@ -1087,10 +1092,12 @@ http://maxotts.maxdigitaltv.com/x-media/C768/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C769/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C770/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C771/master.m3u8
+#EXTINF:-1 tvg-id="TilottamaTV.np@HD" tvg-logo="https://i.ibb.co/TMxP8VbY/Tilottama.jpg" group-title="Nepal",Tilottama TV
 http://maxotts.maxdigitaltv.com/x-media/C772/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C773/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C774/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C775/master.m3u8
+#EXTINF:-1 tvg-id="StingrayMusic.ca@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Nepal",Stingray Music
 http://maxotts.maxdigitaltv.com/x-media/C776/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C777/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C778/master.m3u8

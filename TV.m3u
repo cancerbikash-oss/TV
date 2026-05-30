@@ -21,7 +21,7 @@ http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
 #EXTINF:-1 tvg-id="AP1TV.np@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png" group-title="Nepal",AP1 TV
 http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
-#EXTINF:-1 tvg-id="PrimeTimes.np@SD" tvg-logo="https://i.imgur.com/Y2wW70P.png" group-title="Nepal",Prime Television HD
+#EXTINF:-1 tvg-id="PrimeTimes.np@SD" tvg-logo="https://i.ibb.co/V0vRzmTQ/Prime-Times.png" group-title="Nepal",Prime Television HD
 http://maxotts.maxdigitaltv.com/x-media/C198/master.m3u8
 #EXTINF:-1 tvg-id="METVHD.np@SD" tvg-logo="https://i.imgur.com/Zud862h.png" group-title="Nepal",METV HD 
 http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8

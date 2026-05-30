@@ -620,7 +620,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs120
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Kids",Ninja Kidz
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ninja Warrior
+#EXTINF:-1 tvg-id="NinjaWorrior.uk@HD" tvg-logo="https://i.ibb.co/RTq6P1BB/AAAABVVkzo-PRCMh-S4-Tc-Lo-D6l-NJk-DCfrub-HYWy-Ru6-Dysu1pf-Lkgio7-RZrj-AJqmada9lcp-Pl-De-Ani4du-NDmrbx-I.png" group-title="Sports",Ninja Worrior
 https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Jupiter TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8

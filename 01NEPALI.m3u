@@ -1,0 +1,182 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NepalTelevision.np@SD" tvg-logo="https://i.imgur.com/y3qhVcT.png" group-title="Nepal",Nepal Television HD
+http://maxotts.maxdigitaltv.com/x-media/C1/master.m3u8
+#EXTINF:-1 tvg-id="NTVPlus.np@SD" tvg-logo="https://i.imgur.com/aKcUVJ2.png" group-title="Nepal",NTV Plus
+http://maxotts.maxdigitaltv.com/x-media/C2/master.m3u8
+#EXTINF:-1 tvg-id="NTVItahari.np@SD" tvg-logo="https://i.imgur.com/lxQAb3k.png" group-title="Nepal",NTV Itahari
+http://maxotts.maxdigitaltv.com/x-media/C15/master.m3u8
+#EXTINF:-1 tvg-id="NTVKohalpur.np@SD" tvg-logo="https://i.imgur.com/iaFUcW6.png" group-title="Nepal",NTV Kohalpur
+http://maxotts.maxdigitaltv.com/x-media/C40/master.m3u8
+#EXTINF:-1 tvg-id="NTVNews.np@SD" tvg-logo="https://i.imgur.com/9T9rYux.png" group-title="Nepal",NTV News
+http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="Nepal",Mithila Nepal TV 
+http://maxotts.maxdigitaltv.com/x-media/C249/master.m3u8
+#EXTINF:-1 tvg-id="ImageChannel.np@SD" tvg-logo="https://i.imgur.com/xctHWUv.png" group-title="Nepal",Image Channel HD
+http://maxotts.maxdigitaltv.com/x-media/C133/master.m3u8
+#EXTINF:-1 tvg-id="NepalNetworkTV.np@SD" tvg-logo="https://i.imgur.com/ylp4qvw.jpeg" group-title="Nepal",Nepal Network TV
+http://maxotts.maxdigitaltv.com/x-media/C668/master.m3u8
+#EXTINF:-1 tvg-id="HimalayaTV.np@SD" tvg-logo="https://i.imgur.com/a62DiwH.png" group-title="Nepal",Himalayan TV
+http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
+#EXTINF:-1 tvg-id="HimalayaSports.np@HD" tvg-logo="https://i.ibb.co/MD6ycv7h/Himalayan-Sports-HD.jpg" group-title="Nepal",Himalayan Sports
+http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
+#EXTINF:-1 tvg-id="AP1TV.np@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png" group-title="Nepal",AP1 TV
+http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
+#EXTINF:-1 tvg-id="PrimeTimes.np@SD" tvg-logo="https://i.ibb.co/V0vRzmTQ/Prime-Times.png" group-title="Nepal",Prime Times HD
+http://maxotts.maxdigitaltv.com/x-media/C198/master.m3u8
+#EXTINF:-1 tvg-id="METVHD.np@SD" tvg-logo="https://i.imgur.com/Zud862h.png" group-title="Nepal",METV HD 
+http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepal",Kantipur TV
+http://maxotts.maxdigitaltv.com/x-media/C11/master.m3u8
+#EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo="https://i.imgur.com/EZUyzhG.jpg" group-title="Nepal",Kantipur MAX HD 
+http://maxotts.maxdigitaltv.com/x-media/C183/master.m3u8
+#EXTINF:-1 tvg-id="KantipurMax2.np@SD" tvg-logo="https://i.ibb.co/ShK58p6/Kantipur-Max-2-HD.jpg" group-title="Nepal",Kantipur Max 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
+#EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" group-title="Nepal",Kantipur MAX HD 
+http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
+#EXTINF:-1 tvg-id="YohoTV.np@SD" tvg-logo="https://i.imgur.com/i3RUB6z.png" group-title="Nepal",YOHO Televesion HD
+http://maxotts.maxdigitaltv.com/x-media/C148/master.m3u8
+#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepal",Public 4K TV
+http://maxotts.maxdigitaltv.com/x-media/C210/master.m3u8
+#EXTINF:-1 tvg-id="News24.np@SD" tvg-logo="https://i.imgur.com/7PgAPMU.png" group-title="Nepal",News 24
+http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
+#EXTINF:-1 tvg-id="AvenuesKhabar.np@SD" tvg-logo="https://i.imgur.com/ZE8Q4Hm.png" group-title="Nepal",Avenuse TV 
+http://maxotts.maxdigitaltv.com/x-media/C10/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsNepal.np@SD" tvg-logo="https://i.imgur.com/842b6IF.png" group-title="Nepal",ABC News HD
+http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
+#EXTINF:-1 tvg-id="SagarmathaTV.np@SD" tvg-logo="https://i.imgur.com/TDOvTw6.png" group-title="Nepal",Sagarmatha TV
+http://maxotts.maxdigitaltv.com/x-media/C12/master.m3u8
+#EXTINF:-1 tvg-id="MountainTV.np@SD" tvg-logo="https://i.imgur.com/abPLIAm.png" group-title="Nepal",Mountain Television
+http://maxotts.maxdigitaltv.com/x-media/C4/master.m3u8
+#EXTINF:-1 tvg-id="BhaktiDarshanTV.np@SD" tvg-logo="https://i.imgur.com/NpfZaBu.png" group-title="Nepal",Bhakti Darshan
+http://maxotts.maxdigitaltv.com/x-media/C5/master.m3u8
+#EXTINF:-1 tvg-id="TVToday.np@SD" tvg-logo="https://i.imgur.com/E97g8QK.png" group-title="Nepal",TV Today
+http://maxotts.maxdigitaltv.com/x-media/C6/master.m3u8
+#EXTINF:-1 tvg-id="BusinessPlus.np@SD" tvg-logo="https://i.imgur.com/ZZwdr0p.png" group-title="Nepal",Business Plus Television
+http://maxotts.maxdigitaltv.com/x-media/C16/master.m3u8
+#EXTINF:-1 tvg-id="RayTV.np@SD" tvg-logo="https://i.ibb.co/pjwmJtk4/Ray-TV.jpg" group-title="Nepal",Ray TV HD
+http://maxotts.maxdigitaltv.com/x-media/C33/master.m3u8
+#EXTINF:-1 tvg-id="SyangjaTV.np@SD" tvg-logo="https://i.ibb.co/h1fbyd5g/Syangja-TV.png" group-title="Nepal",Syangja TV
+http://maxotts.maxdigitaltv.com/x-media/C35/master.m3u8
+#EXTINF:-1 tvg-id=".np@SD" tvg-logo="" group-title="Nepal",Nepali Channel 93
+http://maxotts.maxdigitaltv.com/x-media/C93/master.m3u8
+#EXTINF:-1 tvg-id="NepalPress.np@SD" tvg-logo=" https://i.ibb.co/bgKbj7TV/Nepal-Press-HD.png " group-title="Nepal",Nepal Press HD
+http://maxotts.maxdigitaltv.com/x-media/C94/master.m3u8
+#EXTINF:-1 tvg-id="NepalPress.np@SD" tvg-logo="https://i.ibb.co/bgKbj7TV/Nepal-Press-HD.png" group-title="Nepal",Nepal Press HD
+http://maxotts.maxdigitaltv.com/x-media/C97/master.m3u8
+#EXTINF:-1 tvg-id="DhaulagiriTelevision.np@SD" tvg-logo="https://i.imgur.com/1tTudCH.png" group-title="Nepal",Dhaulagiri HD
+http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8
+#EXTINF:-1 tvg-id="ActionSports.np@SD" tvg-logo="https://i.ibb.co/fzTXt4vx/Action-Sports-Nepal-Partnership.jpg" group-title="Nepal",Action Sports 1 HD
+http://maxotts.maxdigitaltv.com/x-media/C129/master.m3u8
+#EXTINF:-1 tvg-id="SarokarTV.np@SD" tvg-logo="https://i.imgur.com/dDpAbfB.png" group-title="Nepal",Sarokar TV HD
+http://maxotts.maxdigitaltv.com/x-media/C130/master.m3u8
+#EXTINF:-1 tvg-id="Channel4Nepal.np@SD" tvg-logo=" https://i.ibb.co/Y79ybWK6/Channel-4-Nepal.jpg " group-title="Nepal",Channel 4 Nepal 
+http://maxotts.maxdigitaltv.com/x-media/C137/master.m3u8
+#EXTINF:-1 tvg-id="AranikoTelevision.np@SD" tvg-logo="https://i.imgur.com/6olaLjI.jpg" group-title="Nepal",Araniko Television HD
+http://maxotts.maxdigitaltv.com/x-media/C138/master.m3u8
+#EXTINF:-1 tvg-id="TimesTV.np@SD" tvg-logo="https://i.ibb.co/v6x2cBPP/Times-TV-HD.png" group-title="Nepal",Times TV HD
+http://maxotts.maxdigitaltv.com/x-media/C140/master.m3u8
+#EXTINF:-1 tvg-id="KalikaTV.np@SD" tvg-logo="https://i.imgur.com/5IzASS7.jpg" group-title="Nepal",Kalika HD
+http://maxotts.maxdigitaltv.com/x-media/C142/master.m3u8
+#EXTINF:-1 tvg-id="BhadagaunTV.np@SD" tvg-logo="https://i.imgur.com/a0niX5U.jpg" group-title="Nepal",Bhadagaun Television
+http://maxotts.maxdigitaltv.com/x-media/C143/master.m3u8
+#EXTINF:-1 tvg-id="RupandehiTV.np@SD" tvg-logo="" group-title="Nepal",Rupandehi Channel
+http://maxotts.maxdigitaltv.com/x-media/C144/master.m3u8
+#EXTINF:-1 tvg-id="NepalMandalTV.np@SD" tvg-logo="https://i.imgur.com/geWba58.jpg" group-title="Nepal",Nepalmandal Television HD
+http://maxotts.maxdigitaltv.com/x-media/C145/master.m3u8
+#EXTINF:-1 tvg-id="BuddhaAwaazTV.np@SD" tvg-logo="https://i.imgur.com/7jWsEvk.jpg" group-title="Nepal",Buddha Awaaz TV HD
+http://maxotts.maxdigitaltv.com/x-media/C146/master.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.np@SD" tvg-logo="https://i.imgur.com/C5KodvC.jpg" group-title="Nepal",Global TV HD
+http://maxotts.maxdigitaltv.com/x-media/C147/master.m3u8
+#EXTINF:-1 tvg-id="KasthamandapTelevisionGold.np@SD" tvg-logo="https://i.imgur.com/0GvnMsB.jpeg" group-title="Nepal",Kasthamandap Gold HD
+http://maxotts.maxdigitaltv.com/x-media/C149/master.m3u8
+#EXTINF:-1 tvg-id="NamasteKhwoopaTV.np@SD" tvg-logo="https://i.imgur.com/JsbQEvX.jpg" group-title="Nepal",Namaste Khopa TV HD
+http://maxotts.maxdigitaltv.com/x-media/C150/master.m3u8
+#EXTINF:-1 tvg-id="KasthamandapTelevision.np@SD" tvg-logo="https://i.imgur.com/SZkkBm8.jpeg" group-title="Nepal",Kasthamandap Television
+http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
+#EXTINF:-1 tvg-id="Yestv.np@SD" tvg-logo="https://i.ibb.co/yFcnQF21/YES-BC-TV.png" group-title="Nepal",YES TV
+http://maxotts.maxdigitaltv.com/x-media/C152/master.m3u8
+#EXTINF:-1 tvg-id="SaptarangiTelevision.np@SD" tvg-logo="https://i.ibb.co/BVRX4SV5/Saptarangi-TV.jpg" group-title="Nepal",Saptarangi Television HD
+http://maxotts.maxdigitaltv.com/x-media/C154/master.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Nepal",Divya Darshan TV HD
+http://maxotts.maxdigitaltv.com/x-media/C157/master.m3u8
+#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Nepal",INDIGENOUS TV
+http://maxotts.maxdigitaltv.com/x-media/C159/master.m3u8
+#EXTINF:-1 tvg-id="RajyaTV.np@SD" tvg-logo="https://i.imgur.com/pwznSWX.jpg" group-title="Nepal",Rajya TV HD
+http://maxotts.maxdigitaltv.com/x-media/C161/master.m3u8
+#EXTINF:-1 tvg-id="LifeOK.np@SD" tvg-logo="https://i.imgur.com/xYY2oU6.jpg" group-title="Nepal",Life OK HD
+http://maxotts.maxdigitaltv.com/x-media/C163/master.m3u8
+#EXTINF:-1 tvg-id="BodhiTV.np@SD" tvg-logo="https://i.imgur.com/oQOiFah.jpg" group-title="Nepal",Bodhi TV HD
+http://maxotts.maxdigitaltv.com/x-media/C164/master.m3u8
+#EXTINF:-1 tvg-id="DeepTV.np@SD" tvg-logo="https://i.imgur.com/rTFr6JN.jpg" group-title="Nepal",Deep Telivision HD
+http://maxotts.maxdigitaltv.com/x-media/C165/master.m3u8
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/hb4bq1t.png" group-title="Nepal",Capital TV HD
+http://maxotts.maxdigitaltv.com/x-media/C166/master.m3u8
+#EXTINF:-1 tvg-id="BagmatiTV.np@SD" tvg-logo="https://i.imgur.com/2K6qEvh.jpg"group-title="Nepal",Bagmati TV HD
+http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8
+#EXTINF:-1 tvg-id="BhairahawaTelevision.np@SD" tvg-logo="https://i.imgur.com/XUBTM9E.jpg" group-title="Nepal",Bhairahawa Television HD
+http://maxotts.maxdigitaltv.com/x-media/C169/master.m3u8
+#EXTINF:-1 tvg-id="NationalGoldTV.np@SD" tvg-logo="https://i.imgur.com/p0Wwf20.jpg" group-title="Nepal",National Gold
+http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8
+#EXTINF:-1 tvg-id="MakaluTV.np@SD" tvg-logo="https://i.imgur.com/8LuE6SJ.jpg" group-title="Nepal",Makalu Television HD
+http://maxotts.maxdigitaltv.com/x-media/C171/master.m3u8
+#EXTINF:-1 tvg-id="HimshikharTelevision.np@SD" tvg-logo="https://i.ibb.co/S40ZYYCC/Himshikar.jpg" group-title="Nepal",Himshikhar Television 
+http://maxotts.maxdigitaltv.com/x-media/C172/master.m3u8
+#EXTINF:-1 tvg-id="OmkarTV.np@SD" tvg-logo="https://i.imgur.com/bM8JWGu.jpg" group-title="Nepal",Omkar TV HD 
+http://maxotts.maxdigitaltv.com/x-media/C173/master.m3u8
+#EXTINF:-1 tvg-id="PalikaTV.np@SD" tvg-logo="https://i.ibb.co/BVmKK3Mh/Palika-Television-HD.png" group-title="Nepal",Palika TV HD 
+http://maxotts.maxdigitaltv.com/x-media/C174/master.m3u8
+#EXTINF:-1 tvg-id="ChannelAceTV.np@SD" tvg-logo="https://i.ibb.co/KpHRfj0B/Channel-ACE.jpg" group-title="Nepal",Channel ACE TV HD 
+http://maxotts.maxdigitaltv.com/x-media/C175/master.m3u8
+#EXTINF:-1 tvg-id="RaptiDarpanTV.np@SD" tvg-logo="https://i.imgur.com/SBxwBYb.jpg" group-title="Nepal",Rapti Darpan TV HD 
+http://maxotts.maxdigitaltv.com/x-media/C179/master.m3u8
+#EXTINF:-1 tvg-id="JMusicTV.np@SD" tvg-logo="https://i.imgur.com/57dVOP5.jpg" group-title="Nepal",J Music TV 
+http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
+#EXTINF:-1 tvg-id="GoldenEyeTV.np@SD" tvg-logo="https://i.ibb.co/kV5MdK7g/Golden-Eye-TV.jpg" group-title="Nepal",Golden Eye HD 
+http://maxotts.maxdigitaltv.com/x-media/C181/master.m3u8
+#EXTINF:-1 tvg-id="TeamTV.np@SD" tvg-logo="https://i.ibb.co/jPT6BJN7/TEAM-TV.png" group-title="Nepal",TEAM HD
+http://maxotts.maxdigitaltv.com/x-media/C196/master.m3u8
+#EXTINF:-1 tvg-id="RodhiTV.np@SD" tvg-logo="https://i.ibb.co/sJF4ptGL/RODHI-TV.png" group-title="Nepal",Rodhi TV
+http://maxotts.maxdigitaltv.com/x-media/C207/master.m3u8
+#EXTINF:-1 tvg-id="SamataTV.np@SD" tvg-logo="https://i.ibb.co/1GV6Rjf3/Samata-TV-HD.png" group-title="Nepal",Samata TV
+http://maxotts.maxdigitaltv.com/x-media/C208/master.m3u8
+#EXTINF:-1 tvg-id="CityOneTelevision.np@SD" tvg-logo="https://i.imgur.com/AxBreI5.png" group-title="Nepal",City One Television 
+http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
+#EXTINF:-1 tvg-id="BuddhaTV.np@SD" tvg-logo="https://i.imgur.com/5bk2qRU.jpeg" group-title="Nepal",Buddha TV HD
+http://maxotts.maxdigitaltv.com/x-media/C211/master.m3u8
+#EXTINF:-1 tvg-id="MegaTV.np@HD" tvg-logo="https://i.ibb.co/jk9cGN5q/Mega-TV-HD.jpg" group-title="Nepal",Mega TV HD
+http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8
+#EXTINF:-1 tvg-id="GNNTV.np@SD" tvg-logo="https://i.ibb.co/vvwg7Kpd/gnn-tv.png" group-title="Nepal",GNN HDTV
+http://maxotts.maxdigitaltv.com/x-media/C651/master.m3u8
+#EXTINF:-1 tvg-id="PravatMusic.np@SD" tvg-logo="" group-title="Nepal",Pravat Music HD
+http://maxotts.maxdigitaltv.com/x-media/C652/master.m3u8
+#EXTINF:-1 tvg-id="NewaTVHD.np@SD" tvg-logo="https://i.imgur.com/Wde7NcJ.jpg" group-title="Nepal",Newa TV HD
+http://maxotts.maxdigitaltv.com/x-media/C656/master.m3u8
+#EXTINF:-1 tvg-id="PrismaTV.np@SD" tvg-logo="https://i.ibb.co/ZZ1r9gL/Prisma-Television.jpg" group-title="Nepal",Prisma TV
+http://maxotts.maxdigitaltv.com/x-media/C665/master.m3u8
+#EXTINF:-1 tvg-id="NepaChannel.np@SD" tvg-logo="https://i.imgur.com/LgCjKXZ.png" group-title="Nepal",Nepa TV
+http://maxotts.maxdigitaltv.com/x-media/C670/master.m3u8
+#EXTINF:-1 tvg-id="LumbiniTV.np@SD" tvg-logo="https://i.imgur.com/VBaXOuU.jpg" group-title="Nepal",Lumbini TV
+http://maxotts.maxdigitaltv.com/x-media/C671/master.m3u8
+#EXTINF:-1 tvg-id="TilottamaTV.np@HD" tvg-logo="https://i.ibb.co/TMxP8VbY/Tilottama.jpg" group-title="Nepal",Tilottama TV
+http://maxotts.maxdigitaltv.com/x-media/C772/master.m3u8
+#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepal",Nepal 1
+https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
+#EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-logo="https://i.imgur.com/KHuKQQL.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Music",JooMusic
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmax.pk" tvg-logo="https://i.imgur.com/eLmdZ6k.png" tvg-language="Nepali;Maithili;English" group-title="Movies", Filmax
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-country="UK" tvg-language="English" group-title="Sports",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-logo="https://i.ibb.co/LhpwRm8V/GB3800009-F0-20251028-T010335-SQUARE.png" tvg-country="UK" tvg-language="English" group-title="Sports", FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-country="UK" tvg-language="English" group-title="Sports",FIFA+ USA
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Sport 1
+http://46.149.191.217:9005/play/a017
+#EXTINF:-1 tvg-id="OneSports.ph@SD" tvg-logo="https://i.imgur.com/ig5PBMu.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",One Sports SD
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fight Box
+https://iptv.prosto.tv/ch118/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922943&secret=nbrzhi3g&21yo=0&e=1783671541&st=5zY0JEaq1M8fKcaSZGRGSw
+#EXTINF:-1 tvg-id="FashionBox.nl" tvg-logo="https://i.imgur.com/Taqj4yi.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Fashion",Fashion Box
+https://iptv.prosto.tv/ch369/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922996&secret=yamxdzwl&21yo=0&e=1783681798&st=BHD5W0M8l5Wmt_VcvAqyEA
+

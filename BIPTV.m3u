@@ -34,6 +34,8 @@ https://cdn-6.pishow.tv/live/1490/master.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk" tvg-logo="https://i.imgur.com/eLmdZ6k.png" tvg-language="Nepali;Maithili;English" group-title="Movies", Filmax
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Fashion",Fashion TV
+http://122.53.222.9:9981/stream/channelid/1644992538?profile=pass
 
 #EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.ibb.co/bMgKPXR5/Hits-Southeast-Asia.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Movies",HITS 
 http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
@@ -143,13 +145,17 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 http://103.157.248.140:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB HD (Tata Play)
 http://103.157.248.140:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Sony BBC Earth HD (Tata Play)
-http://103.157.248.140:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159127_ld_h15_aa.png?lock=720x540" group-title="Sports",Sony Sports 2 HD (Tata Play)
-http://103.157.248.140:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony PIX HD (Tata Play)
 http://103.157.248.140:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159127_ld_h15_aa.png?lock=720x540" group-title="Sports",Sony Sports 2 HD (Tata Play)
+http://103.157.248.140:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Sony Pal (DD Free Dish)
+http://111.119.160.229:9981/stream/channelid/1205909369?profile=pass
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Infotainment",Sony BBC Earth HD (Tata Play)
+http://103.157.248.140:8000/play/a01b/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://111.119.160.229:9981/stream/channelid/629537149?profile=pass
 #EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Nick Jr.
 http://103.157.248.140:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (Tata Play)
@@ -206,6 +212,8 @@ http://103.157.248.140:8000/play/a013/index.m3u8
 http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540" group-title="Movies",Movies Now HD (Tata Play)
 http://103.157.248.140:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="MNX.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Movies", MNX HD
+http://119.156.228.231:9983/stream/channelid/567691107?ticket=8FCC6E00B0ED88FC1C69FAE6F3408EF91AE7782B&profile=pass
 #EXTINF:-1 tvg-id="E24.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="Entertainment",E 24 
 https://live-cf-e24.dailyhunt.in/master.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Music",9X Jalwa 

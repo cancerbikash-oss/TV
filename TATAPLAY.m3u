@@ -39,7 +39,7 @@ http://103.157.248.140:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" tvg-logo="https://i.ibb.co/20LWdnC4/Color-Cineplex-Bollywood.png" group-title="Movies",Colors Cineplex Bollywood (Tata Play)
 http://103.157.248.140:8000/play/a00x/index.m3u8
 http://103.157.248.140:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Adventure",TLC HD
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Infotainment",TLC HD (Tata Play)
 http://103.157.248.140:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Infotainment",History TV18 HD
@@ -204,17 +204,20 @@ http://103.253.18.58:8000/play/a007
 http://103.253.18.58:8000/play/a008
 http://103.253.18.58:8000/play/a009
 http://103.253.18.58:8000/play/a010
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic (Tata Play)
 http://103.253.18.58:8000/play/a011
 http://103.253.18.58:8000/play/a012
 http://103.253.18.58:8000/play/a013
 http://103.253.18.58:8000/play/a014
 http://103.253.18.58:8000/play/a015
 http://103.253.18.58:8000/play/a016
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Movies",Star Gold Romance (Tata Play)
 http://103.253.18.58:8000/play/a017
 http://103.253.18.58:8000/play/a018
 http://103.253.18.58:8000/play/a019
 http://103.253.18.58:8000/play/a020
 http://103.253.18.58:8000/play/a021
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Infotainment",TLC HD (Tata Play)
 http://103.253.18.58:8000/play/a022
 http://103.253.18.58:8000/play/a023
 http://103.253.18.58:8000/play/a024
@@ -231,7 +234,9 @@ http://103.253.18.58:8000/play/a034
 http://103.253.18.58:8000/play/a035
 http://103.253.18.58:8000/play/a036
 http://103.253.18.58:8000/play/a037
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Entertainment",Express Entertainment
 http://103.253.18.58:8000/play/a038
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Entertainment",Express Entertainment
 http://103.253.18.58:8000/play/a039
 http://103.253.18.58:8000/play/a040
 http://103.253.18.58:8000/play/a041
@@ -244,54 +249,91 @@ http://103.253.18.58:8000/play/a047
 http://103.253.18.58:8000/play/a048
 http://103.253.18.58:8000/play/a049
 http://103.253.18.58:8000/play/a050
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" group-title="Movies",Colors Cineplex HD (Tata Play)
 http://103.253.18.58:8000/play/a051
+#EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Travel",Travelxp HD (Tata Play)
 http://103.253.18.58:8000/play/a052
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney International HD (Tata Play)
 http://103.253.18.58:8000/play/a053
 http://103.253.18.58:8000/play/a054
+#EXTINF:-1 tvg-id="Zing.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing! (Tata Play)
 http://103.253.18.58:8000/play/a055
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540" group-title="News",CNN News 18
 http://103.253.18.58:8000/play/a056
 http://103.253.18.58:8000/play/a057
 http://103.253.18.58:8000/play/a058
 http://103.253.18.58:8000/play/a059
+#EXTINF:-1 tvg-id="PTVHome.pk" tvg-logo="https://i.imgur.com/O1Bavlz.png" group-title="Entertainment",PTV Home
 http://103.253.18.58:8000/play/a060
+#EXTINF:-1 tvg-id="PTVNews.pk" tvg-logo="https://i.imgur.com/Fpn8VU7.pn" group-title="News",PTV News
 http://103.253.18.58:8000/play/a061
+#EXTINF:-1 tvg-id="PakistanTV.pk" tvg-logo="https://i.ibb.co/wFV6ZSy1/Pakistan-TV-logo.jpg" group-title="Pakistan", Pakistan TV
 http://103.253.18.58:8000/play/a062
+#EXTINF:-1 tvg-id="OceanNews.uk@ tvg-logo="https://i.ibb.co/9k5YQBPq/Ocean-News.png" group-title="News",Ocean News
 http://103.253.18.58:8000/play/a063
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-logo="https://i.imgur.com/Op4EsaB.png" group-title="Pakistan",Geo News
 http://103.253.18.58:8000/play/a064
+#EXTINF:-1 tvg-id="GeoTez.pk" tvg-logo="https://geotez.tv/assets/front/images/tez_logo.png" group-title="Pakistan",Geo Tez
 http://103.253.18.58:8000/play/a065
+#EXTINF:-1 tvg-id="DawnNews.pk" tvg-logo="https://i.imgur.com/BMmlLwS.png" group-title="News",Dawn News
 http://103.253.18.58:8000/play/a066
+#EXTINF:-1 tvg-id="City41.pk" tvg-logo="https://i.ibb.co/Z6nGjFtn/City-41.jpg" group-title="News",City 41
 http://103.253.18.58:8000/play/a067
 http://103.253.18.58:8000/play/a068
+#EXTINF:-1 tvg-id="92EntertainmentHD.pk" tvg-logo="https://i.ibb.co/KxG0kMKv/92-Entertainment-HD.jpg" group-title="Entertainment",92 Entertainment HD
 http://103.253.18.58:8000/play/a069
+#EXTINF:-1 tvg-id="VenusHD.pk" tvg-logo="https://i.imgur.com/0C9KunR.png" group-title="News",Venus HD
 http://103.253.18.58:8000/play/a070
+#EXTINF:-1 tvg-id="ChannelFive.pk" tvg-logo="https://i.ibb.co/JFwBcDQr/Channel-5.jpg" group-title="News",Channel 5 News HD
 http://103.253.18.58:8000/play/a071
 http://103.253.18.58:8000/play/a072
+#EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-logo="https://i.ibb.co/4Rm6X5Qq/Play-HD.png" group-title="Entertainment",Play Entertainment
 http://103.253.18.58:8000/play/a073
+#EXTINF:-1 tvg-id="TVToday.pk" tvg-logo="https://i.imgur.com/MYoosNo.png" group-title="News",TV Today
 http://103.253.18.58:8000/play/a074
+#EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-logo=" https://i.imgur.com/GfWLn3O.jpg" group-title="Entertainment", aurLife HD
 http://103.253.18.58:8000/play/a075
 http://103.253.18.58:8000/play/a076
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="News",
 http://103.253.18.58:8000/play/a077
+#EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action (DD Free Dish)
 http://103.253.18.58:8000/play/a078
+#EXTINF:-1 tvg-id="EpicMusic.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music (DD Free Dish)
 http://103.253.18.58:8000/play/a079
 http://103.253.18.58:8000/play/a080
 http://103.253.18.58:8000/play/a081
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="NO Signal", No Channel
 http://103.253.18.58:8000/play/a082
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="NO Signal", No Channel
 http://103.253.18.58:8000/play/a083
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="NO Signal", No Channel
 http://103.253.18.58:8000/play/a084
 http://103.253.18.58:8000/play/a085
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Entertainment", Express Entertainment
 http://103.253.18.58:8000/play/a086
+#EXTINF:-1 tvg-id="ChaupalNews.pk" tvg-logo="https://i.ibb.co/WNkCYCdC/chaupal-TV.png" group-title="News",Chaupal News HD
 http://103.253.18.58:8000/play/a087
 http://103.253.18.58:8000/play/a088
+#EXTINF:-1 tvg-id="Express24/7.pk" tvg-logo="https://i.ibb.co/G3b6HpB2/Express-24x7-Old.webp" group-title="News",Express 24/7
 http://103.253.18.58:8000/play/a089
+#EXTINF:-1 tvg-id="HumSitaray.pk" tvg-logo="https://i.imgur.com/D0A0eUJ.png" group-title="Entertainment",Hum Sitaray
 http://103.253.18.58:8000/play/a090
+#EXTINF:-1 tvg-id="TVOne.pk" tvg-logo="https://i.ibb.co/1G64gcp1/TVOne-Logo-512.png" group-title="Entertainment",TV One
 http://103.253.18.58:8000/play/a091
+#EXTINF:-1 tvg-id="AajNews.pk" tvg-logo="https://i.imgur.com/VNGnHYz.png" group-title="News",Aaj News
 http://103.253.18.58:8000/play/a092
+#EXTINF:-1 tvg-id="PublicNews.pk" tvg-logo="https://i.imgur.com/q3ij8wO.png" group-title="News",Public News
 http://103.253.18.58:8000/play/a093
+#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="Entertainment",
 http://103.253.18.58:8000/play/a094
+#EXTINF:-1 tvg-id="NewsOne.pk" tvg-logo="https://i.ibb.co/kVn2fMM6/News-One.jpg" group-title="News",News One
 http://103.253.18.58:8000/play/a095
+#EXTINF:-1 tvg-id="BolNews.pk" tvg-logo="https://i.imgur.com/chHLi5u.png" group-title="News",Bol News
 http://103.253.18.58:8000/play/a096
 http://103.253.18.58:8000/play/a097
+#EXTINF:-1 tvg-id="PlanetFun.pk@SD" tvg-logo="https://i.imgur.com/5U1iKUq.png" group-title="Kids",Planet Fun
 http://103.253.18.58:8000/play/a098
+#EXTINF:-1 tvg-id="BolEntertainment.pk " tvg-logo="https://i.imgur.com/eajSRFo.png " group-title="Entertainment", Bol Entertainment
 http://103.253.18.58:8000/play/a099
 http://103.253.18.58:8000/play/a100
 http://103.253.18.58:8000/play/a101

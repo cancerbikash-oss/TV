@@ -30,6 +30,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 #EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" tvg-country="NP" tvg-language="Nepali;Maithili;Hindi" group-title="General",Nepal 1
 https://cdn-6.pishow.tv/live/1490/master.m3u8
 
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-country="UK" tvg-language="English" group-title="Sports",Win Sports
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+
 #EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-logo="https://i.imgur.com/KHuKQQL.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Music",JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk" tvg-logo="https://i.imgur.com/eLmdZ6k.png" tvg-language="Nepali;Maithili;English" group-title="Movies", Filmax

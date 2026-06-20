@@ -39,6 +39,8 @@ http://122.53.222.9:9981/stream/channelid/1644992538?profile=pass
 
 #EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.ibb.co/bMgKPXR5/Hits-Southeast-Asia.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Movies",HITS 
 http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies",ROCK Action
+http://122.53.222.9:9981/stream/channelid/507371538?profile=pass
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Movies",Warner Channel
 http://138.59.227.20:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT

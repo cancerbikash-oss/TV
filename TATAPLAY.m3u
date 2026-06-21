@@ -294,7 +294,7 @@ http://103.253.18.58:8000/play/a074
 #EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-logo=" https://i.imgur.com/GfWLn3O.jpg" group-title="Entertainment", aurLife HD
 http://103.253.18.58:8000/play/a075
 http://103.253.18.58:8000/play/a076
-#EXTINF:-1 tvg-id="@SD" tvg-logo=" " group-title="News",
+#EXTINF:-1 tvg-id="ALife.pk" tvg-logo=" " group-title="Entertainment",Alife
 http://103.253.18.58:8000/play/a077
 #EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action (DD Free Dish)
 http://103.253.18.58:8000/play/a078

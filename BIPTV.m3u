@@ -361,10 +361,6 @@ https://mini.allinonereborn.fun/tata.php?id=11783
 http://103.157.248.140:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&pictures HD (Tata Play)
 http://103.157.248.140:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo=" https://i.ibb.co/PsrcfcSc/Unite8-Sports-2-HD.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Unite8 Sports 2 HD
-http://103.157.248.140:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-logo=" https://i.ibb.co/PsrcfcSc/Unite8-Sports-2-HD.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Unite8 Sports 2 HD
-http://58.147.140.106:4000/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.ae@SD" tvg-logo="https://i.imgur.com/OLuCox7.png " group-title="Movies",Zee Alwan
 http://41.223.30.230/ZEEALWAN/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAflam.ae@SD" tvg-logo="https://i.imgur.com/ZxknutA.png" group-title="Movies",Zee Aflam

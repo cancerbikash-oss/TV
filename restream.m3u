@@ -24,6 +24,7 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2222
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2223
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2224
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2225
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="News",Sky Sports News
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2226
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2227
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2228
@@ -47,6 +48,7 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2245
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2246
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2247
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2248
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png" group-title="Music",MTV Classic
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2249
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2250
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2251
@@ -87,6 +89,7 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2285
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2286
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2287
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2288
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Sky Sports Premier League
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2289
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2290
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2291
@@ -298,7 +301,9 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2496
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2497
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2498
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2499
+#EXTINF:-1 tvg-id="FoxSports2.us@SD" tvg-logo="https://i.imgur.com/LHtxKI8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 2
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2500
+#EXTINF:-1 tvg-id="FoxSports1.us@SD" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 1
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2501
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2502
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2503

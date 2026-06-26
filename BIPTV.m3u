@@ -7,7 +7,7 @@ https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX HD 
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX HD (Recorded)
+#EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX 2 HD (Recorded)
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="General",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
@@ -17,9 +17,9 @@ https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV 
 https://live.divyadarshantv.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" tvg-country="NP" tvg-language="Nepali;Maithili" group-title="General",Indigenous Television 
+#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" tvg-country="NP" tvg-language="Nepali;Maithili" group-title="Nepal",Indigenous Television 
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;Hindi" group-title="General",Mithila Nepal TV 
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;Hindi" group-title="Nepal",Mithila Nepal TV 
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepal",Nepal 1
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8

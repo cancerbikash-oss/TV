@@ -41,11 +41,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-ta
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 http://84.17.50.102/tnt/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT (Spanish)
 http://200.26.177.54:8000/play/a0f1/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT (Portuguese)
 http://143.14.178.40:7777/TNT_HD/index.m3u8
-#EXTINF:-1 tvg-id=" TNTSeries.us" tvg-logo="https://i.ibb.co/7NjG6fwS/TNT-Series-2025.jpg" group-title="Movies", TNT Series
+#EXTINF:-1 tvg-id=" TNTSeries.us" tvg-logo="https://i.ibb.co/7NjG6fwS/TNT-Series-2025.jpg" group-title="Movies", TNT Series (Spanish+English)
 http://200.26.177.54:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Movies",Warner TV
 http://200.26.177.54:8000/play/a0eh/index.m3u8

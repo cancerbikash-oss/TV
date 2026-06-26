@@ -39,11 +39,11 @@ http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTV.uk@SD" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",Rakuten TV Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entertainment",TNT
+EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 http://84.17.50.102/tnt/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 http://200.26.177.54:8000/play/a0f1/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entertainment",TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 http://143.14.178.40:7777/TNT_HD/index.m3u8
 #EXTINF:-1 tvg-id=" TNTSeries.us" tvg-logo="https://i.ibb.co/7NjG6fwS/TNT-Series-2025.jpg" group-title="Movies", TNT Series
 http://200.26.177.54:8000/play/a0f2/index.m3u8

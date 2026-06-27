@@ -31,6 +31,10 @@ http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
 http://122.53.222.9:9981/stream/channelid/507371538?profile=pass
 #EXTINF:-1 tvg-id="BoxHits.kh" tvg-logo="https://i.ibb.co/bRBpSGwt/Box-Hits-logo-b-n-2.webp" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",Box Hits HD
 https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Zee_Cinema_2025.svg" group-title="Movies",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-id="HindiHitsHD.in@India" tvg-logo=" " group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412
 #EXTINF:-1 tvg-id=" HBOAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies", HBO Asia 

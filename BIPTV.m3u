@@ -31,6 +31,8 @@ http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
 http://122.53.222.9:9981/stream/channelid/507371538?profile=pass
 #EXTINF:-1 tvg-id="BoxHits.kh" tvg-logo="https://i.ibb.co/bRBpSGwt/Box-Hits-logo-b-n-2.webp" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",Box Hits HD
 https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412
 #EXTINF:-1 tvg-id=" HBOAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies", HBO Asia 
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id=" CinemaxAsia.sg@@SD" tvg-logo="https://i.imgur.com/c8crJfA.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies", Cinemax Asia

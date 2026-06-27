@@ -84,6 +84,9 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-country="UK" tvg-language="English" group-title="Sports",FIFA+ USA
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",WWE Network
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3701
+
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fight Network 
 http://iptv.4666888.xyz/iptv2A.php?id=69
 

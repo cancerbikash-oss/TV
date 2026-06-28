@@ -806,10 +806,13 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/799
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/800
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/801
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/802
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN (Portuguese)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/803
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/804
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/805
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Infotainment",Luxe TV
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/806
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/C9rxqA5.pn" group-title="Entertainment",TVI Reality (Portuguese)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/807
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/808
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/809

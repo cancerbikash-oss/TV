@@ -744,6 +744,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/742
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/743
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/744
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/745
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",Studio Universal Latin America (Portuguese)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/746
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/747
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/748
@@ -751,10 +752,14 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/749
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/750
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/751
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/752
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://i.ibb.co/wZLHHwyK/Telecine-Cult-2021.png" group-title="Movies",Telecine Cult
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/753
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://i.ibb.co/MyHM4Nzv/Telecine-Action2021.png" group-title="Movies",Telecine Action (Portuguese)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/754
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/755
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="Sports",SporTV 2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/756
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Sports",SporTV
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/757
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/758
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/759

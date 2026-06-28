@@ -106,6 +106,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=69
 #EXTINF:-1 tvg-id=" USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",USA Network
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3848
 
+#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",Fox (FOX5)
+http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@SD" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 1
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2501
 #EXTINF:-1 tvg-id="FoxSports2.us@SD" tvg-logo="https://i.imgur.com/LHtxKI8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 2
@@ -184,8 +186,7 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 http://83.85.109.250:9981/stream/channelid/800225082?profile=pass
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews 
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en-avc1_3300000=9-mp4a_143200_eng=2.m3u8
-#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",Fox (FOX5)
-http://84.17.50.102/fox/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxNewsChannel.usSD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel SD
 https://trs1.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Entertainment",Fox Business Network

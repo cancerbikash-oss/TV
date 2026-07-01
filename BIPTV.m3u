@@ -32,6 +32,13 @@ http://122.53.222.9:9981/stream/channelid/507371538?profile=pass
 #EXTINF:-1 tvg-id="BoxHits.kh" tvg-logo="https://i.ibb.co/bRBpSGwt/Box-Hits-logo-b-n-2.webp" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",Box Hits HD
 https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159010_ld_h15_aa.png?lock=720x540" group-title="Sports",EURO SPORT HD 
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (Tata Play)
+http://103.253.18.58:8000/play/a00t
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png" group-title="Entertainment",Star Bharat HD (Tata Play)
+http://58.147.140.106:4000/play/a0gz/index.m3u8
+
 #EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" group-title="Sports",Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 

@@ -109,6 +109,7 @@ http://nmk.ioapk.com:5050/4gtv-live085/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live086/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live087/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live088/index.m3u8
+#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="News",SET iNews
 http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live090/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live091/index.m3u8
@@ -116,6 +117,7 @@ http://nmk.ioapk.com:5050/4gtv-live092/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live093/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live094/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live095/index.m3u8
+#EXTINF:-1 tvg-id="INULTRA.nl" tvg-logo="https://imagedelivery.net/y_spc3duIzCKuqRC3dyVzw/9b119226-48d0-4470-b513-7fa1a9427e5b-inultrapng/itvlarge" group-title="Infotainment",NULTRA (Netherlands)
 http://nmk.ioapk.com:5050/4gtv-live096/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live097/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live098/index.m3u8
@@ -125,9 +127,11 @@ http://nmk.ioapk.com:5050/4gtv-live101/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live102/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live103/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live104/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Kids",Nickelodeon Asia
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title=" ",DaAi2
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="International",DaAi2 (Taiwan)
 http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+#EXTINF:-1 tvg-id="MomoKids.tw" tvg-logo="https://i.ibb.co/9kxGLFXz/Momo-Kids-logo-29.webp" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Kids,Momo Kids
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live108/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live109/index.m3u8
@@ -142,6 +146,7 @@ http://nmk.ioapk.com:5050/4gtv-live116/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live117/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live118/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live119/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Infotainment”, Luxe TV
 http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8

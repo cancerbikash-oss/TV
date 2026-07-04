@@ -305,15 +305,21 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2494
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2495
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2496
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2497
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",ESPN on ABC
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2498
+#EXTINF:-1 tvg-id="Fuse.us" tvg-logo="https://i.ibb.co/vx75QvsW/Fuse-Black-Logo-2017-1.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",Fuse
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2499
 #EXTINF:-1 tvg-id="FoxSports2.us@SD" tvg-logo="https://i.imgur.com/LHtxKI8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 2
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2500
 #EXTINF:-1 tvg-id="FoxSports1.us@SD" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 1
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2501
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Kids",Disney
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2502
+#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",Fox (FOX5)
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2503
+#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Entertainment",Fox
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2504
+#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",Fox (FOX5)
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2505
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2506
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2507

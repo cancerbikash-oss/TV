@@ -1,46 +1,158 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",Fox (FOX5)
-http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2503
-#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Entertainment",Fox
-http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2504
-#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",Fox (FOX5)
-http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2505
-
 #EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepal",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepal",Kantipur MAX HD
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepal",Kantipur MAX HD 
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepal",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX HD 
-https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX 2 HD (Recorded)
-https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="General",Kantipur TV
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
 #EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" tvg-country="NP" tvg-language="Nepali;Maithili"  group-title="Nepal",Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 #EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" tvg-country="NP" tvg-language="Nepali;Maithili" group-title="Nepal",Divya Darshan TV HD
 http://live.divyadarshantv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV 
-https://live.divyadarshantv.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" tvg-country="NP" tvg-language="Nepali;Maithili" group-title="Nepal",Indigenous Television 
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;Hindi" group-title="Nepal",Mithila Nepal TV 
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepal",Nepal 1
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
+#EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX HD
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX HD 
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="General",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV 
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+
 #EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Fashion",Fashion TV
 http://122.53.222.9:9981/stream/channelid/1644992538?profile=pass
-#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.ibb.co/bMgKPXR5/Hits-Southeast-Asia.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Movies",HITS 
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Fashion",FashionTV Secrets
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Fashion",FTV Secrets
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Fashion",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionBox.nl" tvg-logo="https://i.imgur.com/Taqj4yi.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Fashion",Fashion Box
+https://iptv.prosto.tv/ch369/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922996&secret=yamxdzwl&21yo=0&e=1783681798&st=BHD5W0M8l5Wmt_VcvAqyEA
+#EXTINF:-1 tvg-id="WorldFashionChannel.ru@SD" tvg-logo="https://i.imgur.com/4unUuGy.png" group-title="Fashion", World Fashion Channel HD
+https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#EXTINF:-1 tvg-id="FashionWorld.tr@HD" tvg-logo=" " group-title="Fashion",Fashion World
+https://live.euromediacenter.com/fashionworld/video.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannel.ru@SD" tvg-logo="https://i.ibb.co/CsQrw2Md/World-Fashion-Channel.png" group-title="Fashion", World Fashion Channel SD
+https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 tvg-id="StingrayFestival4K.ca" tvg-logo="https://i.imgur.com/qDYEE8r.png" group-title="Music",Stingray Festival 4K
+http://nmk.ioapk.com:5050/4gtv-live011/index.m3u8
+#EXTINF:-1 tvg-id="History.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Infotainment",History
+http://nmk.ioapk.com:5050/4gtv-live026/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.sv" group-title="Infotainment",Crime + Investigation Asia
+http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="International",Lifetime
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Music",Stingray CMusic
+http://nmk.ioapk.com:5050/4gtv-live031/index.m3u8
+#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. Asia
+http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us " tvg-logo=“https://i.ibb.co/YBM2zRk5/Bloomberg.png" group-title="News", Bloomberg TV
+http://nmk.ioapk.com:5050/4gtv-live059/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="International ",CinemaWorld
+http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" group-title="News", DW
+http://nmk.ioapk.com:5050/4gtv-live071/index.m3u8
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="International",ROCK Entertainment
+http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8
+#EXTINF:-1 tvg-id="INULTRA.nl" tvg-logo="https://imagedelivery.net/y_spc3duIzCKuqRC3dyVzw/9b119226-48d0-4470-b513-7fa1a9427e5b-inultrapng/itvlarge" group-title="International ",NULTRA (Netherlands)
+http://nmk.ioapk.com:5050/4gtv-live096/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Kids”,Nickelodeon Asia
+http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
+#EXTINF:-1 tvg-id="GlobalTrekker.sg" tvg-logo="https://i.imgur.com/5nlmJIw.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="International”,Global Trekker
+http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="International”, Luxe TV
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Business", CNBC Asia
+http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="International",ROCK Action
+http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",France 24
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera 
+http://nmk.ioapk.com:5050/4gtv-live157/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News",NHK World Japan
+http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
+#EXTINF:-1 tvg-id="MotorvisionPlus.de" tvg-logo="https://i.ibb.co/4RZdPYLS/M-Motor-Vision.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="International”,Motorvision+
+http://nmk.ioapk.com:5050/4gtv-live201/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://i.ibb.co/NdfH8td2/Love-Nature-logo-2025.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="International”,Love Nature
+http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8
+#EXTINF:-1 tvg-id="HITS.sg" tvg-logo="https://i.ibb.co/bMgKPXR5/Hits-Southeast-Asia.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="International ",HITS 
 http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
+
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies",ROCK Action
 http://122.53.222.9:9981/stream/channelid/507371538?profile=pass
 #EXTINF:-1 tvg-id="BoxHits.kh" tvg-logo="https://i.ibb.co/bRBpSGwt/Box-Hits-logo-b-n-2.webp" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",Box Hits HD
 https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fight Box
+https://iptv.prosto.tv/ch118/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922943&secret=nbrzhi3g&21yo=0&e=1783671541&st=5zY0JEaq1M8fKcaSZGRGSw
+
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+http://54.37.19.157/axn/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412
+#EXTINF:-1 tvg-id=" HBOAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies", HBO Asia 
+http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id=" CinemaxAsia.sg@@SD" tvg-logo="https://i.imgur.com/c8crJfA.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International", Cinemax Asia
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="IonMystery.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",Ion Mystery
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTV.uk@SD" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",Rakuten TV Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="International",TNT
+http://84.17.50.102/tnt/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="International",TNT (Spanish, English)
+http://200.26.177.54:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entertainment",TNT (Portuguese, English)
+http://143.14.178.40:7777/TNT_HD/index.m3u8
+#EXTINF:-1 tvg-id=" TNTSeries.us" tvg-logo="https://i.ibb.co/7NjG6fwS/TNT-Series-2025.jpg" group-title="Movies", TNT Series (Spanish, English)
+http://200.26.177.54:8000/play/a0f2/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Movies",Warner Channel (English, Spanish)
+http://190.14.10.19:16000/play/a06m/index.m3u8?hls
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Movies",Warner Channel (English, Spanish)
+http://45.228.235.116:8000/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Movies",Warner Channel (Spanish, English)
+http://200.26.177.54:8000/play/a0eh/index.m3u8
+#EXTINF:-1 tvg-id="E.us" tvg-logo="https://i.imgur.com/TWFDkap.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",E! 
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-id=" NetmaxTV.gr@SD" tvg-logo="https://i.imgur.com/dLvRD4k.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Entertainment", Netmax TV
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 tvg-id=" CartoonNetworkAsia.sg@SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Kids", Cartoon Network Asia
+http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id=" CartoonitoAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Kids", Cartoonito Asia 
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id=" NickJrAsia.sg@HD " tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" tvg-country="NP" tvg-language="Nepali;Maithili;English group-title="Kids", Nick Jr. Asia HD
+http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg @SD" tvg-logo="https://i.imgur.com/pux6WN8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Adventure",Asian Food Network Asia
+http://line.hostytv.store/play/live.php?mac=00:1A:79:bf:e9:f8&stream=534440&extension=m3u8
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Kids,Nickelodeon Asia (Indonesian + English)
+http://202.169.224.202:8800/udp/239.9.1.17:1234
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="International",Lifetime
+http://206.212.244.63/103/index.m3u8
+#EXTINF:-1 tvg-id="GTV.ph@SD@SD" tvg-logo="https://i.imgur.com/rWhamwh.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",GTV (Philippines) SD
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="OneSports.ph@SD" tvg-logo="https://i.imgur.com/ig5PBMu.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",One Sports SD
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Sport 1
+http://46.149.191.217:9005/play/a017
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-country="UK" tvg-language="English" group-title="Sports",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-logo="https://i.ibb.co/LhpwRm8V/GB3800009-F0-20251028-T010335-SQUARE.png" tvg-country="UK" tvg-language="English" group-title="Sports", FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-country="UK" tvg-language="English" group-title="Sports",FIFA+ USA
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Eurosport.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159010_ld_h15_aa.png?lock=720x540" group-title="Sports",EURO SPORT HD 
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (Tata Play)
 http://103.253.18.58:8000/play/a00t
 #EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LOGO_HD/image.png" group-title="Entertainment",Star Bharat HD (Tata Play)
@@ -58,60 +170,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412
 
-#EXTINF:-1 tvg-id=" HBOAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies", HBO Asia 
-http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id=" CinemaxAsia.sg@@SD" tvg-logo="https://i.imgur.com/c8crJfA.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies", Cinemax Asia
-http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="IonMystery.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",Ion Mystery
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTV.uk@SD" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",Rakuten TV Action Movies
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
-http://84.17.50.102/tnt/index.m3u8
-https://s168.ipcamlive.com/streams/a8jfkuxaehbzwiy06/stream.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT (Spanish)
-http://200.26.177.54:8000/play/a0f1/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Movies",TNT (Portuguese)
-http://143.14.178.40:7777/TNT_HD/index.m3u8
-#EXTINF:-1 tvg-id=" TNTSeries.us" tvg-logo="https://i.ibb.co/7NjG6fwS/TNT-Series-2025.jpg" group-title="Movies", TNT Series (Spanish+English)
-http://200.26.177.54:8000/play/a0f2/index.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Movies",Warner TV
-http://200.26.177.54:8000/play/a0eh/index.m3u8
-#EXTINF:-1 tvg-id="E.us" tvg-logo="https://i.imgur.com/TWFDkap.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",E! 
-http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id=" NetmaxTV.gr@SD" tvg-logo="https://i.imgur.com/dLvRD4k.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Entertainment", Netmax TV
-https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
-#EXTINF:-1 tvg-id=" CartoonNetworkAsia.sg@SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Kids", Cartoon Network Asia
-http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id=" CartoonitoAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Kids", Cartoonito Asia 
-http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id=" NickJrAsia.sg@HD " tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" tvg-country="NP" tvg-language="Nepali;Maithili;English group-title="Kids", Nick Jr. Asia HD
-http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg @SD" tvg-logo="https://i.imgur.com/pux6WN8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Adventure",Asian Food Network Asia
-http://line.hostytv.store/play/live.php?mac=00:1A:79:bf:e9:f8&stream=534440&extension=m3u8
-#EXTINF:-1 tvg-id="GTV.ph@SD@SD" tvg-logo="https://i.imgur.com/rWhamwh.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",GTV (Philippines) SD
-http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="OneSports.ph@SD" tvg-logo="https://i.imgur.com/ig5PBMu.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",One Sports SD
-http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="Sport1.hu@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Sport 1
-http://46.149.191.217:9005/play/a017
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fight Box
-https://iptv.prosto.tv/ch118/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922943&secret=nbrzhi3g&21yo=0&e=1783671541&st=5zY0JEaq1M8fKcaSZGRGSw
-#EXTINF:-1 tvg-id="FashionBox.nl" tvg-logo="https://i.imgur.com/Taqj4yi.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Fashion",Fashion Box
-https://iptv.prosto.tv/ch369/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922996&secret=yamxdzwl&21yo=0&e=1783681798&st=BHD5W0M8l5Wmt_VcvAqyEA
-#EXTINF:-1 tvg-id="WorldFashionChannel.ru@SD" tvg-logo="https://i.imgur.com/4unUuGy.png" group-title="Fashion", World Fashion Channel HD
-https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
-#EXTINF:-1 tvg-id="FashionWorld.tr@HD" tvg-logo=" " group-title="Fashion",Fashion World
-https://live.euromediacenter.com/fashionworld/video.m3u8
-#EXTINF:-1 tvg-id="WorldFashionChannel.ru@SD" tvg-logo="https://i.ibb.co/CsQrw2Md/World-Fashion-Channel.png" group-title="Fashion", World Fashion Channel SD
-https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-country="UK" tvg-language="English" group-title="Sports",FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlusWomen.uk" tvg-logo="https://i.ibb.co/LhpwRm8V/GB3800009-F0-20251028-T010335-SQUARE.png" tvg-country="UK" tvg-language="English" group-title="Sports", FIFA+ Women
-https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-country="UK" tvg-language="English" group-title="Sports",FIFA+ USA
-https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",WWE Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3701
 
@@ -120,6 +178,37 @@ http://iptv.4666888.xyz/iptv2A.php?id=69
 
 #EXTINF:-1 tvg-id=" USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Movies",USA Network
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3848
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.usSD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
+http://41.205.77.102/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX
+https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-livenowbyfox-lgus/cb563e19657161909dca2167d8f462ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec59a46852db80148b6f4adafb8c2360625f5c98435ee3b24aaaffe85916df38a1ac1b4ec72d58e68314c8c915bf88d2469f418f27f14698c1f888d443e0ceab5c91cb251a733a0c4ddbe55796d95cbaa8f5035bbd42588d9ac884d9f7df5d35873d2c343036e5cd0cd412da8128806e33ae42e3273dcf080ed86b97b234d08fbad84f402dad846b7328b6ecae89fe7f53ef2293c79822deb63643c22367b0ee1dd98f78a4c8eb5eeae2069fb76caeb57d1535c19f418ea77fe285bfa045862cc6cbf5d7680c1e234c358f53a6957ac869f34ce89f436f0c16049a935b92d2821e28341bcfc07fc40317bcec8e81f4072f8535480da6338f1b4d47e4004150a96df5933769c9010f863e32b218168850f3b529baf68bbc486bfb8e8912bf5ceeb30bc0ff4dfc3e6b1751e58059352f7b74deea691a2339921596b4e4d5375850a2a7b7bdaa351f0836105e09f192c4788981cd2c5d5b81642f6e701f008546b14dda13421421d914b1f95f94e4fe8ed054c190ffbc2c56c61016d41b2272652510a0/56/848x480_963600/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="News",Sky Sports News
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2226
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="International",Sky Sports Racing
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2226
+#EXTINF:-1 tvg-id="FoxSports2.us@SD" tvg-logo="https://i.imgur.com/LHtxKI8.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 2
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2500
+#EXTINF:-1 tvg-id="FoxSports1.us@SD" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Fox Sports 1
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2501
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Kids",Disney
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2502
+#EXTINF:-1 tvg-id="Fox5.us" tvg-logo="https://i.ibb.co/1tg2SbgP/FOX-5.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",FOX5
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2503
+#EXTINF:-1 tvg-id="Fox13.us" tvg-logo="https:// https://i.ibb.co/5hSLKbfj/FOX-13.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",Fox13
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2504
+#EXTINF:-1 tvg-id="Fox2.us" tvg-logo="https://i.ibb.co/Y7x2ScYV/Fox-Broadcasting-Company-logo-2019.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",Fox 2
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2505
+#EXTINF:-1 tvg-id="Fox2.us" tvg-logo="https://i.ibb.co/Y7x2ScYV/Fox-Broadcasting-Company-logo-2019.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",Fox 2
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2558
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",Fox Deportes
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2559
+#EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="International",Fox
+http://190.83.9.222:8000/play/a012/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Fox.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="News",Fox (FOX5)
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/2503

@@ -13,18 +13,18 @@ http://nmk.ioapk.com:5050/4gtv-live009/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live010/index.m3u8
 #EXTINF:-1 tvg-id="StingrayFestival4K.ca" tvg-logo="https://i.imgur.com/qDYEE8r.png" group-title="Music",Stingray Festival 4K
 http://nmk.ioapk.com:5050/4gtv-live011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Jilin Television
 http://nmk.ioapk.com:5050/4gtv-live012/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live013/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live014/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live015/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.ibb.co/vCpZHBv7/Dream-Works-TV.png" group-title="Kids",DreamWorks Channel Asia
 http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live018/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live019/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",
 http://nmk.ioapk.com:5050/4gtv-live021/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",
 http://nmk.ioapk.com:5050/4gtv-live022/index.m3u8
@@ -39,7 +39,7 @@ http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live028/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="International",Lifetime
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3YRMzKR4/Live-Interactive-English-tv.png" group-title="Education",Live Interactive English
 http://nmk.ioapk.com:5050/4gtv-live030/index.m3u8
 #EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Music",Stingray CMusic
 http://nmk.ioapk.com:5050/4gtv-live031/index.m3u8
@@ -64,7 +64,7 @@ http://nmk.ioapk.com:5050/4gtv-live047/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 http://nmk.ioapk.com:5050/4gtv-live048/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="News",NTD TV Asia-Pacific
 http://nmk.ioapk.com:5050/4gtv-live050/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live051/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live052/index.m3u8
@@ -76,7 +76,7 @@ http://nmk.ioapk.com:5050/4gtv-live057/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live058/index.m3u8
 #EXTINF:-1 tvg-id=" BloombergTV.us " tvg-logo=“https://i.ibb.co/YBM2zRk5/Bloomberg.png" group-title="News", Bloomberg TV
 http://nmk.ioapk.com:5050/4gtv-live059/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Business",SBN Global Finance HD
 http://nmk.ioapk.com:5050/4gtv-live060/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live061/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live062/index.m3u8
@@ -146,7 +146,7 @@ http://nmk.ioapk.com:5050/4gtv-live116/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live117/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live118/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live119/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Travel",ELTA Lifestyle & Travel
 http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" tvg-country="NP" tvg-language="Nepali;Maithili;English"  group-title="Infotainment”, Luxe TV
 http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8

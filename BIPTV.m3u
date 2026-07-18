@@ -68,6 +68,8 @@ https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" tvg-language="Hindi" group-title="Movies", Shemaroo Bollywood
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
+#EXTINF:-1 tvg-id="2750" tvg-name="Saga Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" tvg-language="Punjabi" group-title="Music", Saga Music
+https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri 
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8

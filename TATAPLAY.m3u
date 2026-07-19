@@ -1,4 +1,5 @@
 #EXTM3U
+
 http://103.157.248.140:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (Tata Play)
 http://103.157.248.140:8000/play/a00b/index.m3u8
@@ -193,6 +194,13 @@ http://103.157.248.140:8000/play/a096/index.m3u8
 http://103.157.248.140:8000/play/a097/index.m3u8
 http://103.157.248.140:8000/play/a098/index.m3u8
 http://103.157.248.140:8000/play/a099/index.m3u8
+
+Sony Ten 3 Hindi
+http://103.253.18.58:8000/play/a00b
+Zee Business
+http://103.253.18.58:8000/play/a00c
+
+http://103.253.18.58:8000/play/a00u
 
 http://103.253.18.58:8000/play/a001
 http://103.253.18.58:8000/play/a002

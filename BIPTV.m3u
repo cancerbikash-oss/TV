@@ -23,18 +23,26 @@ https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="General",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="General",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV 
 https://live.divyadarshantv.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Entertainment", Lionsgate Play
+
+#EXTINF:-1 tvg-id="Lionsgate Play" tvg-logo="https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png" tvg-language="Hindi" group-title="Entertainment", Lionsgate Play
 http://103.159.180.34:5001/live/2327.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" tvg-language="English" group-title="Movies", Ebony TV by Lionsgate
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://i.imgur.com/mFxUpGU.png" tvg-language="English" group-title="Movies",MovieSphere by Lionsgate
 https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://i.imgur.com/0sfk3yp.png" tvg-language="English" group-title="Movies",MovieSphere by Lionsgate
-https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://i.imgur.com/mFxUpGU.png" tvg-language="English" group-title="Movies",MovieSphere by Lionsgate Australia
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/PHBgi3h.png" tvg-language="English" group-title="Movies",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="MovieSphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" tvg-language="English" group-title="Movies",OuterSphere
+https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
+#EXTINF:-1 tvg-id="WantedDeadorAlive.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/vaSXaFp.png" tvg-language="English" group-title="Movies",Wanted: Dead or Alive
+https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540" group-title="Movies",Movies Now HD (Tata Play)
 http://202.70.146.135:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="MNX.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Movies", MNX (Tata Play)

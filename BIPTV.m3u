@@ -28,6 +28,19 @@ https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/ch
 #EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV 
 https://live.divyadarshantv.com/hls/0/stream.m3u8
 
+#EXTINF:-1 tv-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Movies",HITS
+https://thinkkast.dpdns.org/tkk-ph/i7/hits_hd1/hits-hd.m3u8
+#EXTINF:-1 tv-id="HITSMovies.sg" tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Movies",HITS Movies
+https://thinkkast.dpdns.org/tkk-ph/i7/hits_movies/hits-movies.m3u8
+#EXTINF:-1 tv-id="HITSNOW.sg" tvg-logo="https://i.imgur.com/ne8gv39.png" group-title="Movies",HITS NOW
+https://thinkkast.dpdns.org/tkk-ph/i7/cg_hitsnow/hits-now.m3u8
+#EXTINF:-1 tv-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="Kids",Animax Asia
+https://thinkkast.dpdns.org/tkk-ph/i7/cg_animax_sd_new/animax.m3u8
+#EXTINF:-1 tv-id="AXNAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia
+https://thinkkast.dpdns.org/tkk-ph/i7/cg_axn_sd/axn.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Lionsgate Play" tvg-logo="https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png" tvg-language="Hindi" group-title="Entertainment", Lionsgate Play
 http://103.159.180.34:5001/live/2327.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" tvg-language="English" group-title="Movies", Ebony TV by Lionsgate

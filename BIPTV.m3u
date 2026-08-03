@@ -17,6 +17,10 @@ http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 #EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepal",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" group-title="Nepal",Capital TV HD
+https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV 
+https://live.divyadarshantv.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX HD
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo=" https://i.ibb.co/21qdy4vk/kantipurmaxhd.png " tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Sports",Kantipur MAX HD 
@@ -25,8 +29,7 @@ https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="General",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
-#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV 
-https://live.divyadarshantv.com/hls/0/stream.m3u8
+
 
 #EXTINF:-1 tv-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Movies",HITS
 https://thinkkast.dpdns.org/tkk-ph/i7/hits_hd1/hits-hd.m3u8

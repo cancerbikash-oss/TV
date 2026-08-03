@@ -30,7 +30,6 @@ https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/c
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="General",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
 
-
 #EXTINF:-1 tv-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Movies",HITS
 https://thinkkast.dpdns.org/tkk-ph/i7/hits_hd1/hits-hd.m3u8
 #EXTINF:-1 tv-id="HITSMovies.sg" tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Movies",HITS Movies
@@ -98,6 +97,8 @@ https://d282a7rzpbl0nj.cloudfront.net/live/nazara/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="Music",Shemaroo Filmi Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" tvg-language="Hindi" group-title="Movies", Shemaroo Bollywood
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 #EXTINF:-1 tvg-name="ShemarooBollywood.us" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" group-title="Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="Movies",Shemaroo Josh

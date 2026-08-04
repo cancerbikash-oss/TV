@@ -161,17 +161,15 @@ http://119.156.228.231:9983/stream/channelid/1613931066?ticket=5AA8B1711CFB47D7E
 http://202.70.146.135:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="ErosUniverseBollywoodCinema.np" tvg-logo="https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema
-https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
+https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
 #EXTINF:-1 tvg-id="ErosUniverseEntertainment.np" tvg-logo="https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
-https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
+https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" group-title="Movies", NH BollyFlix
+#EXTINF:-1 tvg-id="NHBollyFlix.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" group-title="Movies", NH BollyFlix
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
-#EXTINF:-1 tvg-id="3338" tvg-name="NH BollyGold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" tvg-language="Hindi" group-title="Movies", NH BollyGold
+#EXTINF:-1 tvg-id="NHBollyGold.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" group-title="Movies", NH BollyGold
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
-#EXTINF:-1 tvg-id="3343" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BollyRaga
+#EXTINF:-1 tvg-id="NHBollyRaga.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" group-title="Music", NH BollyRaga
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2750" tvg-name="Saga Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" tvg-language="Punjabi" group-title="Music", Saga Music

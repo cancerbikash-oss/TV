@@ -95,6 +95,25 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" group-title="Entertainment",Epic Bharat
 https://d282a7rzpbl0nj.cloudfront.net/live/nazara/master_1080.m3u8
 
+#EXTINF:-1 tvg-id="ErosUniverseBollywoodCinema.np" tvg-logo="https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema
+https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
+#EXTINF:-1 tvg-id="ErosUniverseEntertainment.np" tvg-logo="https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
+https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvg-id="GreenGoldTV.np" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="Kids",Green Gold TV
+https://prod-runn.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" group-title="Movies", Pocket Films
+https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Movies", Superfine Films
+https://prod-runn.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHBollyFlix.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" group-title="Movies", NH BollyFlix
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+#EXTINF:-1 tvg-id="NHBollyGold.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" group-title="Movies", NH BollyGold
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+#EXTINF:-1 tvg-id="NHBollyRaga.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" group-title="Music", NH BollyRaga
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="Music",Shemaroo Filmi Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" tvg-language="Hindi" group-title="Movies", Shemaroo Bollywood
@@ -112,19 +131,6 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri 
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-id="B4UMoviesApac.in@India" tvg-logo="https://i.ibb.co/MkJtFdqc/B4-U-Movies-APAC.png" group-title="Movies",B4U Movies APAC
-https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies
-https://cdn-2.pishow.tv/live/419/master.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music APAC
-https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music 
-https://cdn-2.pishow.tv/live/415/master.m3u8
-
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="Movies",Goldmines 2 
@@ -141,14 +147,25 @@ https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="Movies",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri 
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Movies",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-id="B4UMoviesApac.in@India" tvg-logo="https://i.ibb.co/MkJtFdqc/B4-U-Movies-APAC.png" group-title="Movies",B4U Movies APAC
+https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies
+https://cdn-2.pishow.tv/live/419/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music APAC
+https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music 
+https://cdn-2.pishow.tv/live/415/master.m3u8
+
 #EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="Entertainment",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="Entertainment",Dangal 2 
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="Entertainment",Dangal 2 
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441435.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="MNX.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" group-title="Movies", MNX HD
@@ -160,23 +177,8 @@ http://119.156.228.231:9983/stream/channelid/1613931066?ticket=5AA8B1711CFB47D7E
 #EXTINF:-1 tvg-id="MNX.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Movies", MNX (Tata Play)
 http://202.70.146.135:8000/play/a052/index.m3u8
 
-#EXTINF:-1 tvg-id="ErosUniverseBollywoodCinema.np" tvg-logo="https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema
-https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
-#EXTINF:-1 tvg-id="ErosUniverseEntertainment.np" tvg-logo="https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
-https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHBollyFlix.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" group-title="Movies", NH BollyFlix
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
-#EXTINF:-1 tvg-id="NHBollyGold.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" group-title="Movies", NH BollyGold
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
-#EXTINF:-1 tvg-id="NHBollyRaga.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" group-title="Music", NH BollyRaga
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
-
 #EXTINF:-1 tvg-id="2750" tvg-name="Saga Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" tvg-language="Punjabi" group-title="Music", Saga Music
 https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="GangaurTV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" group-title="Entertainment",Gangaur TV
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8

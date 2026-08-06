@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="UtsavBharat.uk" tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Entertainment",Utsav Bharat
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-logo="https://i.imgur.com/TERVtWT.png" group-title="Entertainment",Utsav Plus
-https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" group-title="Entertainment",Zee TV Asia Pacific
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" tvg-country="NP" tvg-language="Nepali;Maithili"  group-title="Nepal",Capital TV HD

@@ -34,6 +34,43 @@ https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/ch
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/5fZF69m.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepal",TV Today Janakpue
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8?tkn=3325553544
 
+#EXTINF:-1 group-title="India" tvg-id="9XM.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/9x_media.png",MU | 9XM
+https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DEEWANAHD.in" tvg-logo="https://i.postimg.cc/9Q7G21N6/Deewana.png",MU | DEEWANA HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png",Hindi Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="IN | TOP",STAR PLUS HD (AIRTEL) #️⃣ 5
+http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=671571&extension=ts&play_token=5iDIq6wufB
+#EXTINF:-1 tvg-id="StarGoldHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LOGO_HD/image.png" group-title="IN | HINDI MOVIES (PAY)",STAR GOLD HD [AIRTEL]
+http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=737323&extension=ts&play_token=j1EjFaGwQC
+#EXTINF:-1 tvg-id="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="IN | HINDI GEC (PAY)",SONY HD [AIRTEL]
+http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=943926&extension=ts&play_token=HQaBG00BmA
+#EXTINF:-1 tvg-id="2832" tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540" group-title="IN | HINDI MOVIES (PAY)",SONY MAX HD [AIRTEL]
+http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=373074&extension=ts&play_token=CuPocChLF4
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="IN | HINDI MOVIES (PAY)",ZEE CINEMA HD [AIRTEL]
+http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=735399&extension=ts&play_token=TWphvLHRRR
+#EXTINF:-1 group-title="India" tvg-id="Hindi Movies",MO | Hindi Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Vevo Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo Pop
+https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Romance (576p)
+http://103.253.18.58:8000/play/a017
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Select HD (1080p)
+http://103.253.18.58:8000/play/a02u
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2 (576p)
+http://103.253.18.58:8000/play/a00r
+#EXTINF:-1 group-title="India" tvg-id="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png",MOV | NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
+http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Movies HD
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+
 #EXTINF:-1 tvg-id="UtsavBharat.uk" tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Entertainment",Utsav Bharat
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="UtsavPlus.uk@SD" tvg-logo="https://i.imgur.com/TERVtWT.png" group-title="Entertainment",Utsav Plus

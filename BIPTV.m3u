@@ -213,31 +213,28 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" group-title="Entertainment",Epic Bharat
 https://d282a7rzpbl0nj.cloudfront.net/live/nazara/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AlrightTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png" tvg-language="Hindi" group-title="Entertainment", Alright TV
+#EXTINF:-1 tvg-id="AlrightTV.in" tvg-name="AlrightTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png" tvg-language="Hindi" group-title="Entertainment", Alright TV
 https://prod-runn.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
-#EXTINF:-1 tvg-id="tvg-id="GreenGoldTV.np" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="Kids",Green Gold TV
-https://prod-runn.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" group-title="Movies", Pocket Films
-https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Movies", Superfine Films
-https://prod-runn.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dice Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" tvg-language="Hindi" group-title="Entertainment", Dice Media
 https://prod-runn.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
+#EXTINF:-1 tvg-id="ErosUniverseBollywoodCinema.np" tvg-logo="https://i.imgur.com/hbCL3hd.png" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema 
+https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
+#EXTINF:-1 tvg-id="ErosUniverseEntertainment.np" tvg-logo="https://imgur.com/a/NSMdcZ9.png" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
+https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FilterCopy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png" tvg-language="Hindi" group-title="Entertainment", FilterCopy
 https://prod-runn.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ErosUniverseBollywoodCinema.np" tvg-logo="https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema
-https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
-#EXTINF:-1 tvg-id="ErosUniverseEntertainment.np" tvg-logo="https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png" tvg-language="Hindi" group-title="Movies", Eros Universe Entertainment
-https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHBollyFlix.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" group-title="Movies", NH BollyFlix
+#EXTINF:-1 tvg-id="GreenGoldTV.np" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="Kids",Green Gold TV
+https://prod-runn.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 tvg-id="NHBollyFlix.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" group-title="Movies", NH BollyFlix
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
-#EXTINF:-1 tvg-id="NHBollyGold.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" group-title="Movies", NH BollyGold
+#EXTINF:-1 tvg-id="NHBollyGold.np" tvg-name="NH BollyGold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" tvg-language="Hindi" group-title="Movies", NH BollyGold
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
-#EXTINF:-1 tvg-id="NHBollyRaga.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" group-title="Music", NH BollyRaga
+#EXTINF:-1 tvg-id="NHBollyRaga.np" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BollyRaga
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
-
+#EXTINF:-1 tvg-id="PocketFilms.in" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" group-title="Movies", Pocket Films
+https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperfineFilmsHindi.in" tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Movies", Superfine Films
+https://prod-runn.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="Music",Shemaroo Filmi Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" tvg-language="Hindi" group-title="Movies", Shemaroo Bollywood
@@ -254,6 +251,7 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -380,6 +378,8 @@ https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 #EXTINF:-1 tvg-id="UniqueTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Entertainment;Kids",Unique TV
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" tvg-language="Hindi" group-title="Movies", Colors Cineplex Superhit
+http://103.159.180.34:5001/live/1450.m3u8
 #EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Entertainment", Colors HD (Tata Play)
 http://202.70.146.135:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" tvg-language="Hindi" group-title="Movies", Colors Cineplex Bollywood (Tata Play)

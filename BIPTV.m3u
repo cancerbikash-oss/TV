@@ -39,6 +39,12 @@ https://cdn-6.pishow.tv/live/1490/master.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyUK.in" tvg-logo="https://i.imgur.com/gyyRpFv.png" group-title="Entertainment",Colors Rishtey UK
 https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8
 
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" group-title="Movies",Colors Cineplex UK
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b696000.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" group-title="Movies",Colors Cineplex UK
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
+
+
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM 
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Music",9X Jalwa 

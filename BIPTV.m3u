@@ -1,84 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali",Zee Nepal TV
+#EXTINF:-1 tvg-id="ZeeNepal4KTV.np" tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
 https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="OmkarTV.np@SD" tvg-logo="https://i.imgur.com/HR4FCLt.png" group-title="Nepali" group-title="Religious",Omkar TV
+#EXTINF:-1 tvg-id="OmkarTV.np@SD" tvg-logo="https://i.imgur.com/ZwD1iG8.png" group-title="Nepali" group-title="Religious",Omkar TV
 https://webott.viatv.com.np/v0t1/OmkarTv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali" group-title="News",Janata TV HD
+#EXTINF:-1 tvg-id="JanataTV.np" tvg-logo="https://i.imgur.com/2gUmIxr.png " group-title="Nepali" group-title="News",Janata TV HD
 https://webott.viatv.com.np/v0t1/JanataTv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali" group-title="News",HimShikhar TV
+#EXTINF:-1 tvg-id="HimshikharTelevision.np" tvg-logo="https://i.imgur.com/eyAs5pI.png" group-title="Nepali" group-title="News",HimShikhar TV
 https://webott.viatv.com.np/v0t1/HimshikharTv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali" group-title="News",National Gold
+#EXTINF:-1 tvg-id="NationalGoldTV.np" tvg-logo="https://i.imgur.com/12RklsS.png" group-title="Nepali" group-title="News",National Gold HD TV
 https://webott.viatv.com.np/v0t1/NationalGoldTv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali" group-title="News",Global TV
+#EXTINF:-1 tvg-id="GlobalTV.np" tvg-logo="https://i.imgur.com/TXBeHYi.png" group-title="Nepali" group-title="News",Global TV HD
 https://webott.viatv.com.np/v0t1/GlobalTv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="BagmatiTV.np@SD" tvg-logo="https://i.imgur.com/LgPceF9.png"group-title="Nepal",Bagmati TV HD
+#EXTINF:-1 tvg-id="BagmatiTV.np@SD" tvg-logo="https://i.imgur.com/LgPceF9.png"group-title="Nepali",Bagmati TV HD
 https://webott.viatv.com.np/v0t1/BagmatiTv.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="RayTV.np@SD" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Nepali",Ray TV HD
 https://webott.viatv.com.np/v0t1/RayTv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali",Pokhara Television
+#EXTINF:-1 tvg-id="PokharaTV.np" tvg-logo="https://i.imgur.com/Gi2duMi.png" group-title="Nepali",Pokhara Television
 https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali",Sajha TV HD 
+#EXTINF:-1 tvg-id=" SajhaTV.np " tvg-logo="https://i.imgur.com/i4TwlSZ.png" group-title="Nepali",Sajha TV HD 
 https://webott.viatv.com.np/v0t1/SajhaTV.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali" group-title="News",Mukundasen TV HD
+#EXTINF:-1 tvg-id="MukundasenTV.np" tvg-logo="https://i.imgur.com/VYNAjkP.png" group-title="Nepali" group-title="News",Mukundasen TV HD
 https://webott.viatv.com.np/v0t1/Mukundasen.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TVToday.np@SD" tvg-logo="https://i.imgur.com/E97g8QK.png" group-title="Nepali" group-title="News",TV Today
+#EXTINF:-1 tvg-id="TVToday.np@SD" tvg-logo="https://i.imgur.com/WZJG13G.png" group-title="Nepali" group-title="News",TV Today
 https://webott.viatv.com.np/v0t1/Tvtoday.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SagarmathaTV.np@SD" tvg-logo="https://i.imgur.com/6SmytDa.png" group-title="Nepali" group-title="News",Sagarmatha TV 
+#EXTINF:-1 tvg-id="SagarmathaTV.np@SD" tvg-logo="https://i.imgur.com/6SmytDa.png" group-title="Nepali" group-title="News",Sagarmatha TV HD
 https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Nepali" group-title="News",METV HD
+#EXTINF:-1 tvg-id="METVHD.np " tvg-logo="https://i.imgur.com/B3O0bkI.png" group-title="Nepali",METV HD
 https://webott.viatv.com.np/v0t1/MeTV.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepali",Public 4K TV
+#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.imgur.com/SikpPTk.png " group-title="Nepali",Public 4K TV
 https://webott.viatv.com.np/v0t1/PublicTvstream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" tvg-country="NP" group-title="Nepali" group-title="Religious",Divya Darshan TV HD
-http://live.divyadarshantv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" group-title="Nepali",Capital TV HD
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="Nepali",Capital TV HD
 https://webott.viatv.com.np/v0t1/CapitalTv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepali",Nepal 1
-https://mumt05.tangotv.in/87NeALx2NEPAL1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png"  group-title="Nepali",Kantipur TV HD
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" group-title="Nepali",Capital TV HD
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" tvg-country="NP" tvg-language="Nepali;Maithili"  group-title="Nepali",Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 #EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.imgur.com/EwDQ12F.png" tvg-country="NP" group-title="Nepali" group-title="Religious",Divya Darshan TV HD
 http://live.divyadarshantv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" tvg-country="NP" group-title="Nepali",Indigenous Television 
+#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Nepali",Indigenous Television HD
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurMax.np" tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" tvg-country="NP" group-title="Nepali" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Kantipur MAX HD
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" group-title="Nepali" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Kantipur MAX HD 
+#EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" group-title="Nepali" group-title="Sports",Kantipur MAX HD 
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" group-title="Nepali",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="Nepali",Mithila Nepal TV 
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg"  group-title="Nepali",Mithila Nepal TV 
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepali",Nepal 1
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
-#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" group-title="Nepali",Public 4K TV
+#EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepali",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTodayJanakpur.np" tvg-logo="https://i.imgur.com/5fZF69m.png" group-title="Nepali",TV Today Janakpue 
+#EXTINF:-1 tvg-id="RayTV.np@SD" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Nepali",Ray TV HD
+https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np" tvg-logo="https://i.imgur.com/5fZF69m.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepali ",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 #EXTINF:-1 tvg-id="MTV.in" tvg-logo="https://i.imgur.com/m0iiFku.png" group-title="Entertainment",MTV
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" group-title="Nepali",Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
 #EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" group-title="Nepali",Capital TV HD
@@ -89,6 +67,8 @@ https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/c
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepali",Nepal 1
 https://cdn-6.pishow.tv/live/1490/master.m3u8
+#EXTINF:-1 tvg-id="RayTV.np@SD" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Nepali",Ray TV HD
+https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM 
 https://9xjio.wiseplayout.com/9XM/master.m3u8

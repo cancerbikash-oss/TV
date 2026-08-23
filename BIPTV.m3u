@@ -96,8 +96,11 @@ http://103.159.180.34:5001/live/2327.m3u8
 
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="Movies",All Time Movies 
 https://prod-runn.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
+https://runn-tv.keralive.workers.dev/penmusic/stream/altmov/manifest/1/m3u8
 #EXTINF:-1 tvg-id="AlrightTV.in" tvg-name="AlrightTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png" tvg-language="Hindi" group-title="Entertainment", Alright TV
 https://prod-runn.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="Cineshorts Premieres" tvg-logo="https://i.imgur.com/VULcpgt.png" group-title="Movies",Cineshorts Premieres
+https://prod-runn.cdn.runn.tv/runntv/stream/p_cinshf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dice Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" tvg-language="Hindi" group-title="Entertainment", Dice Media
 https://prod-runn.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
 #EXTINF:-1 tvg-id="ErosUniverseBollywoodCinema.np" tvg-logo="https://i.imgur.com/hbCL3hd.png" tvg-language="Hindi" group-title="Movies", Eros Universe Bollywood Cinema 
@@ -114,10 +117,16 @@ https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #EXTINF:-1 tvg-id="NHBollyRaga.np" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BollyRaga
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
-#EXTINF:-1 tvg-id="PocketFilms.in" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" group-title="Movies", Pocket Films
+#EXTINF:-1 tvg-id="PocketFilms.in" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-language="Hindi" group-title="Entertainment", Pocket Films
 https://prod-runn.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperfineFilmsHindi.in" tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Movies", Superfine Films
 https://prod-runn.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="Run Short Films" tvg-logo=" https://i.imgur.com/d7l2fUo.png" group-title="Entertainment",Run TV Short Films
+https://prod-runn.cdn.runn.tv/runntv/stream/p_runshf/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="Run TV Action" tvg-logo="https://i.imgur.com/MTe69xl.png" group-title="Movies", Run TV Action
+https://prod-runn.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="Runn TV Thrillers" tvg-logo="https://i.imgur.com/s61XIjm.png " group-title="Movies",Runn TV Thrillers
+https://prod-runn.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="Music",Shemaroo Filmi Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="3075" tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" tvg-language="Hindi" group-title="Movies", Shemaroo Bollywood
@@ -144,8 +153,15 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movies",Goldmines Movies 
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="Movies",All Time Movies 
-https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Hindi Movies",MO | Hindi Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png",Hindi Classic 24
+EXTGRP:Movies
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 tvg-id="ts7" tvg-logo=" https://imglink.cc/cdn/cScI5tEUjV.png" group-title="Movies", Bollywood Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Hindi Movies",South Hindi Dubbed Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
 #EXTINF:-1 tvg-id="BigMagic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540" group-title="Movies",Big Magic 
 https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="Movies",Bhojpuri Cinema
@@ -156,6 +172,7 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="tvg-id="TheMovieClub.in@Plus2" tvg-logo=" " group-title="Movies",The Movie Club +2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+
 
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Movies",B4U Bhojpuri 
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
@@ -178,9 +195,7 @@ https://cdn-2.pishow.tv/live/419/master.m3u8
 
 #EXTINF:-1, Discover Pakistan 
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png" group-title="Movies",Hindi Classic 24
-EXTGRP:Movies
-https://vods2.aynaott.com/hindimovies/index.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="IN | TOP",STAR PLUS HD (AIRTEL) #️⃣ 5
@@ -193,10 +208,8 @@ http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=943926&exten
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=373074&extension=ts&play_token=CuPocChLF4
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="IN | HINDI MOVIES (PAY)",ZEE CINEMA HD [AIRTEL]
 http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=735399&extension=ts&play_token=TWphvLHRRR
-#EXTINF:-1 group-title="India" tvg-id="Hindi Movies",MO | Hindi Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="Hindi Movies",South Hindi Dubbed Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1 group-title="Music" tvg-id="Vevo Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo Pop
 https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Romance (576p)

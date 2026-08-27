@@ -171,9 +171,6 @@ https://mumbai-edge.smartplaytv.in/B4uMusic/mpegts
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies
 https://cdn-2.pishow.tv/live/419/master.m3u8
 
-#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistan" group-title="Entertainment",Bol Entertainment
-https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
-
 #EXTINF:-1 tvg-id="8XM.pk@SD" tvg-logo="https://i.imgur.com/KLrfKRn.png" group-title="Pakistan" group-title="Music",8XM 
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="News99.pk" tvg-logo="https://i.imgur.com/a3WzZ3Z.png" group-title="Pakistan" group-title="News",News 99 HD
@@ -214,7 +211,8 @@ http://124.109.47.101/hls/stream1.m3u8
 https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
 #EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistan" group-title="Entertainment",Bol Entertainment HD
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
-
+#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistan" group-title="Entertainment",Bol Entertainment
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
 #EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistan" group-title="Entertainment",Bol Entertainment FHD
 https://cdn01.medialive.one:2096/BOLENTFHD/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Pakistan" group-title="Kids",Cartoon Network

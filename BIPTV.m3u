@@ -272,84 +272,11 @@ https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8
 #EXTINF:-1 tvg-id="LTNFamily.pk@SD" tvg-logo="https://i.ibb.co/Fk5Gfj4y/LTN-Family-HD.jpg" group-title="Pakistan" group-title="Entertainment",LTN Family
 https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
-#EXTINF:-1 tvg-id="MovieOne" tvg-logo=" " group-title="Pakistan" group-title="Movies",Movie One 
-https://vodzong.mjunoon.tv:8087/streamtest/movie-one-176/playlist.m3u8
-#EXTINF:-1 tvg-id="MEntertainment.pk" tvg-logo="https://i.imgur.com/0bOd6Tx.png" group-title="Pakistan" group-title="Entertainment",M Entertainment
-https://cdn7.abra.stream/ME/index.m3u8
-#EXTINF:-1 tvg-id="MNews.pk" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="Pakistan" group-title="News",M News
-https://cdn.rabta.stream/M-News/index.m3u8
-#EXTINF:-1 tvg-id="MSports.pk" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Pakistan" group-title="Sports",M Sports
-https://cdn.rabta.stream/M-Sports/index.m3u8
-#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Pakistan" group-title="Kids",Minimax
-https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:-1 tvg-id="MunTV,pk" tvg-logo="https://i.ibb.co/6R77Pb3p/Mun-TV-Logo-2.png" group-title="Pakistan" group-title="Entertainment",MUN 
-https://cdn01.medialive.one:2096/MUNTVFHD/index.m3u8
-https://cdn01.medialive.one:2096/GREENENTHD/index.m3u8
-#EXTINF:-1 tvg-id="MunTV,pk" tvg-logo="https://i.ibb.co/6R77Pb3p/Mun-TV-Logo-2.png" group-title="Pakistan" group-title="Entertainment",MUN 
-https://cdn01.medialive.one:2096/MUNTVFHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NeoNews.pk" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="Pakistan" group-title="News",Neo News
-https://ml-pull-dvc-myco.io:2096/NEO_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="NewsOne.pk" tvg-logo="https://i.imgur.com/ivrRYMk.png" group-title="Pakistan" group-title="News",News One
-https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/live/128H/chunks.m3u8
+
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-logo="https://i.imgur.com/O1Bavlz.png" group-title="Pakistan",PTV Home
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/live/vsat-Ptv-Home-H/chunks.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-logo="https://i.imgur.com/Fpn8VU7.pn" group-title="Pakistan" group-title="News",PTV News
 https://ml-pull-dvc-myco.io:2096/PTV_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="SABTV.pk" tvg-logo="https://i.imgur.com/hC7Sidr.png " group-title="Entertainment",Sab TV
-https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 tvg-id="SalaamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540" group-title="News",Salaam TV
-https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="SamaaTV.pk" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="Pakistan" group-title="News",Samaa TV
-https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:-1 tvg-id="SetEntertainment.pk" tvg-logo="https://i.imgur.com/ohhaJ5x.png" group-title="Pakistan" group-title="Entertainment",Set Entertainment
-https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
-#EXTINF:-1 tvg-id="SuchTV.pk" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="Pakistan" group-title="News",Such TV HD
-https://video.primexsports.com/suchnews/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-logo="https://i.imgur.com/FeSntVO.jpg" group-title="Pakistan" group-title="News", Suno News HD
-https://cdn05khi.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89M/chunks.m3u8
-#EXTINF:-1 tvg-id="SunNews.pk@SD" tvg-logo="https://i.ibb.co/nJwp6jV/Sun-News.jpg" group-title="Pakistan" group-title="News",Sun News
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/live/187H/chunks.m3u8
-#EXTINF:-1 tvg-id="TamashaLife.pk@HD " tvg-logo="https://i.ibb.co/zWx2n4gT/Tamasha-Logo.png" group-title="Pakistan" group-title="Entertainment",Tamasha Life HD
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-H/chunks.m3u8
-#EXTINF:-1 tvg-id="TamashaNews.pk@SD" tvg-logo="https://i.ibb.co/zWx2n4gT/Tamasha-Logo.png" group-title="Pakistan" group-title="News",Tamasha News 
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/live/AI-News_720p/chunks.m3u8
-#EXTINF:-1 tvg-id=" TamashaWomen.pk@SD" tvg-logo="https://i.ibb.co/zWx2n4gT/Tamasha-Logo.png" group-title="Pakistan" group-title="Entertainment",Tamasha Women
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Tamasha-Women-abr/live/twc2025_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="TimeNews.pk" tvg-logo="https://i.imgur.com/iw0H5mA.png" group-title="Pakistan" group-title="News", Time News
-https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="TimeNews.pk" tvg-logo="https://i.imgur.com/iw0H5mA.png" group-title="Pakistan" group-title="News", Time News
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/TimeNews-abr/live/vsat-125H/chunks.m3u8
-#EXTINF:-1 tvg-id=" TVToday.pk" tvg-logo=" https://i.imgur.com/MYoosNo.png" group-title="Pakistan" group-title="News", TV Today
-https://sscsott.com/tvtodaynews/live/index.m3u8
-#EXTINF:-1 tvg-id="WasebTV.pk" tvg-logo="https://i.imgur.com/RsF5yVA.png" group-title="Pakistan" group-title="News", Waseb TV
-https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="8XM.pk@SD" tvg-logo="https://i.imgur.com/KLrfKRn.png" group-title="Pakistan" group-title="Music",8XM 
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1 tvg-id="ABNNews.pk@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png" group-title="Pakistan" group-title="News", ABN News
-https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
-#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
-https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/vsat-ary-H/chunks_dvr_timeshift-0-3600.m3u8
-#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
-https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/vsat-ary-H/chunks.m3u8
-#EXTINF:-1 tvg-id="BolEntertainment.pk " tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistan" group-title="Entertainment",Bol Entertainment
-https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8 
-#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Pakistan" group-title="Entertainment",Express Entertainment
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/live/vsat-83H/chunks.m3u8
-#EXTINF:-1 tvg-id="HumTV.pk@HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Pakistan" group-title="Entertainment",Hum TV HD
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/82M/chunks.m3u8
-#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-logo="https://i.imgur.com/HWb5Iat.png" group-title="Pakistan" group-title="Music",Jalwa TV
-https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
-#EXTINF:-1 tvg-id="NeoNews.pk" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="Pakistan" group-title="News",Neo News
-https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:-1 tvg-id="SABTV.pk" tvg-logo="https://i.imgur.com/hC7Sidr.png " group-title="Entertainment",Sab TV
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146M/chunks.m3u8
-#EXTINF:-1 tvg-id="TimeNews.pk" tvg-logo="https://i.imgur.com/iw0H5mA.png" group-title="Pakistan" group-title="News", Time News
-https://vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8
-#EXTINF:-1 tvg-id="TamashaLife.pk@HD " tvg-logo="https://i.ibb.co/zWx2n4gT/Tamasha-Logo.png" group-title="Pakistan" group-title="Entertainment",Tamasha Life HD
-https://cdn05khi.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-H/chunks.m3u8
 
 #EXTINF:-1 group-title="India" tvg-id="Hindi Movies",MO | Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8

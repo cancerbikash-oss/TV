@@ -232,12 +232,16 @@ https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/ApnaChannel-134/playlist.m3u8
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
 https://cdn01.medialive.one:2096/ARYDIGITALFHD/index.m3u8
+
 #EXTINF:-1 tvg-id="ARYNews.pk" tvg-logo="https://i.imgur.com/nFnxmFC.jpeg" group-title="Pakistan" group-title="News",ARY News
 https://cdn01.medialive.one:2096/ARYNEWSFHD/index.m3u8
+
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/vsat-ary-H/chunks_dvr_timeshift-0-3600.m3u8
+
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/vsat-ary-H/chunks.m3u8
 #EXTINF:-1 tvg-id="ARYNews.pk" tvg-logo="https://i.imgur.com/nFnxmFC.jpeg" group-title="Pakistan" group-title="News",ARY News
@@ -254,6 +258,7 @@ http://124.109.47.101/hls/stream1.m3u8
 https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
 #EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-logo=" https://i.imgur.com/GfWLn3O.jpg" group-title="Pakistan" group-title="Entertainment",aurLife HD
 https://cdn4.mjunoon.tv:8087/streamtest/126M/chunks.m3u8
+
 #EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistan" group-title="Entertainment",Bol Entertainment
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
 

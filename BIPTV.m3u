@@ -309,7 +309,7 @@ https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/live/vsat-83H/chunks.m3u8
 #EXTINF:-1 tvg-id="ExpressNews.pk" tvg-logo="https://i.imgur.com/2ugiEOt.png" group-title="Pakistan" group-title="News",Express News
 https://s5.ideationtec.live/Express_News/Express_News.m3u8
-#EXTINF:-1 tvg-id="Filmax.pk@SD" tvg-logo=" https://i.imgur.com/eLmdZ6k.png" group-title="Pakistan" group-title="Movies",Filmax 
+#EXTINF:-1 tvg-id="Filmax.pk@SD" tvg-logo="https://imgur.com/eLmdZ6k" group-title="Pakistan" group-title="Movies",Filmax 
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 tvg-id="GeoEntertainment.pk" tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Pakistan" group-title="Entertainment",Geo Entertainment HD
 https://cdn01.medialive.one:2096/GEOENTFHD/index.m3u8

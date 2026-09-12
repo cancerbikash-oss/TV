@@ -82,6 +82,36 @@ http://202.70.146.135:8000/play/a058/index.m3u8
 http://202.70.146.135:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD",Disney Channel (576p)
 http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD",Nickelodeon (576p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT
+#EXTINF:-1 tvg-id="AndxplorHD.in@HD",&xplor HD (1080p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
+#EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (576p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD",Disney Channel (576p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:C8:6A&stream=1110627&extension=ts&play_token=lTZEfbEU8K
+#EXTINF:-1 tvg-id="Sonic.in@SD",Sonic (576p)
+http://202.70.146.135:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD",Nickelodeon (576p)
+http://202.70.146.135:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD",Nick Jr. (576p)
+http://202.70.146.135:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="Zing.in@SD",Zing! (576p)
+http://107.167.16.138/zing/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ZeeAction.in@SD",Zee Action (576p)
+http://107.167.16.138/zeeaction/index.m3u8?token=test
+#EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (576p)
+http://107.167.16.138/b4ukadak/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ZeeClassic.in@SD",Zee Classic (576p)
+http://107.167.16.138/zeeclassic/index.m3u8?token=test
+#EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
+http://107.167.16.138/sonymax2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="StarGold2.in@SD",Star Gold 2 (576p)
+http://107.167.16.138/stargold2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
+http://107.167.16.138/zeezesthd/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="HumNews.pk" tvg-logo="https://i.imgur.com/9OroocT.png" group-title="Pakistan" group-title="Entertainment",Hum News

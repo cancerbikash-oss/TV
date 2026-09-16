@@ -28,7 +28,7 @@ https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="METVHD.np " tvg-logo="https://i.imgur.com/B3O0bkI.png" group-title="Nepali",METV HD
 https://webott.viatv.com.np/v0t1/MeTV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Public4KTV.np@SD" tvg-logo="https://i.imgur.com/SikpPTk.png " group-title="Nepali",Public 4K TV
-https://webott.viatv.com.np/v0t1/PublicTvstream/chunks.m3u8
+https://webott.viatv.com.np/v0t1/PublicTV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="Nepali",Capital TV HD
 https://webott.viatv.com.np/v0t1/CapitalTv.stream/chunks.m3u8
 

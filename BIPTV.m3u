@@ -262,6 +262,7 @@ https://cdn4.mjunoon.tv:8087/streamtest/168M/chunks.m3u8
 https://cdn4.mjunoon.tv:8087/streamtest/169M/chunks.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Adventure",CGTN Documentary
 https://cdn4.mjunoon.tv:8087/streamtest/171M/chunks.m3u8
+#EXTINF:-1 tvg-id="TimeNews.pk" tvg-logo="https://i.imgur.com/iw0H5mA.png" group-title="Pakistan" group-title="News", Time News
 https://cdn4.mjunoon.tv:8087/streamtest/172M/chunks.m3u8
 #EXTINF:-1 tvg-id="SamaaTV.pk" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="Pakistan" group-title="News",Samaa TV
 https://cdn4.mjunoon.tv:8087/streamtest/173M/chunks.m3u8

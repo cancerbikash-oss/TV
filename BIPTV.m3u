@@ -1,4 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" tvg-language="English" group-title="Lifestyle", Travelxp HD
+http://27.116.22.53:5001/live/164.m3u8
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" group-title="Music", Music India
+http://27.116.22.53:5001/live/250.m3u8
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDEng.png" tvg-language="English" group-title="Infotainment", Discovery HD English
+http://27.116.22.53:5001/live/463.m3u8
+#EXTINF:-1 tvg-id="479" tvg-name="TLC HD English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHDEnglish.png" tvg-language="English" group-title="Lifestyle", TLC HD English
+http://27.116.22.53:5001/live/479.m3u8
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinema.png" tvg-language="Hindi" group-title="Movies", Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHindi.png" tvg-language="Hindi" group-title="Entertainment", Investigation Discovery Hindi
+http://27.116.22.53:5001/live/527.m3u8
+#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="Hindi" group-title="Kids", Nickelodeon Jr.
+http://27.116.22.53:5001/live/548.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" tvg-language="Hindi" group-title="Kids", Discovery Kids Hindi
+http://27.116.22.53:5001/live/554.m3u8
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="Kids", Pogo Hindi
+http://27.116.22.53:5001/live/559.m3u8
+#EXTINF:-1 tvg-id="1115" tvg-name="Star Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png" tvg-language="English" group-title="Movies", Star Movies
+http://27.116.22.53:5001/live/1115.m3u8
+#EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" tvg-language="Hindi" group-title="Movies", Star Gold Select
+#http://27.116.22.53:5001/live/1119.m3u8
+#EXTINF:-1 tvg-id="1294" tvg-name="Eurosport" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png" tvg-language="English" group-title="Sports", Eurosport
+http://27.116.22.53:5001/live/1294.m3u8
+#EXTINF:-1 tvg-id="1368" tvg-name="Colors SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" tvg-language="Hindi" group-title="Entertainment", Colors SD
+http://27.116.22.53:5001/live/1368.m3u8
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" tvg-language="English" group-title="Infotainment", History TV18
+http://27.116.22.53:5001/live/1471.m3u8
+#EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeClassic.png" tvg-language="Hindi" group-title="Movies", Zee Classic
+http://27.116.22.53:5001/live/1691.m3u8
+#EXTINF:-1 tvg-id="2229" tvg-name="Bhojpuri Junction" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" tvg-language="Bhojpuri" group-title="Music", Bhojpuri Junction
+http://27.116.22.53:5001/live/2229.m3u8
+#EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" tvg-language="Hindi" group-title="Entertainment", Sun Neo HD
+http://27.116.22.53:5001/live/3088.m3u8
+#EXTINF:-1 tvg-id="3276" tvg-name="Star Movies Select" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png" tvg-language="English" group-title="Movies", Star Movies Select
+http://27.116.22.53:5001/live/3276.m3u8
+#EXTINF:-1 tvg-id="3434" tvg-name="Investigation Discovery HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHDHindi.png" tvg-language="Hindi" group-title="Entertainment", Investigation Discovery HD Hindi
+http://27.116.22.53:5001/live/3434.m3u8
+#EXTINF:-1 tvg-id="3435" tvg-name="Investigation Discovery HD English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHDEnglish.png" tvg-language="English" group-title="Entertainment", Investigation Discovery HD English
+http://27.116.22.53:5001/live/3435.m3u8
+#EXTINF:-1 tvg-id="3436" tvg-name="Cartoon Network HD+ Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDHindi.png" tvg-language="Hindi" group-title="Kids", Cartoon Network HD+ Hindi
+http://27.116.22.53:5001/live/3436.m3u8
+#EXTINF:-1 tvg-id="3452" tvg-name="Investigation Discovery English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDEnglish.png" tvg-language="English" group-title="Entertainment", Investigation Discovery English
+http://27.116.22.53:5001/live/3452.m3u8
+#EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png" tvg-language="Hindi" group-title="Infotainment", Discovery Science Hindi
+http://27.116.22.53:5001/live/3453.m3u8
+
 #EXTINF:-1 tvg-id="ZeeNepal4KTV.np" tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
 https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="OmkarTV.np@SD" tvg-logo="https://i.imgur.com/ZwD1iG8.png" group-title="Nepali" group-title="Religious",Omkar TV
@@ -77,6 +124,8 @@ http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v8
 http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="MTV.in" tvg-logo="https://i.imgur.com/m0iiFku.png" group-title="Entertainment",MTV
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" group-title="Music", MTV HD
+http://27.116.22.53:5001/live/1145.m3u8
 #EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Nepali" group-title="Kids",Nick Junior
 http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Nepali" group-title="Kids", Nick Hindi (Tata Play)

@@ -17,7 +17,13 @@ http://27.116.22.53:5001/live/548.m3u8
 http://27.116.22.53:5001/live/554.m3u8
 #EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-language="Hindi" group-title="Kids", Pogo Hindi
 http://27.116.22.53:5001/live/559.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold HD
+http://51.75.127.199:3141/stargold/index.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold 2
+http://51.75.127.199:3141/stargold2/index.m3u8
 #EXTINF:-1 tvg-id="1115" tvg-name="Star Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png" tvg-language="English" group-title="Movies", Star Movies
+http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+#EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" tvg-language="Hindi" group-title="Movies", Star Gold Select HD
 http://27.116.22.53:5001/live/1115.m3u8
 #EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" tvg-language="Hindi" group-title="Movies", Star Gold Select
 #http://27.116.22.53:5001/live/1119.m3u8

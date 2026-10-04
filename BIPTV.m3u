@@ -553,8 +553,10 @@ https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Entertainment",Epic Bharat
+https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
+#EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Entertainment",Epic Bharat
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music Digital
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music
 https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music",Epic Music Digital
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
@@ -563,15 +565,15 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Entertainment",Epic Bharat
 https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuri.in@Digital",Epic Bhojpuri Digital (1080p)
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@Digital" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies"Epic Bhojpuri Digital (1080p)
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies",Epic Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png" tvg-language="Bhojpuri" group-title="Movies", EPIC Bhojpuri
 http://103.159.180.34:5001/live/3384.m3u8
-#EXTINF:-1 tvg-id="EpicCrimes.in" tvg-logo="https://i.imgur.com/EFDsCkH.png" group-title="Entertainment", Epic Crimes
+#EXTINF:-1 tvg-id="EpicCrimes.in" tvg-logo="https://i.imgur.com/EFDsCkH.png" group-title="Entertainment", Epic Crimes Digital 
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
-#EXTINF:-1 tvg-id="EpicKids.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids", Epic Kids
+#EXTINF:-1 tvg-id="EpicKids.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" group-title="Kids",Epic Kids Digital 
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicParivar.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHARA_TV/images/LOGO_HD/image.png" group-title="Music",Epic Parivar (Aiirtel)
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441435.m3u8

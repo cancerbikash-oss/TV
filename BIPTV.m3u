@@ -48,7 +48,7 @@ http://51.75.127.199:3141/starsports1/index.m3u8
 http://27.116.22.53:5001/live/1119.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",Star Movies
 http://27.116.22.53:5001/live/1115.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="Movies",Star Movies Select
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select
 http://27.116.22.53:5001/live/3276.m3u8
 
 

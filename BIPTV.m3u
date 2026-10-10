@@ -1,14 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
-
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Nepali" group-title="International" group-title="Movies",HITS Movies
 http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ne8gv39.png" group-title="Nepali" group-title="International" group-title="Movies",HITS NOW
-
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
-#EXTINF:-1 tvg-id=" HBOAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Nepali" group-title="Movies", HBO Asia 
 
 
 

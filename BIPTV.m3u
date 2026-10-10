@@ -1,5 +1,32 @@
 #EXTM3U
 
+<========================= HBO Group ===================================> 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/ 
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
+#KODIPROP:inputstream.adaptive.license_key=https://worker-little-bread-fe1e.aimiemah.workers.dev/ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO 
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Nepali" group-title="International" group-title="Movies",HITS Movies
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ne8gv39.png" group-title="Nepali" group-title="International" group-title="Movies",HITS NOW
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
+
+#EXTINF:-1 tvg-id=" HBOAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Nepali" group-title="Movies", HBO Asia 
+
+
 
 #EXTINF:-0 group-title="TH" tvg-id="hbo.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey

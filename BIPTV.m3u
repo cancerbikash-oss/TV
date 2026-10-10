@@ -192,12 +192,6 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #KODIPROP:inputstream.adaptive.license_key={"8e66726c1191403588f95c0757613ff1":"67c26ba7f9b84024944808e01bbe6f47"}
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 
-#EXTINF:-1 tvg-logo="",Cartoonito
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ad2371259d34404cb89d54a4dc88dcd3":"1ba155e345c4456ba891cbee9b3e1c4c"}
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Nepali" group-title="International" group-title="Movies",HITS Movies

@@ -894,12 +894,6 @@ http://206.212.244.63/168/index.m3u8
 
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" tvg-language="English" group-title="Movies", Ebony TV by Lionsgate
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
-#EXTINF:-1 tvg-id="GhostHunters.us" tvg-logo="https://i.imgur.com/KdBr6rG.png" tvg-language="English" group-title="Movies", Ghost Hunters
-https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
-#EXTINF:-1 tvg-id="GhostHunters.us" tvg-logo="https://i.imgur.com/KdBr6rG.png" tvg-language="English" group-title="Movies", Ghost Hunters
-https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
-#EXTINF:-1 tvg-id="GhostHunters.us" tvg-logo="https://i.imgur.com/KdBr6rG.png" tvg-language="English" group-title="Movies", Ghost Hunters
-https://jmp2.uk/plu-65cf8ace332fec00081e7ea2.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://i.imgur.com/mFxUpGU.png" tvg-language="English" group-title="Movies",MovieSphere by Lionsgate
 https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://i.imgur.com/mFxUpGU.png" tvg-language="English" group-title="Movies",MovieSphere by Lionsgate Australia
@@ -910,7 +904,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="MovieSphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" tvg-language="English" group-title="Movies",OuterSphere
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
-#EXTINF:-1 tvg-id="WantedDeadorAlive.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/vaSXaFp.png" tvg-language="English" group-title="Movies",Wanted: Dead or Alive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vaSXaFp.png" group-title="International" group-title="Movies",Wanted: Dead or Alive
 https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-logo="https://i.ibb.co/LXF81RDz/Lotus-TV-Macau-logo.jpg" group-title="Movies",Lotus Macau
@@ -958,6 +952,9 @@ http://107.167.16.138/sonymax2/index.m3u8?token=test
 http://107.167.16.138/stargold2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZeeZest.in@HD",Zee Zest HD (1080p)
 http://107.167.16.138/zeezesthd/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5XIFuW.png",Ten Cricket
+http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="365News.pk" tvg-logo="https://i.imgur.com/8I6PWof.png" group-title="Pakistan" group-title="News",365 News
 https://s4.ideationtec.live/News_365/News_365.m3u8

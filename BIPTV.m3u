@@ -1,55 +1,209 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
-#EXTINF:-1 tvg-logo="",MN_Plus_HD
+#EXTINF:-1 tvg-logo="",And_Pictures
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"40f019b86241d23ef075633fd7f1e927":"058dec845bd340178a388edd104a015e"}
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"8dea532cabfe4f71ba20f62310e7949f":"7a214a974e4f4d1d9bb66364d5f0cb92"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/index.mpd
 
-#EXTINF:-1 tvg-logo="",MNX_HD
+#EXTINF:-1 tvg-logo="",And_TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"40f019b86241d23ef075633fd7f1e927":"058dec845bd340178a388edd104a015e"}
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"26df86eeebb04d7fbc45c948f76e81fd":"5f3a23f1a73c4c96ababce5fffe7b06b"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/index.mpd
 
-#EXTINF:-1 tvg-logo="",Movies_Now_HD
+#EXTINF:-1 tvg-logo="",Epic
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"40f019b86241d23ef075633fd7f1e927":"058dec845bd340178a388edd104a015e"}
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"f21752a2fa0a4fa3b49b973cf7a97a6d":"49305a9be6a4470ab0725e8dc0115296"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Epictv2/default/index.mpd
 
-#EXTINF:-1 tvg-logo="",Romedy_Now
+#EXTINF:-1 tvg-logo="",ET_Now
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"40f019b86241d23ef075633fd7f1e927":"058dec845bd340178a388edd104a015e"}
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"df4b500a9d1242a6bd9767035d53cd0b":"2370910c39b747419ef50c3d8b8d1d66"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Etnow2/default/index.mpd
 
-=========================================================== Times Play ==========================================================================================================
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Times play",Movies Now HD
+#EXTINF:-1 tvg-logo="",Times_Now_Navbharat
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dp8vjjam4foas.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-logo="",France_24
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="",Discovery_(Hindi)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"b70a8cf9450c4d6484b4ac4d3c6761c0":"0908be844260409cbac180bf0181da40"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Times play",Movies Now HD
+#EXTINF:-1 tvg-logo="",Russia_Today
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://wisewatchoott.wiseplayout.com/RT/HD1080/HD1080.m3u8
+
+#EXTINF:-1 tvg-logo="",Discovery_Kids_(Hindi)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"601f58d4b7094d2baf78c85d1d9cb6c9":"609e0cc03198455fa36fd2cc3e7f940d"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Times play",MNX HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Times play",MN+
+#EXTINF:-1 tvg-logo="",Discovery_Science_(English)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"5458f45efedb4d6f8aa6ac76c85b621b":"dbf8a0a306a64525ba3012fd225370c0"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="Times play",Romedy Now
+#EXTINF:-1 tvg-logo="",Discovery_Turbo_(English)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"c011525969e44b99a86059dbb3cdf4e8":"6700a5d93203417b8585f7de7dd1a09b"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Investigation_Discovery
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2828ea6f6a984505b0454da0c03f68b9":"5d3b7195086544c2807aa8c1544e7379"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",TLC_(English)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e48e7373d6be47ecab83a20849f6823e":"513ce07a2ee24ffdbe667eff5a9d46a8"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Korean_Drama_Active
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ed197e7253c04946903f03bad9afac91":"99ebb8683ea74b70a9fda1cbdc2cc1b4"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Music_India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e874f3a7e5de42fca2b2a93b318fa52e":"a77f240d277c47a5a0bc934072c4d7da"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Sony_BBC_Earth_HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Entertainment_Television_HD_(SET_HD)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Marathi
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_MAX
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Max_2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_MAX_HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Pal
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_PIX_HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_SAB_HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Sports_Ten_1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Sports_Ten_1_HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Sports_Ten_2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Sports_Ten_2_HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Sports_Ten_3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Sports_Ten_3_HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Sports_Ten_5
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Wah
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Sony_Yay
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Zee_Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9d7a1917ee3244d198193cdd1ff1feae":"3c3e8d0259f748f1830f713a769760e7"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Zee_Anmol
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4023613457774cbeb71a62c339970e63":"1c3e9fce5f014542be9cd1f749181204"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Zee_Anmol_Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"812411cba8bc42c79eb2b19cd78ad3f3":"468a0b8d3d5d42d8a5c41bb875390a74"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Zee_Bollywood
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e61523260c614746b25b9a5523fe9a39":"72ddbf37f76f49acbb8e140e7279e7a1"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Zee_Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"43513b13f4b542e39c9265921dfc1726":"b0b2678bcd274c37b888a6c987d502ed"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Zee_TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ed068cf84f0640ccbc7c0e395c0a272e":"bb722190f2bb446391020411a7d0828b"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Zing
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"86edec9e3b7d4042a4d4a1ca14f847ee":"9def4315f0004019a3705bcb3cf30ca3"}
+http://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/master.m3u8
+
+#EXTINF:-1 tvg-logo="",Zoom
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"86edec9e3b7d4042a4d4a1ca14f847ee":"9def4315f0004019a3705bcb3cf30ca3"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/index.mpd
+
 
 ================================================================ Indian =======================================================================================================
 #EXTINF:-1 tvg-logo="" group-title="Indian",Sony Max
@@ -617,6 +771,30 @@ https://mumbai-edge.smartplaytv.in/B4uMusic/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U Music
 https://mumbai-edge.smartplaytv.in/B4uMusic/mpegts
 
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Times play",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Times play",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Times play",MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="Times play",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Times play",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Nepali" group-title="International" group-title="Movies",HITS Movies

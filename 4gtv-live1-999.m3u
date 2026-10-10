@@ -1,1 +1,49 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",B-r-a-z-z-e-r-s_TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"31ab060333775ed084b971b5271addf7":"2ce7cb14d3acb00b5f754f094cc76883","38b26aa5da8c5dc0b323532a23b3c7ad":"4c57a7b68c6ae6d46f52e4d77261d881"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/B-r-a-z-z-e-r-s_TV/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",EroX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fd198c64ddf4594ca852973de969ae31":"dab32baf8c8aa9b9c0cb46aa808c6f0b","23d19253b51256b788abd4d472fbe3ee":"0b2c182758d8aab051ed6fa586976400"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/EroX/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",EroXXX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c4bc25bebe05adc95c13e349078a09f":"49fc26e3a6d4494323a3e974fa2a1268","30a040555721522a96aacbc024ef9bb3":"03374a69a61b601df603a903d7865c32"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/EroXXX/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Hustler_TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cc35e0cc4b0c5e4c85939021f398a3af":"6fdbbf4bfa473009a3fcc2cfd08b1fa9","39457887972d5439ba1e0b65aa4f0d0c":"cb9b841a3aa4a29c6c05d06aa3a426a4"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HustlerTV/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Private_TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0096abe6c3725149be63d2cfaadf22aa":"199616cd2305e204a66b1240b051c4f7","4dfc5774ef655575835e15e11707d135":"1fa6596a2b69209a776cd9051e41c30a"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/PrivateTV/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Vivid_Red
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7d301475ceab5c0288c032639fd8849c":"4c9336abd5263079600a899277f023e3","a6abeac272c15b36b8d216ea01362d68":"3666ab49fd32d063878f1d2e6c7dfda2"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/VividRed/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Vivid_Touch
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f9d2ab461aef50e5a45c4f796c519fb8":"27ee8145ae7300975e5d83313a98f5c7","4d61e8dea11156be983c1ace1e131d16":"6576599048885586485978d470517e9e"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/VividTouch/default/index.mpd
+
+#EXTINF:-1 tvg-logo="",Vivid_TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0a23f7cd05de5fb48393db5242da858e":"976119f381310656f68622720bcd2d71","6c685bb9f319529c8ce5a5054d08f04c":"21eae8b9224e7626d1e4f5eb80e210b0"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/VividTV/default/index.mpd
+

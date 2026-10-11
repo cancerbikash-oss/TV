@@ -1,15 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
-#EXTINF:-1 tvg-id="MTV.in@SD",MTV (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Entertainment",MTV 
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.in@SD",MTV (576p)
+#EXTINF:-1 tvg-logo="" group-title="Movies",Shemaroo Bollywood
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://runn-tv.keralive.workers.dev/shemaroo/stream/smrbol/manifest/1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",& Pictures HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
 
 #EXTINF:-1 tvg-logo="",France_24
 #KODIPROP:inputstream.adaptive.manifest_type=hls

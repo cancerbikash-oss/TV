@@ -185,9 +185,16 @@ https://m3u.8088y.fun/jtvp/zee_cinema_HD.mpd?tk=testing
 https://alex4528.site/jplus/oi0ILIOLoOi1iiL1LIll0l/manifest.mpd
 
 
-
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" group-title="Kids",POGO
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Entertainment",Sony KAL Hindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BBhJXAG.png" group-title="Sports",Sony Sports 1
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/feRR4ts.png" group-title="Sports",Sony Sports 2
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gTgLrOS.png" group-title="Movies",Sony PIX
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment",Sony Entertainment
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2
@@ -586,7 +593,7 @@ https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Nepali" group-title="International" group-title="Movies",HITS Movies
 http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ne8gv39.png" group-title="Nepali" group-title="International" group-title="Movies",HITS NOW
-http://103.151.60.162:2122/play/a01g/index.m3u8?hls
+
 #EXTINF:-1 tvg-id=" HBOAsia.sg @SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="International" group-title="Nepali" group-title="Movies", HBO Asia 
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-0 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/330px-HBO_Family_Asia_logo.svg.png" group-title="Nepali" group-title="International" group-title="Movies",HBO FAMILY

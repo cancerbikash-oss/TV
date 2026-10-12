@@ -6,34 +6,35 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",& Pictures HD
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
 
-#EXTINF:-1 tvg-logo="",France_24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTrXdtQ.png" group-title="News",France 24
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="",Russia_Today
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YicWOB.png" group-title="News",Russia Today
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://wisewatchoott.wiseplayout.com/RT/HD1080/HD1080.m3u8
-
-#EXTINF:-1 tvg-logo="",Balle_Balle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YicWOB.png" group-title="News",Russia Today
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkZQlTi.png",Balle Balle
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="",Balle_Balle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkZQlTi.png" group-title="Music",Balle_Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Pitaara
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DY10IAB.png" group-title="Movies",Pitaara
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-583798/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DY10IAB.png" group-title="Movies",Pitaara
+https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 
-#EXTINF:-1 tvg-logo="",Divya
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5f43FhG.png" group-title="Religious",Divya
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5f43FhG.png" group-title="Religious",Divyya
+https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5f43FhG.png" group-title="Religious",Divyya
+https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
 ================================================================ Indian =======================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" group-title="Indian",Sun Neo HD

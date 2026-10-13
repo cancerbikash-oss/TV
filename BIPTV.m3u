@@ -3,7 +3,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Anmol Cinemma
-KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd

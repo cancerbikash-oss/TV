@@ -1,5 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
+#EXTINF:-1, CCCM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
+https://php.946985.filegear-sg.me/mytv265.php?id=CCCM
+
+#EXTINF:-1, ROCK Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
+https://php.946985.filegear-sg.me/mytv265.php?id=CRTX
+
+#EXTINF:-1, ROCK Extreme
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
+https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
+
+#EXTINF:-1, ROCK Entertainment
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
+https://php.946985.filegear-sg.me/mytv265.php?id=CRTE
+
+
 
 ###EXTINF:-1 tvg-id="514.astro" group-title="News & Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",514 Sky News HD
 ###KODIPROP:inputstream.adaptive.license_type=clearkey

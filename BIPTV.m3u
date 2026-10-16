@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="International" group-title="Movies",CCCM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -14,7 +12,6 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CCCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
 https://php.946985.filegear-sg.me/mytv265.php?id=CRTX
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Nepali" group-title="International" group-title="Movies",ROCK Entertainment
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

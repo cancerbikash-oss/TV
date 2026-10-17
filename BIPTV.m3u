@@ -72,7 +72,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42oqEcQ.png" group-title="Entertainment",MTV HD
 http://51.75.127.199:3141/mtvhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bxUoEaW.png" group-title="Nepal" group-title="Music,& Picyures
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies,& Pictures
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
@@ -86,7 +86,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bxUoEaW.png" group-title="Nepal" group-title="Music,MTV 
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://kableone.keralive.workers.dev/hls/live/2111218/SagaHits/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Kids",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8

@@ -100,6 +100,11 @@ https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://kableone.keralive.workers.dev/hls/live/2111218/SagaHits/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFpyif9.png" group-title="Music",Saga Music HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://kableone.keralive.workers.dev/hls/live/2111218/SagaMusic/2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Kids",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
@@ -125,56 +130,6 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Documentary",Investigation Discovery
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Nepali" group-title=""CINEMAX
-https://tinyurl.com/44efw2rx
-#EXTINF:-1 tvg-logo="" group-title="Nepali" group-title=""HBO
-https://tinyurl.com/yn3d3rmd
-#EXTINF:-1 tvg-logo="" group-title="Nepali" group-title=""HBO
-https://2x2.me/yTKXaE
-#EXTINF:-1 tvg-logo="" group-title="Nepali" group-title=""HBO Hits
-https://2x2.me/BbwzPx
-#EXTINF:-1 tvg-logo="" group-title="Nepali" group-title=""CINEMAX
-http://125.227.210.55:1001/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="" group-title="Nepali" group-title=""HBO HD
-http://125.227.210.55:1003/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="" group-title="Nepali" group-title=""CNBC
-http://125.227.210.55:1002/VideoInput/play.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="International" group-title="Movies",CCCM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
-https://php.946985.filegear-sg.me/mytv265.php?id=CCCM
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Nepali" group-title="International" group-title="Movies",ROCK Action
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
-https://php.946985.filegear-sg.me/mytv265.php?id=CRTX
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Nepali" group-title="International" group-title="Movies",ROCK Entertainment
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
-https://php.946985.filegear-sg.me/mytv265.php?id=CRTE
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp" group-title="Nepali" group-title="International" group-title="Movies",ROCK X Stream
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
-
-
-
-
-###EXTINF:-1 tvg-id="514.astro" group-title="News & Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",514 Sky News HD
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
-
-
 
 #EXTINF:-1 tvg-id="CinemaxHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",418 Cinemax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -339,18 +294,12 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
 
 
-
-
 ================================================================ Indian =======================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" group-title="Indian",Sun Neo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
 https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" group-title="Kids",POGO
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
@@ -511,22 +460,44 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
+https://ssai.aniview.com/api/v1/hls/streams/sessions/30a0ed8cf12c4a2c9905eeed75e1d995/media/index.m3u8/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music", Music India
-http://27.116.22.53:5001/live/250.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFpyif9.png" group-title="Music", Saga Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ncmCfD7.png" group-title="Music",Only Music HD
+https://mumbai-edge.smartplaytv.in/OnlyMusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFpyif9.png" group-title="Music",Saga Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H6JoM4.png" group-title="Music",Saga Music Haryanvi
-http://27.116.22.53:5001/live/2750.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://kableone.keralive.workers.dev/hls/live/2111218/SagaHaryanvi/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4Phtwa.png" group-title="Music",Sangeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZYNZLh.png" group-title="Music",Steelbird Music TV
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H6JoM4.png" group-title="Music",Vision Beats
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://visionbeats.keralive.workers.dev/Visionbeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKj3F4M.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="Music",Zoom 
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://fta.ektv.in/live/159/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
+https://vglivessai.akamaized.net/ptnr-lg/title-E24/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5f606700-95e1-427f-aa03-2a9f3ed40f18/ae3c00c7e3f0a054ef42f8fc0db9272a/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
+https://samitaorigin.tangotv.in/E24/SAMITAORIGIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music", Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKj3F4M.png" group-title="Music",YRF Music
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="Music",Zoom 
@@ -535,6 +506,12 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png" group-title="Movies",Lionsgate Play
 http://27.116.22.53:5001/live/2327.m3u8
 
+#EXTINF:-1 tvg-id="54" tvg-logo="",All Time Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://fta.ektv.in/live/54/54_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ir4uK71.png",All Time Movies (576p)
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rKfTZJx.png" group-title="Movies",Bollygold

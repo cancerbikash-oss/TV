@@ -90,15 +90,15 @@ https://kableone.keralive.workers.dev/hls/live/2111218/SagaMusic/2.m3u8
 https://yupp-tv.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" group-title="Movies",Zee Bollywood
 https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment,Zee Tv HD APAC
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee Tv HD APAC
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://colors.keralive.workers.dev/260723/smil:zeetvapachd.smil/chunklist_b896000.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540" group-title="Entertainment,Star Bharat USA 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Star Bharat USA 
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starbharatus_us_https/e1313a1b-3603-45b2-9140-afbc8f1eb05d/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment,Star Plus USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",Star Plus USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/c94c540a-72e9-42e5-9b9d-2bf9663e3f40/0.m3u8
@@ -141,8 +141,6 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
-
 
 #EXTINF:-1 tvg-id="Warner" group-title="Variety" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",712 Warner TV
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36

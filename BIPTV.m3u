@@ -102,6 +102,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Anmol Cinemma
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies",Shemaroo Filmi Gaane
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://runn-tv.keralive.workers.dev/shemaroo/stream/smrfgn/manifest/3.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies",& Pictures
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -124,10 +133,6 @@ https://yupp-music.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/c94c540a-72e9-42e5-9b9d-2bf9663e3f40/0.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Anmol Cinemma
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxUoEaW.png" group-title="Nepal" group-title="Music,MTV 
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/

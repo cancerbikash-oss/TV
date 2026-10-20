@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
 
+
+#EXTINF:-1 tvg-id="EUROSPORTHD" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Eurosport.png",830 EUROSPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30cceb96616646fcb9d0d4337d6b1d67:636003cec1d74b159b599f8dd7260e97
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 ================================================================ Nepali =======================================================================================================
 #EXTINF:-1 tvg-id="ZeeNepal4KTV.np" tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
 https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8

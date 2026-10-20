@@ -5,16 +5,18 @@
 
 
 
+
+
+================================================================ Nepali =======================================================================================================
+#EXTINF:-1 tvg-id="ZeeNepal4KTV.np" tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
+https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="HITS" group-title="as" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png",706 HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
-
-================================================================ Nepali =======================================================================================================
-#EXTINF:-1 tvg-id="ZeeNepal4KTV.np" tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
-https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="OmkarTV.np@SD" tvg-logo="https://i.imgur.com/ZwD1iG8.png" group-title="Nepali" group-title="Religious",Omkar TV
 https://webott.viatv.com.np/v0t1/OmkarTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="JanataTV.np" tvg-logo="https://i.imgur.com/2gUmIxr.png " group-title="Nepali" group-title="News",Janata TV HD

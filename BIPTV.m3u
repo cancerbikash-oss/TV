@@ -600,7 +600,7 @@ https://ssai.aniview.com/api/v1/hls/streams/sessions/30a0ed8cf12c4a2c9905eeed75e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music",Music India
-https://cdn-2.pishow.tv/ott/live/226/master.m3u8
+https://cdn.pishow.tv/ott/live/226/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music",Music India
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ncmCfD7.png" group-title="Music",Only Music HD
@@ -614,7 +614,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://kableone.keralive.workers.dev/hls/live/2111218/SagaHaryanvi/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4Phtwa.png" group-title="Music",Sangeet Bhojpuri
-https://cdn-4.pishow.tv/ott/live/1293/master.m3u8
+https://cdn.pishow.tv/ott/live/1293/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZYNZLh.png" group-title="Music",Steelbird Music TV
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits

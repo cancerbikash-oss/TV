@@ -145,19 +145,19 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 #KODIPROP:inputstream.adaptive.license_key={"07b138f30ad3441ca5a2f476e550af25":"826ee4deef4b45cfafd5f79a591b15c6"}
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-#EXTINF:-1 tvg-logo="",HBO_Hits
+#EXTINF:-1 tvg-logo="",HBO_Hits (Not Working)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
-#EXTINF:-1 tvg-logo="",HBO_Signature
+#EXTINF:-1 tvg-logo="",HBO_Signature (Not Working)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0db89bae851440a5994f5893ad480494":"d88ef77eaedf4451a65be2e0bf6eabde"}
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
-#EXTINF:-1 tvg-logo="",HBOHD
+#EXTINF:-1 tvg-logo="",HBOHD (Not Working)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9c5735afb4fd402580360aed8364469c":"128d55d9ac2b47ad85f86b5d08320179"}
@@ -174,6 +174,12 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/18/18.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"edef8ba979d64acea3c827dcd51d21ed":"1c9f0222e49da66fc785376c0645d86d"}
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CIewpi.png" group-title="International" group-title="Movies",Mono29Plus
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/MONOMAX_Sports_2026.svg" group-title="International" group-title="Sports",MONOMAX Sports (Mono29)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

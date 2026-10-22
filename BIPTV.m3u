@@ -619,7 +619,7 @@ https://cdn.pishow.tv/ott/live/1293/master.m3u8
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
 https://livingindiaottlive.akamaized.net/tabbarhits/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H6JoM4.png" group-title="Music",Vision Beats
+#EXTINF:-1 tvg-logo="https://imgur.com/a/NoDu5p6" group-title="Music",Vision Beats
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://visionbeats.keralive.workers.dev/Visionbeats/tracks-v1a1/mono.m3u8

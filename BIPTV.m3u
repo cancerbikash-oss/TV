@@ -99,6 +99,35 @@ https://ott-nettv-02.nettv.com.np/ottlivestream/netGlobalTvNep.stream/chunks.m3u
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-nettv-02.nettv.com.np/ott_abr/tvtodayabr.stream/ottlive/netTVTODAYHIGH.stream/chunks.m3u8?nimblesessionid=16166897&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYG95hx.png" group-title="Nepali",Nari HD
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/ott_abr/tvfilmyabr.stream/ottlive/netTVFILMYHIGH.stream/chunks.m3u8?nimblesessionid=16167185&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAs5pI.png" group-title="Nepali",Himshikhar TV
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/ottlivestream/netHimShikharTV1500.stream/chunks.m3u8?nimblesessionid=16167490&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTo6B11.png" group-title="Nepali",Bodhi TV HD
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/iptvlive_abr/bodhitvabr.stream/iptvlivestream/netBodhi1500.stream/chunks.m3u8?nimblesessionid=16167757&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E87Wq2l.png" group-title="Nepali",Kastamandap Television
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/ottlivestream/Kasthmandap/chunks.m3u8?nimblesessionid=16169019&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbWvGuX.png" group-title="Nepali",Kastamandap Gold HD
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/ottlivestream/KARUWATV.STREAM/chunks.m3u8?nimblesessionid=16168431&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3xjhoO.png" group-title="Nepali",Channel 4 Nepal
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/ottlivestream/netCHFOUR1500.stream/chunks.m3u8?nimblesessionid=16169469&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f988SdZ.png" group-title="Nepali",Nepal Network TV
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/ottlivestream/netNepalNetwork.stream/chunks.m3u8?nimblesessionid=16169782&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO
+
 
 #EXTINF:-1 tvg-id="FoodNetworkHD.sg" group-title="Variety" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",708 Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey

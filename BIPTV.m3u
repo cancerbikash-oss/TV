@@ -1,25 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
-#EXTINF:-1 tvg-id="HBOHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",AP1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJPqP0Nb/ntv-hd.png" group-title="Nepali",Nepal Television HD
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+https://ott-wlink-01.nettv.com.np/ott_abr/ntvnepalhdabr.stream/ottlive/netNTVNEPAL720.stream/chunks.m3u8?nimblesessionid=59994118&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA5OjE3OjM2IEFNJmhhc2hfdmFsdWU9bEdkRnRDT0FMWmQvZ2o0QUF1cURFdz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU1UazBPVEVzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuSHFvaEhady1iX0lXYl9uTEJfSlN3YjY0S0NLb2lhRE9BdkpJVThKaXUwQQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png" group-title="Nepali",AP1 HD
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-wlink-01.nettv.com.np/ott_abr/ap1hdabr.stream/ottlive/netAP1HD1500.stream/chunks.m3u8?nimblesessionid=59994041&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA5OjE3OjM2IEFNJmhhc2hfdmFsdWU9bEdkRnRDT0FMWmQvZ2o0QUF1cURFdz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU1UazBPVEVzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuSHFvaEhady1iX0lXYl9uTEJfSlN3YjY0S0NLb2lhRE9BdkpJVThKaXUwQQ==
-#EXTINF:-1 tvg-id="HBOHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",AP1 HD
-#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
-https://ott-wlink-01.nettv.com.np/ott_abr/ap1hdabr.stream/ottlive/netAP1HD1500.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",NTV
-#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
-https://ott-wlink-01.nettv.com.np/ott_abr/ntvnepalhdabr.stream/ottlive/netNTVNEPAL720.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",Nepal TV
-#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
-https://ott-wlink-01.nettv.com.np/ott_abr/ntvnepalhdabr.stream/ottlive/netNTVNEPAL720.stream/chunks.m3u8?nimblesessionid=59994118&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA5OjE3OjM2IEFNJmhhc2hfdmFsdWU9bEdkRnRDT0FMWmQvZ2o0QUF1cURFdz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU1UazBPVEVzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuSHFvaEhady1iX0lXYl9uTEJfSlN3YjY0S0NLb2lhRE9BdkpJVThKaXUwQQ==
-#EXTINF:-1 tvg-id="HBOHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",Image Channel
-#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
-https://ott-wlink-01.nettv.com.np/ott_abr/imageabr.stream/ottlive/netIMAGEHIGH.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",Image Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xctHWUv.png" group-title="Nepali",Image Channel HD
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 https://ott-wlink-01.nettv.com.np/ott_abr/imageabr.stream/ottlive/netIMAGEHIGH.stream/chunks.m3u8?nimblesessionid=59994175&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA5OjE3OjM2IEFNJmhhc2hfdmFsdWU9bEdkRnRDT0FMWmQvZ2o0QUF1cURFdz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU1UazBPVEVzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuSHFvaEhady1iX0lXYl9uTEJfSlN3YjY0S0NLb2lhRE9BdkpJVThKaXUwQQ==
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",AP1 HD
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+
+#EXTINF:-1 tvg-id="HBOHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",NTV
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+
+#EXTINF:-1 tvg-id="HBOHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",Image Channel
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+
 
 
 #EXTINF:-1 tvg-id="FoodNetworkHD.sg" group-title="Variety" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",708 Food Network

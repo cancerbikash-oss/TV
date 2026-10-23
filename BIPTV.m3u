@@ -26,7 +26,7 @@ https://ott-nettv-02.nettv.com.np/ott_abr/ntvkohalpurabr.stream/ottlive/netNTVKO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png" group-title="Nepali",AP1 HD
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ott-wlink-01.nettv.com.np/ott_abr/ap1hdabr.stream/ottlive/netAP1HD1500.stream/chunks.m3u8?nimblesessionid=59994041&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA5OjE3OjM2IEFNJmhhc2hfdmFsdWU9bEdkRnRDT0FMWmQvZ2o0QUF1cURFdz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU1UazBPVEVzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuSHFvaEhady1iX0lXYl9uTEJfSlN3YjY0S0NLb2lhRE9BdkpJVThKaXUwQQ==
+https://ott-nettv-02.nettv.com.np/ott_abr/ap1hdabr.stream/ottlive/netAP1HD1500.stream/chunks.m3u8?nimblesessionid=16165015&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA0OjAxOjIxIFBNJmhhc2hfdmFsdWU9VzhGYkszOXNHc2QyOUtxeWd5UWRiUT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a62DiwH.png" group-title="Nepali",Himalaya TV HD
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -71,6 +71,10 @@ https://ott-nettv-02.nettv.com.np/ott_abr/abcnewsabr.stream/ottlive/netABCHIGH.s
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-nettv-02.nettv.com.np/ott_abr/sagarmathaabr.stream/ottlive/netSAGARHIGH.stream/chunks.m3u8?nimblesessionid=16163699&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA0OjAxOjIxIFBNJmhhc2hfdmFsdWU9VzhGYkszOXNHc2QyOUtxeWd5UWRiUT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvCQYgu.png" group-title="Nepali",Janata HD
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/ott_abr/jantahdabr.stream/ottlive/netJANTATV720.stream/chunks.m3u8?nimblesessionid=16165113&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA0OjAxOjIxIFBNJmhhc2hfdmFsdWU9VzhGYkszOXNHc2QyOUtxeWd5UWRiUT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8LuE6SJ.jpg" group-title="Nepali",Makalu TV HD
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJPqP0Nb/ntv-hd.png" group-title="Nepali",Nepal Television HD
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 https://ott-wlink-01.nettv.com.np/ott_abr/ntvnepalhdabr.stream/ottlive/netNTVNEPAL720.stream/chunks.m3u8?nimblesessionid=59994118&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA5OjE3OjM2IEFNJmhhc2hfdmFsdWU9bEdkRnRDT0FMWmQvZ2o0QUF1cURFdz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU1UazBPVEVzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuSHFvaEhady1iX0lXYl9uTEJfSlN3YjY0S0NLb2lhRE9BdkpJVThKaXUwQQ==

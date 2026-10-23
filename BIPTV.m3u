@@ -5,7 +5,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJPqP0Nb/ntv-hd.png" group-title="Nepali",Nepal Television HD
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
-https://ott-wlink-01.nettv.com.np/ott_abr/ntvnepalhdabr.stream/ottlive/netNTVNEPAL720.stream/chunks.m3u8?nimblesessionid=59994118&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA5OjE3OjM2IEFNJmhhc2hfdmFsdWU9bEdkRnRDT0FMWmQvZ2o0QUF1cURFdz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU1UazBPVEVzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuSHFvaEhady1iX0lXYl9uTEJfSlN3YjY0S0NLb2lhRE9BdkpJVThKaXUwQQ==
+https://ott-nettv-02.nettv.com.np/ott_abr/ntvnepalhdabr.stream/ottlive/netNTVNEPAL720.stream/chunks.m3u8?nimblesessionid=16142383&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAzOjAwOjQyIFBNJmhhc2hfdmFsdWU9RjlOUFJZVTZzK1IxanpoM2VFNW9qZz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9T9rYux.png" group-title="Nepali",NTV News HD
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -45,8 +45,10 @@ https://ott-wlink-01.nettv.com.np/ott_abr/bhaktidarsanabr.stream/ottlive/ottBHAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
 https://ott-wlink-01.nettv.com.np/ott_abr/businessplusabr.stream/ottlive/netBusinessplusHIGH.stream/chunks.m3u8?nimblesessionid=59995371&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA5OjE3OjM2IEFNJmhhc2hfdmFsdWU9bEdkRnRDT0FMWmQvZ2o0QUF1cURFdz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU1UazBPVEVzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuSHFvaEhady1iX0lXYl9uTEJfSlN3YjY0S0NLb2lhRE9BdkpJVThKaXUwQQ==
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9T9rYux.png" group-title="Nepali",Avenus Khabar HD
+#EXTVLCOPT:http-referrer=https://webtv.nettv.com.np/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-nettv-02.nettv.com.np/ott_abr/avenuesabr.stream/ottlive/netAVENEWSHIGH.stream/chunks.m3u8?nimblesessionid=16145970&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAzOjAwOjQyIFBNJmhhc2hfdmFsdWU9RjlOUFJZVTZzK1IxanpoM2VFNW9qZz09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO
 
 #EXTINF:-1 tvg-id="FoodNetworkHD.sg" group-title="Variety" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",708 Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="", ZOOM 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"40f019b86241d23ef075633fd7f1e927":"058dec845bd340178a388edd104a015e"}
+https://times-ott-live.akamaized.net/zoomtv_wv_drm/index.mpd
+
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/HBO%20SIGNATURE%20HD.pngl" group-title="MOVIES",HBO SIGNATURE HD
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -10,6 +16,12 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO
 #KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="",Zoom 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"40f019b86241d23ef075633fd7f1e927":"058dec845bd340178a388edd104a015e"}
+https://times-ott-live.akamaized.net/zoom_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-logo="",MN_Plus_HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

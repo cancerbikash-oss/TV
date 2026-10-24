@@ -94,14 +94,7 @@ https://play-drm.aliiptv.com/live/dwxq.m3u8?verify=1790056236-RsMsLXTXVKL1APEKLZ
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="MusicBoxVn" group-title="Variety" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/Music_Box_3D.png/revision/latest?cb=20221224124435&path-prefix=vi",716 Music Box
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
-
-#EXTINF:-1 tvg-id="Warner" group-title="Variety" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",712 Warner TV
+#EXTINF:-1 tvg-id="Warner" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",712 Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://play-drm.aliiptv.com/live/warnertv.m3u8?verify=1790056290-4w7vbzmuwXKZyBBGiSOJERiRrXvWX5rqEGe_H61vbuQ
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
@@ -246,6 +239,45 @@ https://freem3u.xyz/api/live/play.m3u8?vid=213
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Documentary",Outdoor
 https://freem3u.xyz/api/live/play.m3u8?vid=216
+=========================================================== BOX ==========================================================================================================
+#EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="https://vietanhtv.id.vn/logo/musicbox.png", Music Box HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
+#EXTINF:-1 tvg-id="woman" group-title="Music" tvg-logo="https://vietanhtv.id.vn/logo/woman.png", WOMAN HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/WO/manifest.mpd
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Movies" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg", Box Movie 1 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
+#EXTINF:-1 tvg-id="boxhits" group-title="Movies" tvg-logo="https://vietanhtv.id.vn/logo/boxhits.png", Box Hits HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-id="hollywoodclassic" group-title="Movies" tvg-logo="https://vietanhtv.id.vn/logo/hollywoodclassic.png", Hollywood Classics HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
+#EXTINF:-1 tvg-id="MusicBoxVn" group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/Music_Box_3D.png/revision/latest?cb=20221224124435&path-prefix=vi",716 Music Box
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
+
 =========================================================== Singapore ==========================================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Nepali" group-title="International" group-title="Movies",HITS Movies
@@ -275,50 +307,6 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CRTE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
 https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
-
-#EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="https://vietanhtv.id.vn/logo/musicbox.png", Music Box HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
-https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="https://vietanhtv.id.vn/logo/musicbox.png", Music Box HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="https://vietanhtv.id.vn/logo/musicbox.png", Music Box HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="woman" group-title="Music" tvg-logo="https://vietanhtv.id.vn/logo/woman.png", WOMAN HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://livebytsctbu.vtvprime.vn/mean/WO/manifest.mpd
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Movies" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie1.jpg", Box Movie 1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
-#EXTINF:-1 tvg-id="boxhits" group-title="Movies" tvg-logo="https://vietanhtv.id.vn/logo/boxhits.png", Box Hits HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
-#EXTINF:-1 tvg-id="hollywoodclassic" group-title="Movies" tvg-logo="https://vietanhtv.id.vn/logo/hollywoodclassic.png", Hollywood Classics HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-logo="https://i.imgur.com/IJXFBSu.png" group-title="Nepali" group-title="International" group-title="Movies",AXN Taiwan
 http://125.227.210.55:4050/VideoInput/play.ts

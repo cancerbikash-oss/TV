@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
+EXTINF: -1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjbvbMC6QPQjsgxZXHiAjG7EC7LPKXZprwstmV0XyLd1pazjMk9Dq7buyQ5c4Pszh6HlAb0cQFl-WRMPQ1YKXyreAHuAxs_QrxV7gXurgKfC-6KfwrSbRUorYv1XyM5EcpZ-xWPIJKE4fK_tXyfJX85JTZ2DxoINTGT6yNyHjojSD_WFMiZ1d27Hf7PvmI" tvg-logo-small="https://blogger.googleusercontent.com/img/a/AVvXsEjbvbMC6QPQjsgxZXHiAjG7EC7LPKXZprwstmV0XyLd1pazjMk9Dq7buyQ5c4Pszh6HlAb0cQFl-WRMPQ1YKXyreAHuAxs_QrxV7gXurgKfC-6KfwrSbRUorYv1XyM5EcpZ-xWPIJKE4fK_tXyfJX85JTZ2DxoINTGT6yNyHjojSD_WFMiZ1d27Hf7PvmI" group-title="LOCAL", I Heart Movies
+#EXTGRP:LOCAL
+https://nokotan.anhkz.fr/feeds?channel_id=IHM
+
 #EXTINF:-1 tvg-logo="",HBO_Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey

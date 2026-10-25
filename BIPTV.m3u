@@ -15,9 +15,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="17" group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",Mastiii
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000019&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxMjIyMDQwMTU0IiwiaXNlIjp0cnVlLCJqdGkiOiJiYjk0ZTNlMy1lYTFhLTRkNmMtYWYyOC01OTU4ZjJmNjE4NTMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjcyNzgwMjE2LCJuYW1lIjoiQW5hbmQgV2F0Y2giLCJpYXQiOjE2NzI2OTM4MTYsImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEzNjgifV0sImlzcyI6InRwbWFfd2ViIn0.0FhIQjLSsywYeXiyBedFM3qs-jvS1D6vZiFsZZR8CPU|Content-Type=application/octet-stream|R{SSM}|
-#EXTINF:-1 tvg-id="17" group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",Mastiii
 https://delta4tatasky.akamaized.net/out/i/3158956.mpd
 
 <!-- Film & Cinema -->

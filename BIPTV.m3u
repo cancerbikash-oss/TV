@@ -521,11 +521,17 @@ http://103.185.24.134:3001/HUNGAMA/index.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Nepali" group-title="Kids",Sonic
 http://103.185.24.134:3001/SONIC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=https://i.imgur.com/70pYQh4.png" group-title="Kids",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Nepali" group-title="Kids",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Nepali" group-title="Kids",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Channel
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Channel Hindi
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Channel HD English 
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Channel Hindi 
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Science
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
@@ -533,6 +539,20 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Documentary",Investigation Discovery
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="Documentary",Animal Planet Hindi
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="Documentary",Animal Planet HD English 
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Nepali" group-title="Kids",Cartoon Network HD+
+http://103.151.60.162:2122/play/a010/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids", Disney Junior 
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JkGvrc6.png" group-title="Kids", Disney International HD
+http://103.151.60.162:2122/play/a018/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon
+http://103.151.60.162:2122/play/a017/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="CinemaxHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",418 Cinemax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1117,7 +1137,7 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/SiPnls2.png" group-title="Music",Epic Parivar 
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/UD2GU0b.png" group-title="Entertainment",Epic TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UD2GU0b.png" group-title="Entertainment",Epic TV 
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png" group-title="Movies",Mahua Play

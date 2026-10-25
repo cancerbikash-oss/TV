@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Kids",Cartoon Network HD+
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Kids",Cartoon Network HD+ (MultiAudio)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
@@ -15,6 +15,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Zee Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="17" group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",Mastiii
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -6,35 +6,43 @@
 #KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
+
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Kids",HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=196b011306d04ac38c2b8493b89a40d5:862064c3fbd5f4d2e8a9e7b89889a06b
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hits)/manifest.mpd
+
+
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ShortsTV_transparent_logo.png",Shorts TV Active (Working)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinema_2025.png",Z Cinema India (Working)
+#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinema_2025.png" group-title="Movies",Z Cinema India (Working)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Zee Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iHBIlrP.png" group-title="Movies",Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Zee TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/960px-Zee_Action_2025.svg.png" group-title="Movies",Zee Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" group-title="Entertainment",Zee TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/main.mpd?
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bB1dEMc.png" group-title="Entertainment",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Zee Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="17" group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",Mastiii
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -170,9 +170,14 @@ https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYKZL.png?lock=720x540" group-title="Entertainment",&TV
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/960px-Zee_Action_2025.svg.png" group-title="Movies",Zee Action
-https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_action_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" group-title="Movies",Zee Bollywood
 https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ShortsTV_transparent_logo.png",Shorts TV Active
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ShortsTV_transparent_logo.png",Shorts TV Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -558,8 +563,6 @@ http://103.17.193.159:5001/live/1145.m3u8
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxUoEaW.png" group-title="Nepal" group-title="Music",MTV India
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42oqEcQ.png" group-title="Entertainment",MTV HD (Not working)
 http://51.75.127.199:3141/mtvhd/index.m3u8
 

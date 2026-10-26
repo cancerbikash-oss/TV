@@ -3318,7 +3318,7 @@ http://103.253.18.58:8000/play/a095
 http://103.253.18.58:8000/play/a096
 #EXTINF:-1 tvg-id="PlanetFun.pk@SD" tvg-logo="https://i.imgur.com/5U1iKUq.png" group-title="Kids",Planet Fun
 http://103.253.18.58:8000/play/a098
-#EXTINF:-1 tvg-id="BolEntertainment.pk " tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Entertainment", Bol Entertainment
+#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Entertainment",Bol Entertainment
 http://103.253.18.58:8000/play/a099
 
 #EXTINF:-1 tv-id="HITS.sg" tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Movies",HITS

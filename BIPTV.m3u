@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 
+
+
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Services",ShortsTV Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
@@ -31,7 +33,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
-#EXTINF:-1 tvg-chno="830" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032DV5H.png?lock=720x540" group-title="Infotainment",Epic TV
+#EXTINF:-1 tvg-chno="830" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png"Anmol Cinema 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f21752a2fa0a4fa3b49b973cf7a97a6d:49305a9be6a4470ab0725e8dc0115296
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Epictv2/default/main.mpd

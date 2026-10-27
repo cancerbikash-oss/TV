@@ -180,48 +180,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5911de35875644f4a48ee9d426be297f:4316b9b0a9814b4381425e1b01886dc5
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjhakaas2/default/main.mpd
-#EXTINF:-1 tvg-chno="1185" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" group-title="Music",9X Tashan
+#EXTINF:-1 tvg-chno="302" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" group-title="Music",9X Tashan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5774f9c8093547ac8796445049163c00:2716fd8f71974ffa82e68e198c8d91d6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/manifest.mpd
-
-9X Jalwa
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/index.mpd
-0538cf4c5ed546a9956aadab2fdf3366:b0af534e1a5f459f9c751a0cb9d12d4c
-#EXTINF:-1 tvg-logo="",9X_Jalwa
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-chno="304" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="Music",9XM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0538cf4c5ed546a9956aadab2fdf3366":"b0af534e1a5f459f9c751a0cb9d12d4c"}
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/index.mpd
-
-9X Jhakaas
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjhakaas2/default/index.mpd
-5911de35875644f4a48ee9d426be297f:4316b9b0a9814b4381425e1b01886dc5
-9X Tashan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/index.mpd
-5774f9c8093547ac8796445049163c00:2716fd8f71974ffa82e68e198c8d91d6
-9XM
+#KODIPROP:inputstream.adaptive.license_key=29f970f3bdef4935b7b2b6ace0316266:8e7efefcf8c843a184977c6c7063487c
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/index.mpd
-29f970f3bdef4935b7b2b6ace0316266:8e7efefcf8c843a184977c6c7063487c
-
-
-#EXTINF:-1 tvg-logo="",9X_Jhakaas
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540" group-title="Music",ZOOM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5911de35875644f4a48ee9d426be297f":"4316b9b0a9814b4381425e1b01886dc5"}
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjhakaas2/default/index.mpd
-
-#EXTINF:-1 tvg-logo="",9X_Tashan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5774f9c8093547ac8796445049163c00":"2716fd8f71974ffa82e68e198c8d91d6"}
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/index.mpd
-
-#EXTINF:-1 tvg-logo="",9XM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"29f970f3bdef4935b7b2b6ace0316266":"8e7efefcf8c843a184977c6c7063487c"}
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"86edec9e3b7d4042a4d4a1ca14f847ee":"9def4315f0004019a3705bcb3cf30ca3"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/index.mpd
 
 
 #EXTINF:-1 tvg-chno="193" tvg-logo="https://dtil.tmsimg.com/assets/s158252_ld_h9_aa.png?lock=720x540" group-title="Entertainment",DD National

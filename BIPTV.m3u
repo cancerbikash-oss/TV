@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
-#EXTINF:-1 tvg-logo="",HImalayan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=61ca213887394405a8444cec40faa831:edef8ba979d64acea3c827dcd51d21ed
-https://ottlive.dishhome.com.np/protected/_ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
 
 #EXTINF:-1 tvg-logo="",9X_Jalwa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

@@ -193,16 +193,20 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Music_India/hls_fta/Music_India
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="Movies",Cinemax
 http://103.196.177.230:80/alj/alj/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="English Movies",Warner TV
+http://103.196.177.230:80/alj/alj/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/DreamWorks_Animation_2004.png" group-title="English Movies",Dreamworks
+http://103.196.177.230:80/alj/alj/80.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lotus Macau" tvg-logo="https://app.ksmctv.com/Content/MCTV/Image/Channel/10-Lotus_TV.png" group-title="Movies",Lotus Macau
 http://103.196.177.230:80/alj/alj/82.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertainment",AXN
 http://103.196.177.230:80/alj/alj/109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Entertainment",Rock Entertainment
 http://103.196.177.230:80/alj/alj/114.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="English Movies",Rock Action
+http://103.196.177.230:80/alj/alj/5497.m3u8
 
 
 #EXTINF:-1 tvg-logo="",Discovery_Kids_(Hindi)

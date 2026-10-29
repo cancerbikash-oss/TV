@@ -318,6 +318,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"86edec9e3b7d4042a4d4a1ca14f847ee":"9def4315f0004019a3705bcb3cf30ca3"}
 http://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/master.m3u8
 
+#EXTINF:-1 tvg-logo="",Zing
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+http://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540",Zoom
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey

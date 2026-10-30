@@ -499,6 +499,7 @@ https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
 =========================================================== Indian Channel =====================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZ9bS5g.png" group-title="Entertainment",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
 http://103.17.193.159:5001/live/248.m3u8

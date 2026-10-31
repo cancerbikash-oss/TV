@@ -8,6 +8,12 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-chno="004",A&E
 http://23.239.31.26:8989/aande/index.m3u8
 
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="http://223.25.71.211:5001/jtvimage/StarGoldHD11.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/156
+http://223.25.71.211:5001/live/mpd/156
 
 
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="Entertainment",&TV HD

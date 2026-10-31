@@ -34,11 +34,11 @@
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://i.imgur.com/E3xjhoO.png" group-title="Nepali",Channel 4 Nepal
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://i.imgur.com/f988SdZ.png" group-title="Nepali",Nepal Network TV
 
-#EXTINF:-1 tvg-id="ZeeNepal4KTV.np" tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
 https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="OmkarTV.np@SD" tvg-logo="https://i.imgur.com/ZwD1iG8.png" group-title="Nepali" group-title="Religious",Omkar TV
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://i.imgur.com/ZwD1iG8.png" group-title="Nepali" group-title="Religious",Omkar TV
 https://webott.viatv.com.np/v0t1/OmkarTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="JanataTV.np" tvg-logo="https://i.imgur.com/2gUmIxr.png " group-title="Nepali" group-title="News",Janata TV HD
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://i.imgur.com/2gUmIxr.png " group-title="Nepali" group-title="News",Janata TV HD
 https://webott.viatv.com.np/v0t1/JanataTv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="HimshikharTelevision.np" tvg-logo="https://i.imgur.com/eyAs5pI.png" group-title="Nepali" group-title="News",HimShikhar TV
 https://webott.viatv.com.np/v0t1/HimshikharTv.stream/chunks.m3u8
@@ -74,8 +74,6 @@ https://webott.viatv.com.np/v0t1/MeTV.stream/chunks.m3u8
 https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="Nepali",Capital TV HD
 https://webott.viatv.com.np/v0t1/CapitalTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" group-title="Nepali",Kantipur TV
-https://webott.viatv.com.np/v0t1/KantipurTV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" group-title="Nepali",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8

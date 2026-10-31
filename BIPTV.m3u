@@ -111,6 +111,10 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 #EXTINF:-1 tvg-chno="004",A&E
 http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-chno="007",USA Network 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8
+http://usanetwork.mt.linear.viewlif...2aac-c351-c1250b14b344/DASH_ENC/master_5m.mpd
 
 #EXTINF:-1 tvg-chno="007",TNT Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

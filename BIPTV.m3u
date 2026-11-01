@@ -101,6 +101,29 @@ https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="Nepali",Capital TV HD
 https://webott.viatv.com.np/v0t1/CapitalTv.stream/chunks.m3u8
 
+=========================================================== Times Play ==========================================================================================================
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Movies",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Movies",MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="Movies",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
+
 
 
 #EXTINF:-1 tvg-chno="001",ESPN HD
@@ -583,28 +606,6 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
 
 
-
-=========================================================== Times Play ==========================================================================================================
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",Movies Now HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Movies",MNX HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Movies",MN+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="Movies",Romedy Now
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",Movies Now HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
 
 
 

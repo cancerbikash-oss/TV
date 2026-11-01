@@ -125,6 +125,10 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="News",Al Jazeera 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+46b3dec4633d43cc977a909f3b052797:50e4bebef6f870b3b55bf62b3ffa3c1e
+https://absp-live.akamaized.net/dash/live/2099522/aljazeera/manifest.mpd
 
 #EXTINF:-1 tvg-chno="001",ESPN HD
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8

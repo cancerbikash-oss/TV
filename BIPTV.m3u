@@ -186,7 +186,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd#EXTINF:-1 tvg-chno="312" tvg-logo="https://i.imgur.com/O9BapV9.png", group-title="Sports",Fox Sports UHD
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

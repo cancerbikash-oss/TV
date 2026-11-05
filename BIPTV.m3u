@@ -1,6 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport2.nz.png" group-title="", Sky Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
+https://sky-nz.b-cdn.net/skysport2/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport3.nz.png" group-title="", Sky Sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
+https://sky-nz.b-cdn.net/skysport3/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvboss.xyz/logos/New_Zealand/ESPN2.nz.png" group-title="",ESPN 2 New Zealand
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
+https://sky-nz.b-cdn.net/espn2/master.mpd
 
 ================================================================ Nepali =======================================================================================================
 
@@ -233,9 +247,9 @@ http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9310/index.m3u8
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",SKY SPORTS F1
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7342/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-logo=",SKY SPORTS EPL
+#EXTINF:-1 tvg-chno="" tvg-logo="https://i.imgur.com/FzzpF1f.png",SKY SPORTS EPL
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-logo=", SKY SPORTS TENNIS
+#EXTINF:-1 tvg-chno="" tvg-logo="https://i.postimg.cc/nLCng5F3/Sky-Sports-Tennis.png", SKY SPORTS TENNIS
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 HD
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8

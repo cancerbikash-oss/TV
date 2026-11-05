@@ -219,21 +219,23 @@ https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v
 #KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1,SKY SPORTS ACTION
+#EXTINF:-1 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/960px-Sky_Sport_Action.svg.png",Sky Sports Action
+https://streamings.honor-tv.42web.io/skysportsaction/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/960px-Sky_Sport_Action.svg.png",SKY SPORTS ACTION
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9155/index.m3u
-#EXTINF:-1,SKY SPORTS CRICKET
+#EXTINF:-1 tvg-chno="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",SKY SPORTS CRICKET
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-chno="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",SKY SPORTS FOOTBALL
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
-#EXTINF:-1,SKY SPORTS MIX
+#EXTINF:-1 tvg-chno="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png",SKY SPORTS MIX
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9310/index.m3u8
-#EXTINF:-1,SKY SPORTS MIX
+#EXTINF:-1 tvg-chno="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png",SKY SPORTS MIX
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
-#EXTINF:-1,SKY SPORTS F1
+#EXTINF:-1 tvg-chno="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",SKY SPORTS F1
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7342/index.m3u8
-#EXTINF:-1,SKY SPORTS EPL
+#EXTINF:-1 tvg-chno="" tvg-logo=",SKY SPORTS EPL
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8
-#EXTINF:-1,SKY SPORTS TENNIS
+#EXTINF:-1 tvg-chno="" tvg-logo=", SKY SPORTS TENNIS
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
 #EXTINF:-1,beIN SPORTS 1 HD
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8

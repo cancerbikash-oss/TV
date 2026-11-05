@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=196b011306d04ac38c2b8493b89a40d5:862064c3fbd5f4d2e8a9e7b89889a06b
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hits)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Nepali" group-title="International" group-title="Movies",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74ecb929cd504143bb68bd0e7cac6f4e:b71cfa4590853ea63014e128ecdb4fbe
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsm)/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ne8gv39.png" group-title="Nepali" group-title="International" group-title="Movies",HITS NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsnow)/manifest.mpd
 
 ================================================================ Nepali =======================================================================================================
 
@@ -156,6 +171,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
+
+#EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
 #EXTINF:-1 tvg-chno="312" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3d1ac80526247c78a917a49cda3f3f3:0cf032ca22d0cf57226ec90f3abef14c
@@ -180,13 +201,6 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
 
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-#EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-chno="318" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

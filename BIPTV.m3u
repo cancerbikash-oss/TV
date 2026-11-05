@@ -1,20 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport2.nz.png" group-title="", Sky Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
-https://sky-nz.b-cdn.net/skysport2/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvboss.xyz/logos/New_Zealand/SKYSport3.nz.png" group-title="", Sky Sport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
-https://sky-nz.b-cdn.net/skysport3/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptvboss.xyz/logos/New_Zealand/ESPN2.nz.png" group-title="",ESPN 2 New Zealand
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
-https://sky-nz.b-cdn.net/espn2/master.mpd
 
 ================================================================ Nepali =======================================================================================================
 

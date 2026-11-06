@@ -198,12 +198,15 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ap5wz1ofsp/out/v1/7fa6
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
 #EXTINF:-1,FS1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.ne.../v1/962736723a534ba294e7592fef49827b/cenc.mpd
-5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 
 #EXTINF:-1,FS2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.ne.../v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+
 
 #EXTINF:-1, TNT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey

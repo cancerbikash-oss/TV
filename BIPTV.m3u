@@ -2,12 +2,12 @@
 #EXTINF:-1 tvg-chno="1", HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1fa578fb90848a6b40ae09d052e8f96:bf0d2334a6e1ac5c0ed41849ed4d3698
-	https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbo/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbo/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1",HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff67b52d6c5e4a769f8aba596633b821:fbccc3d9c3a5da07af6469a007defe88
-	https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,12 +22,12 @@ https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-chno="1",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3f7d8a5c71e470ea53b4fdbdac6e547:5e593e56ed1239b67e80ea1a1846bf25
-	https://cdn08jtedge.indihometv.com/dassdvr/133/hits/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/hits/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1",HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2bdffad0b984979acdabd3de5e7f55d:7f993888674c20d2db82a7ad15ac798f
-	https://cdn08jtedge.indihometv.com/dassdvr/133/hitsmovie/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/hitsmovie/manifest.mpd
 
 #EXTINF:-1 tvg-chno="1",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey

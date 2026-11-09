@@ -40,7 +40,7 @@
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://i.imgur.com/E3xjhoO.png" group-title="Nepali",Channel 4 Nepal
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://i.imgur.com/f988SdZ.png" group-title="Nepali",Nepal Network TV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" group-title="Nepali",Kantipur TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepali",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Nepali" group-title="Religious",Divya Darshan TV HD
 http://live.divyadarshantv.com/hls/stream.m3u8
@@ -129,17 +129,14 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music",MTV
 http://103.17.193.159:5001/live/248.m3u8
-#EXTINF:-1 tvg-id="1145" tvg-name="MTV HD" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD
+#EXTINF:-1 tvg-name="MTV HD" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music",MTV HD
 http://103.17.193.159:5001/live/1145.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxUoEaW.png" group-title="Nepal" group-title="Music",MTV India
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZ9bS5g.png" group-title="Entertainment",MTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJP0LEH.png" group-title="Movies",Saga Hits HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
@@ -149,6 +146,35 @@ https://kableone.keralive.workers.dev/hls/live/2111218/SagaHits/1.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://kableone.keralive.workers.dev/hls/live/2111218/SagaMusic/2.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Kids",Cartoon Network HD+ (MultiAudio)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
+https://login.bheem.tv/bpk-tv/22096/output/index.mpd
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Documentary",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
+https://login.bheem.tv/bpk-tv/22052/output/index.mpd?
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Documentary",Investigation Discovery HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
+https://login.bheem.tv/bpk-tv/22076/output/index.mpd?
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Shemaroo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ef0ac2ffe7c56bc9873740402bff248:c1f453a5367057e62a0242d5228e765a
+https://login.bheem.tv/bpk-tv/22431/output/index.mpd?
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
+https://login.bheem.tv/bpk-tv/22602/output/index.mpd?
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="Kids",Pogo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
+https://login.bheem.tv/bpk-tv/22603/output/index.mpd?
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Infotainment",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd7754b16f8459f1b3ef2ffac4c2de28:7fbdfce2567136b26042962ca2e46fad
+https://login.bheem.tv/bpk-tv/22647/output/index.mpd?
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
@@ -901,34 +927,6 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinem
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd
 
 
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Kids",Cartoon Network HD+ (MultiAudio)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
-https://login.bheem.tv/bpk-tv/22096/output/index.mpd
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Documentary",Animal Planet HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
-https://login.bheem.tv/bpk-tv/22052/output/index.mpd?
-#EXTINF:-1 tvg-id="22076" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Documentary",Investigation Discovery HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
-https://login.bheem.tv/bpk-tv/22076/output/index.mpd?
-#EXTINF:-1 tvg-id="22431" tvg-logo="https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Shemaroo TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ef0ac2ffe7c56bc9873740402bff248:c1f453a5367057e62a0242d5228e765a
-https://login.bheem.tv/bpk-tv/22431/output/index.mpd?
-#EXTINF:-1 tvg-id="22602" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
-https://login.bheem.tv/bpk-tv/22602/output/index.mpd?
-#EXTINF:-1 tvg-id="22603" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="Kids",Pogo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
-https://login.bheem.tv/bpk-tv/22603/output/index.mpd?
-#EXTINF:-1 tvg-id="22647" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Infotainment",Discovery Science
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd7754b16f8459f1b3ef2ffac4c2de28:7fbdfce2567136b26042962ca2e46fad
-https://login.bheem.tv/bpk-tv/22647/output/index.mpd?
 
 
 
@@ -5855,3 +5853,6 @@ https://ott-nettv-02.nettv.com.np/ottlivestream/netCHFOUR1500.stream/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-nettv-02.nettv.com.np/ottlivestream/netNepalNetwork.stream/chunks.m3u8?nimblesessionid=16169782&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1OjAzOjI0IFBNJmhhc2hfdmFsdWU9TkFjT29xbzk4NjROWXE2VFk4bm14UT09JnZhbGlkbWludXRlcz02MCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUzT1RJNU5EQTBNemtzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl4TVRnNU1UUTVNeUlzSW5OMFlpSTZJbWRzWHpFd016ZzJOamN5TnpFM09EQTVNVFV3TlRBek1DMHhNRGNpZlEuWHFkanNPQ2s2a09PNUZ3bFVBdndXWWhHUWg5NjNnV2s4bWZaX241d04tbw==NO
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZ9bS5g.png" group-title="Entertainment",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8

@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="313" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="Sports",Fox Sports 2
+#EXTINF:-1 tvg-chno="" tvg-logo="" group-title="Sports",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eca5969248a65c16:b067910513e714e8
-https://ottlive.dishhome.com.np/protected/1VnAkZ4Bnu3lGwDQghBl/dash/manifest.mpd
+
 
 
 
@@ -41,72 +41,168 @@ https://ottlive.dishhome.com.np/protected/1VnAkZ4Bnu3lGwDQghBl/dash/manifest.mpd
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://i.imgur.com/E3xjhoO.png" group-title="Nepali",Channel 4 Nepal
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://i.imgur.com/f988SdZ.png" group-title="Nepali",Nepal Network TV
 
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" group-title="Nepali",Kantipur TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" group-title="Nepali",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://i.imgur.com/EwDQ12F.png" tvg-country="NP" group-title="Nepali" group-title="Religious",Divya Darshan TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Nepali" group-title="Religious",Divya Darshan TV HD
 http://live.divyadarshantv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Nepali",Indigenous Television HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Nepali",Indigenous Television HD
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg"  group-title="Nepali",Mithila Nepal TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg"  group-title="Nepali",Mithila Nepal TV 
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-chno="35" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepali",Nepal 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Nepali",Nepal 1
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepali",Public 4K TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twCFDk45/Public-4-K-Televison.jpg" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepali",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Nepali",Ray TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Nepali",Ray TV HD
 https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-logo="https://i.imgur.com/5fZF69m.png" tvg-country="NP" tvg-language="Nepali;Maithili;English" group-title="Nepali ",TV Today Janakpur
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fZF69m.png" group-title="Nepali ",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" tvg-country="NP" tvg-language="Nepali;Maithili"  group-title="Nepali",Capital TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" group-title="Nepali",Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" tvg-country="NP" group-title="Nepali" group-title="Sports",Kantipur MAX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" group-title="Nepali" group-title="Sports",Kantipur MAX HD
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" group-title="Nepali" group-title="Sports",Kantipur MAX HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" group-title="Nepali" group-title="Sports",Kantipur MAX HD 
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" group-title="Nepali",Kantipur TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepali",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 
-
-#EXTINF:-1 tvg-chno="43" tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKe35fJ.png" group-title="Nepali",Zee Nepal 4K TV
 https://webott.viatv.com.np/v0t1/ZeeNepalTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-logo="https://i.imgur.com/ZwD1iG8.png" group-title="Nepali" group-title="Religious",Omkar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwD1iG8.png" group-title="Nepali" group-title="Religious",Omkar TV
 https://webott.viatv.com.np/v0t1/OmkarTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-logo="https://i.imgur.com/2gUmIxr.png " group-title="Nepali" group-title="News",Janata TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2gUmIxr.png " group-title="Nepali" group-title="News",Janata TV HD
 https://webott.viatv.com.np/v0t1/JanataTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-logo="https://i.imgur.com/eyAs5pI.png" group-title="Nepali" group-title="News",HimShikhar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAs5pI.png" group-title="Nepali" group-title="News",HimShikhar TV
 https://webott.viatv.com.np/v0t1/HimshikharTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="47"tvg-logo="https://i.imgur.com/12RklsS.png" group-title="Nepali" group-title="News",National Gold HD TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12RklsS.png" group-title="Nepali" group-title="News",National Gold HD TV
 https://webott.viatv.com.np/v0t1/NationalGoldTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://i.imgur.com/TXBeHYi.png" group-title="Nepali" group-title="News",Global TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXBeHYi.png" group-title="Nepali" group-title="News",Global TV HD
 https://webott.viatv.com.np/v0t1/GlobalTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://i.imgur.com/LgPceF9.png"group-title="Nepali",Bagmati TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LgPceF9.png"group-title="Nepali",Bagmati TV HD
 https://webott.viatv.com.np/v0t1/BagmatiTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-logo=" https://i.imgur.com/KHAFXJv.png"group-title="Nepali",Suryodaya TV HD
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/KHAFXJv.png"group-title="Nepali",Suryodaya TV HD
 https://webott.viatv.com.np/v0t1/SuryodayaTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-logo=" https://i.imgur.com/KHAFXJv.png"group-title="Nepali",Suryodaya TV HD
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/KHAFXJv.png"group-title="Nepali",Suryodaya TV HD
 https://webott.viatv.com.np/v0t1/SuryadayaTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Nepali",Ray TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Nepali",Ray TV HD
 https://webott.viatv.com.np/v0t1/RayTv.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-logo=" https://i.imgur.com/JlCPjI7.jpeg"group-title="Nepali",Seven Star TV
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/JlCPjI7.jpeg"group-title="Nepali",Seven Star TV
 https://webott.viatv.com.np/v0t1/7star.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://i.imgur.com/i4TwlSZ.png" group-title="Nepali",Sajha TV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4TwlSZ.png" group-title="Nepali",Sajha TV HD 
 https://webott.viatv.com.np/v0t1/SajhaTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://i.imgur.com/VYNAjkP.png" group-title="Nepali" group-title="News",Mukundasen TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VYNAjkP.png" group-title="Nepali" group-title="News",Mukundasen TV HD
 https://webott.viatv.com.np/v0t1/Mukundasen.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://i.imgur.com/WZJG13G.png" group-title="Nepali" group-title="News",TV Today
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZJG13G.png" group-title="Nepali" group-title="News",TV Today
 https://webott.viatv.com.np/v0t1/Tvtoday.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://i.imgur.com/6SmytDa.png" group-title="Nepali" group-title="News",Sagarmatha TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6SmytDa.png" group-title="Nepali" group-title="News",Sagarmatha TV HD
 https://webott.viatv.com.np/v0t1/Sagarmatha.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://i.imgur.com/i3RUB6z.png" group-title="Nepali",Yoho TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3RUB6z.png" group-title="Nepali",Yoho TV
 https://webott.viatv.com.np/v0t1/YohoTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://i.imgur.com/SikpPTk.png " group-title="Nepali",Public 4K TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SikpPTk.png " group-title="Nepali",Public 4K TV
 https://webott.viatv.com.np/v0t1/PublicTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://i.imgur.com/B3O0bkI.png" group-title="Nepali",METV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B3O0bkI.png" group-title="Nepali",METV HD
 https://webott.viatv.com.np/v0t1/MeTV.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://i.imgur.com/Gi2duMi.png" group-title="Nepali",Pokhara Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gi2duMi.png" group-title="Nepali",Pokhara Television
 https://webott.viatv.com.np/v0t1/Pokhara.stream/chunks.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="Nepali",Capital TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="Nepali",Capital TV HD
 https://webott.viatv.com.np/v0t1/CapitalTv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u2qjDe7.png" group-title="Entertainment",Sony Entertainment 
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lf5kwla.png" group-title="Entertainment",Sony Entertainment
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6f2i40k.png" group-title="Entertainment",Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgFvpjd.png" group-title="Movies",Sony Max SD
+https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="Movies",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dMQLcdm.png" group-title="Movies",Sony Pix
+https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="𝐊𝐢𝐝𝐬",Sony YaY
+https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgFvpjd.png" group-title="Movies",Sony Max HD 
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="Sports",Sony Ten 1
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="Sports",Sony Ten 2
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="Sports",Sony Ten 5
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="Sports",Sony Ten 1
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment HD 
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/AVZrKAd.png" group-title="Movies",Sony Max HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnaEqNU.png" group-title="Movies",Sony Pix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqutCVy.png" group-title="Entertainment",Sony SAB HD
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" group-title="Entertainment",HUM TV Europ
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="Sports",A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png" group-title="Entertainment",& Tv
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png" group-title="Movies",& Picture HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png" group-title="Entertainment",Zee Tv
+https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png" group-title="Movies",Zee Cinema HD
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="Movies",Zee Bollywood
+https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png" group-title="Movies",B4U Movie
+https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N2VWksB/channels4-profile.jpg" group-title="Music",B4U Music
+https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFKqPkBP/image.png" group-title="Music",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Sports",Eurosport HD
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Kids",Cartoon Network
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Kids",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Nepali" group-title="Kids",Cartoon Network HD+
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="Nepali" group-title="Kids",Hungama
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="Nepali" group-title="Kids",Super Hungama
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Nepali" group-title="Kids",Sonic
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Nepali" group-title="Kids",Discovery Kids
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Nepali" group-title="Kids",Discovery Kids
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Channel Hindi
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Channel HD English 
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Science
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Nepali" group-title="Documentary",Discovery Turbo
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Documentary",Investigation Discovery Hindi
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="Documentary",Animal Planet Hindi
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="Documentary",Animal Planet HD English 
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMBFJ39.png" group-title="Documentary",TLC Hindi 
+https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICEeVuk.png" group-title="Documentary",TLC HD English 
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/960px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="Sports",beIN Sports USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -140,25 +236,28 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-chno="307" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="Sports",TNT Sports 1
+#EXTINF:-1 tvg-chno="307" tvg-logo="https://i.imgur.com/Ds7ZMaS.png" group-title="Sports",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-chno="308" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="Sports",TNT Sports 2
+#EXTINF:-1 tvg-chno="308" tvg-logo="https://i.imgur.com/dXt5yPX.png" group-title="Sports",TNT Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-chno="309" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="Sports",TNT Sports 3
+#EXTINF:-1 tvg-chno="309" tvg-logo="https://i.imgur.com/q0u6KRB.png" group-title="Sports",TNT Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports",TNT Sports 4
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://i.imgur.com/FAKCSbY.png" group-title="Sports",TNT Sports 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 tvg-chno="311" tvg-logo=" group-title="Sports",TNT Sports Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/fs1_logo_2015_blue-4k_2.png" group-title="Sports",Fox sports 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -391,7 +490,6 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
-
 
 
 #EXTINF:-1 tvg-chno="654" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" group-title="News",Zee Bharat
@@ -810,89 +908,7 @@ https://yupp-music.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/c94c540a-72e9-42e5-9b9d-2bf9663e3f40/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment 
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment HD 
-https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f2i40k.png" group-title="Entertainment",Sony SAB
-https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dgFvpjd.png" group-title="Movies",Sony Max SD
-https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dgFvpjd.png" group-title="Movies",Sony Max HD 
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Sony Max 2
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dMQLcdm.png" group-title="Movies",Sony Pix
-https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="𝐊𝐢𝐝𝐬",Sony YaY
-https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 1
-https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 2
-https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 5
-https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 1
-https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="ttps://i.imgur.com/AVZrKAd.png" group-title="Movies",Sony Max HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JnaEqNU.png" group-title="Movies",Sony Pix HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tqutCVy.png" group-title="Entertainment",Sony SAB HD
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",HUM TV
-https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports HD
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png",B4U Movie
-https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N2VWksB/channels4-profile.jpg" group-title="𝐌𝐮𝐬𝐢𝐜",B4U Music
-https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFKqPkBP/image.png" group-title="𝐌𝐮𝐬𝐢𝐜",PTC Music
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png" group-title="𝐌𝐮𝐬𝐢𝐜",Music India
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
-
-
-#EXTINF:-1 tvg-id="Eurosport.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" group-title="Sports",Eurosport HD
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Kids",Cartoon Network
-https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Kids",Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Nepali" group-title="Kids",Cartoon Network HD+
-https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="Nepali" group-title="Kids",Hungama
-http://103.185.24.134:3001/HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="Nepali" group-title="Kids",Super Hungama
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Nepali" group-title="Kids",Sonic
-http://103.185.24.134:3001/SONIC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",Pogo
-https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Nepali" group-title="Kids",Discovery Kids
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Nepali" group-title="Kids",Discovery Kids
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Channel Hindi
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Channel HD English 
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Documentary",Discovery Science
-https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Nepali" group-title="Documentary",Discovery Turbo
-https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540" group-title="Nepali" group-title="Documentary",Investigation Discovery Hindi
-https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="Documentary",Animal Planet Hindi
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="Documentary",Animal Planet HD English 
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMBFJ39.png" group-title="Documentary",TLC Hindi 
-https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ICEeVuk.png" group-title="Documentary",TLC HD English 
-https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Nepali" group-title="Kids",Cartoon Network HD+ English 
 http://103.151.60.162:2122/play/a010/index.m3u8?hls

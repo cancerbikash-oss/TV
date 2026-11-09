@@ -220,13 +220,13 @@ https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="tvg-id="GreenGoldTV.np" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="Kids",Green Gold TV
 https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/69142c4b-902b-4316-8275-41ecda093dac/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png",E 24
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" group-title="Music",E 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://fta.ektv.in/live/159/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NcoyZz9.png",Captain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NcoyZz9.png" group-title="Entertainment",Captain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
@@ -253,7 +253,7 @@ https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mESoEB.png" group-title="Music",Epic Music 
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/SiPnls2.png" group-title="Music",Epic Parivar 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SiPnls2.png" group-title="Music",Epic Parivar 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UD2GU0b.png" group-title="Entertainment",Epic TV 
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8

@@ -137,23 +137,9 @@ http://103.17.193.159:5001/live/1145.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD",MTV HD (396p)1
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://kableone.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV.in@HD",MTV HD (396p)2
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bxUoEaW.png" group-title="Nepal" group-title="Music",MTV India3
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZ9bS5g.png" group-title="Entertainment",MTV4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZ9bS5g.png" group-title="Entertainment",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/42oqEcQ.png" group-title="Entertainment",MTV HD 5(Not working)
-http://51.75.127.199:3141/mtvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJP0LEH.png" group-title="Movies",Saga Hits HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
@@ -164,6 +150,17 @@ https://kableone.keralive.workers.dev/hls/live/2111218/SagaHits/1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://kableone.keralive.workers.dev/hls/live/2111218/SagaMusic/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://yupp-tv.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36https://yupp-origin-vt.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee Tv HD APAC
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://colors.keralive.workers.dev/260723/smil:zeetvapachd.smil/chunklist_b896000.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp" group-title="Sports",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -452,28 +449,6 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6127/index.m3u8
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6128/index.m3u8
 
 =========================================================== Times Play ==========================================================================================================
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",Movies Now HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Movies",MNX HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Movies",MN+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="Movies",Romedy Now
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",Movies Now HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" group-title="News",Al Jazeera 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -882,17 +857,6 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
 
 =========================================================== Indian Channel =====================================================================================================
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://yupp-tv.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36https://yupp-origin-vt.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Entertainment",Zee Tv HD APAC
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://colors.keralive.workers.dev/260723/smil:zeetvapachd.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Star Bharat USA 
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36

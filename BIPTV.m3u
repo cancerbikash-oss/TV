@@ -175,20 +175,14 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png" group-title="Movies",Lionsgate Play
 http://27.116.22.53:5001/live/2327.m3u8
-#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="http://103.17.193.159:5001/jtvimage/Lionsgate_Play.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Lionsgate Play
+#EXTINF:-1 tvg-id="2327" tvg-logo="https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png" group-title="Movies", Lionsgate Play
 http://103.17.193.159:5001/live/2327.m3u8
 #EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="http://103.17.193.159:5001/jtvimage/blywcm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Bollywood Cinema
 http://103.17.193.159:5001/live/3543.m3u8
 #EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="http://103.17.193.159:5001/jtvimage/ersent.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Entertainment
 http://103.17.193.159:5001/live/3544.m3u8
 
-#EXTINF:-1 tvg-id="54" tvg-logo="",All Time Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-#KODIPROP:mimetype=application/dash+xml
-https://fta.ektv.in/live/54/54_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ir4uK71.png",All Time Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ir4uK71.png" group-title="Movies",All Time Movies
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rKfTZJx.png" group-title="Movies",Bollygold
 https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/bollygold_4000k.m3u8

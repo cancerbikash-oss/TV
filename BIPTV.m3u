@@ -140,14 +140,13 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
-https://ssai.aniview.com/api/v1/hls/streams/sessions/30a0ed8cf12c4a2c9905eeed75e1d995/media/index.m3u8/2.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="Entertainment",E 24 (Nepal)
+https://vglivessai.akamaized.net/ptnr-lg/title-E24/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5f606700-95e1-427f-aa03-2a9f3ed40f18/ae3c00c7e3f0a054ef42f8fc0db9272a/3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in@SD",Hindi Hits
 https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music",Music India
-https://cdn.pishow.tv/ott/live/226/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music",Music India
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ncmCfD7.png" group-title="Music",Only Music HD
@@ -174,38 +173,6 @@ https://visionbeats.keralive.workers.dev/Visionbeats/tracks-v1a1/mono.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="Music",Zoom 
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-#KODIPROP:mimetype=application/dash+xml
-https://fta.ektv.in/live/159/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
-https://vglivessai.akamaized.net/ptnr-lg/title-E24/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5f606700-95e1-427f-aa03-2a9f3ed40f18/ae3c00c7e3f0a054ef42f8fc0db9272a/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
-https://samitaorigin.tangotv.in/E24/SAMITAORIGIN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music",Music India
-https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbLe8DA.png" group-title="Music",Punjabi Hits
-https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/41be6bd6-efe8-4884-810a-6b082875d4fd/a45dea07-9e1c-494c-b322-4df627d55ee1/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbLe8DA.png" group-title="Music",Punjabi Hits
-https://livingindiaottlive.akamaized.net/punjabihits/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbLe8DA.png" group-title="Music",Punjabi Hits
-https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZYNZLh.png" group-title="Music",Steelbird Music
-https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
-https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
-https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
-https://server.thelegitpro.in/tabbarhits/tabbarhits/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKj3F4M.png" group-title="Music",YRF Music
-https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="Music",Zoom 
-https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-name="MTV" tvg-logo="http://103.17.193.159:5001/jtvimage/MTV.png" tvg-language="Hindi" tvg-type="Music" group-title="Music",MTV
 http://103.17.193.159:5001/live/248.m3u8
@@ -5830,3 +5797,38 @@ https://ott-nettv-02.nettv.com.np/ottlivestream/netNepalNetwork.stream/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZ9bS5g.png" group-title="Entertainment",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+----------------------------Music-----------------------------
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://fta.ektv.in/live/159/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9f16TfW.png" group-title="Entertainment",E 24 
+https://ssai.aniview.com/api/v1/hls/streams/sessions/30a0ed8cf12c4a2c9905eeed75e1d995/media/index.m3u8/2.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" group-title="Entertainment",E 24
+https://samitaorigin.tangotv.in/E24/SAMITAORIGIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music",Music India
+https://cdn.pishow.tv/ott/live/226/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhpIqas.png" group-title="Music",Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbLe8DA.png" group-title="Music",Punjabi Hits
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/41be6bd6-efe8-4884-810a-6b082875d4fd/a45dea07-9e1c-494c-b322-4df627d55ee1/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbLe8DA.png" group-title="Music",Punjabi Hits
+https://livingindiaottlive.akamaized.net/punjabihits/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbLe8DA.png" group-title="Music",Punjabi Hits
+https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZYNZLh.png" group-title="Music",Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
+https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
+https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBvYsks.png" group-title="Music",Tabbar Hits
+https://server.thelegitpro.in/tabbarhits/tabbarhits/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKj3F4M.png" group-title="Music",YRF Music
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="Music",Zoom 
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8

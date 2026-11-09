@@ -119,7 +119,7 @@ https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dMQLcdm.png" group-title="Movies",Sony Pix
 https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="𝐊𝐢𝐝𝐬",Sony YaY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="Kids",Sony YaY
 https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dgFvpjd.png" group-title="Movies",Sony Max HD 
@@ -132,7 +132,6 @@ https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="Sports",Sony Ten 1
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_abr/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment HD 
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/AVZrKAd.png" group-title="Movies",Sony Max HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JnaEqNU.png" group-title="Movies",Sony Pix HD
@@ -143,18 +142,35 @@ https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png" group-title="Entertainment",& Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lfeFbJw.png" group-title="Entertainment",&TV
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/oeK2aPb.png" group-title="Entertainment",Zee TV
+https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png" group-title="Movies",Zee Cinema HD
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXiOZdi.png" group-title="Movies",Zee Action
+https://drk6xq0vhn.gpcdn.net/live/zee_action_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQm0vdC.png" group-title="Movies",Zee Bollywood
+https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540" group-title="Entertainment",Anmol TV
+https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing
+https://drk6xq0vhn.gpcdn.net/live/zing_sd_abr/index.m3u8
+#EXTINF:-1 tvg-chno="339" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinema_2025.png" group-title="Movies",Zee Cinema HD APAC
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Zee_Cinema_2025.svg" group-title="Movies",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png" group-title="Movies",& Picture HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png" group-title="Entertainment",Zee Tv
-https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png" group-title="Movies",Zee Cinema HD
-https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png" group-title="Movies",Zee Bollywood
-https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/QdEkKeA.png" group-title="Entertainment",& TV HD
+#EXTINF:-1 tvg-chno="305" tvg-logo="https://i.imgur.com/EqUL9TX.png" group-title="Movies",& Pictures
+#EXTINF:-1 tvg-chno="3051" tvg-logo="https://i.imgur.com/gCYTiLH.png" group-title="Movies",& Pictures HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bB1dEMc.png" group-title="Entertainment",Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/soW2bwB.png group-title="Entertainment",Zee TV HD
+
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png" group-title="Movies",B4U Movie
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8

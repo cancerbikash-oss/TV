@@ -186,7 +186,9 @@ http://103.17.193.159:5001/live/3544.m3u8
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rKfTZJx.png" group-title="Movies",Bollygold
 https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/bollygold_4000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" group-title="Movies", NH BollyFlix
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" group-title="Movies",NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png",MOV | NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mth52fG.png" group-title="Movies",NH BollyGold
 https://ssai.adstudio.runn.media/manifest/live/session/cca39d3272614dc8a42c281f04309ea9/nhstudioz/nhblygld/airtel/3.m3u8
@@ -212,6 +214,7 @@ https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u
 #EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo Umang
+https://dtil.tmsimg.com/assets/s143779_ld_h15_aa.png?lock=720x540
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="Entertainment",Shemaroo TV
 https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8
@@ -237,6 +240,15 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="Entertainment",Dangal 2 
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="Mahua Play.in@SD" tvg-logo="https://i.ibb.co/wZ6Q3bcP/tenant-mahuaplay-logo-adefd4fa.webp" group-title="Entertainment",Mahua Play
+https://stream.ottlive.co.in/mahuaplayjio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MahuaKhabar.in@SD" tvg-logo="https://i.ibb.co/qYbRtMbg/Mahua-Khabar.png" group-title="Entertainment",Mahua Khabar
+https://stream.ottlive.co.in/mahuakhabarjio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png" group-title="Movies",Mahua Play
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0ff8912e-d0e7-4e38-8c2b-6ba85413b484/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4AtrNLQ.png" group-title="Entertainment",Epic Bharat
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mxg1m0H.png" group-title="Movies",Epic Bhojpuri Digital
@@ -258,8 +270,6 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UD2GU0b.png" group-title="Entertainment",Epic TV 
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png" group-title="Movies",Mahua Play
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0ff8912e-d0e7-4e38-8c2b-6ba85413b484/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pasand.png" group-title="Entertainment",Pasand TV
 https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
 
@@ -275,8 +285,6 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="tvg-id="TheMovieClub.in@Plus2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" group-title="Movies",The Movie Club +2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-#EXTINF:-1 group-title="India" tvg-id="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png",MOV | NH BollyFlix
-https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Entertainment",Anjan TV
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="GangaurTV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" group-title="Entertainment",Gangaur TV
@@ -291,10 +299,6 @@ https://livestream.jswk.online/mhonenews/live/playlist.m3u8
 https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
 #EXTINF:-1 tvg-id="CricketGold.np" tvg-logo="" " tvg-country="NP" tvg-language="Nepali;Maithili" group-title="Sports",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
-#EXTINF:-1 tvg-id="Mahua Play.in@SD" tvg-logo="https://i.ibb.co/wZ6Q3bcP/tenant-mahuaplay-logo-adefd4fa.webp" group-title="Entertainment",Mahua Play
-https://stream.ottlive.co.in/mahuaplayjio/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MahuaKhabar.in@SD" tvg-logo="https://i.ibb.co/qYbRtMbg/Mahua-Khabar.png" group-title="Entertainment",Mahua Khabar
-https://stream.ottlive.co.in/mahuakhabarjio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" group-title="Movies",Manoranjan Grand 
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manoranjan-prime-in.png" group-title="Entertainment",Manoranjan Prime

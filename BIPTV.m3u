@@ -62,6 +62,8 @@ https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrXs0Vhj/Capital-tv-hd-Logo.png" group-title="Nepali",Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" group-title="Nepali" group-title="Sports",Kantipur MAX HD
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21qdy4vk/kantipurmaxhd.png" group-title="Nepali" group-title="Sports",Kantipur MAX HD 
@@ -136,6 +138,7 @@ https://times-live-airtel.vgcdn.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5f43FhG.png" group-title="Religious",Divya
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DivyaBhajan.png" group-title="Religious",Divya Bhajan
 https://jmp2.uk/stvp-IN1600002IQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZVmCxf.png" group-title="Religious",Divyya

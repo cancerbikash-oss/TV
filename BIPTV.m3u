@@ -1,4 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",HBO_Family
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"07b138f30ad3441ca5a2f476e550af25":"826ee4deef4b45cfafd5f79a591b15c6"}
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 tvg-logo="",HBO_Hits
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7c04b8e7aa524afea879b2ed1aef8242":"91e72b75fcb94c3bb36cceb741afd621"}
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-1 tvg-chno="118",HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hboh)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="",HBO_Hits
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-1 tvg-logo="",HBO_Signature
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0db89bae851440a5994f5893ad480494":"d88ef77eaedf4451a65be2e0bf6eabde"}
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-1 tvg-logo="",HBOHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9c5735afb4fd402580360aed8364469c":"128d55d9ac2b47ad85f86b5d08320179"}
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+
+
 
 #EXTINF:-1 tvg-chno="" tvg-logo="" group-title="Sports",
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1140,41 +1177,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"86edec9e3b7d4042a4d4a1ca14f847ee":"9def4315f0004019a3705bcb3cf30ca3"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/index.mpd
-
-#EXTINF:-1 tvg-logo="",HBO_Family
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"07b138f30ad3441ca5a2f476e550af25":"826ee4deef4b45cfafd5f79a591b15c6"}
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
-#EXTINF:-1 tvg-logo="",HBO_Hits
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7c04b8e7aa524afea879b2ed1aef8242":"91e72b75fcb94c3bb36cceb741afd621"}
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-
-#EXTINF:-1 tvg-chno="118",HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hboh)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="",HBO_Hits
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-
-#EXTINF:-1 tvg-logo="",HBO_Signature
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0db89bae851440a5994f5893ad480494":"d88ef77eaedf4451a65be2e0bf6eabde"}
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
-
-#EXTINF:-1 tvg-logo="",HBOHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9c5735afb4fd402580360aed8364469c":"128d55d9ac2b47ad85f86b5d08320179"}
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 
 

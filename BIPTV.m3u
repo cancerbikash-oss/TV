@@ -5,6 +5,20 @@
 #KODIPROP:inputstream.adaptive.license_key={"07b138f30ad3441ca5a2f476e550af25":"826ee4deef4b45cfafd5f79a591b15c6"}
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png"  group-title="Documentary",BBC Lifestyle 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9l.png" group-title="Documentary",National Geographic Wild
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
+https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
+
 #EXTINF:-1 tvg-logo="",HBO_Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1424,19 +1438,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"c011525969e44b99a86059dbb3cdf4e8":"6700a5d93203417b8585f7de7dd1a09b"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png"  group-title="Documentary",BBC Lifestyle 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9l.png" group-title="Documentary",National Geographic Wild
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
-https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
 
 
 ================================================================ Indian =======================================================================================================

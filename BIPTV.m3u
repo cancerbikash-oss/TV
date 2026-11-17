@@ -24,6 +24,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Nepali" group-title="International" group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USBC2400019EF"  tvg-logo="https://i.ibb.co.com/Kh5Mwfd/zoomoo.png" group-title="KIDS😜", ZOO MOO 🇳🇿
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="Nepali" group-title="International" group-title="Movies",HITS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="Nepali" group-title="International" group-title="Movies",HITS Movies
@@ -73,6 +75,16 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+
+#EXTINF:-1  tvg-id="BBC EARTH" tvg-logo="https://i.ibb.co.com/8zzNQzb/bbcearth.png" group-title="KNOWLEDGE⏳", BBC EARTH 🇬🇧 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE⏳", BBC HISTORY 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=244613123860e20da2498b2bda8b1eae:674d8dfc1d5d6f83bee8e2f799560ae9
+https://ac-009.live.p7s1video.net/6544f62b/t_009/bbc-history-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9l.png" group-title="Documentary",National Geographic Wild
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -131,10 +143,25 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="Asian Food Network.id" tvg-logo="https://i.ibb.co.com/g68bh5m/afn.png" group-title="LIFESTYLE🎉", AFN 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b585cefa81d5432aaa9634ad0ae94ced:2706609bde2c416eb4741a7503d765ed
+https://cnt1-streamer6.cdn.3bbtv.com:8443/3bb/live/206/206.mpd
+
 #EXTINF:-1 tvg-id="Warner" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",712 Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://play-drm.aliiptv.com/live/warnertv.m3u8?verify=1790056290-4w7vbzmuwXKZyBBGiSOJERiRrXvWX5rqEGe_H61vbuQ
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co.com/mF7gyWV/cn.png" group-title="KIDS😜", CARTOON NETWORK 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co.com/mF7gyWV/cn.png" group-title="KIDS😜", CARTOON NETWORK 🇺🇸 🇵🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
 #EXTINF:-1 group-title="TH" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -159,6 +186,99 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id"  tvg-logo="https://i.ibb.co.com/Gkz5wjx/nickjr.png" group-title="KIDS😜", NICK JR 🇺🇸 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+#EXTINF:-1 tvg-id="Discovery Channel.id" tvg-logo="https://i.ibb.co.com/nnf5htr/discoch.png" group-title="KNOWLEDGE⏳", DISCOVERY 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2845c9fd7b814690b26e4981a5819eff:0f8cad434d55453ba5341bdf1cfe0d58
+https://cnt1-streamer3.cdn.3bbtv.com:8443/3bb/live/503/503.mpd
+
+#EXTINF:-1 tvg-id="Discovery Channel.id" tvg-logo="https://i.ibb.co.com/nnf5htr/discoch.png" group-title="KNOWLEDGE⏳", DISCOVERY 🇺🇸 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Discovery Asia.id" tvg-logo="https://i.ibb.co.com/gj5J7vb/discoasia.png" group-title="KNOWLEDGE⏳", DISCOVERY ASIA 🇺🇸 🇻🇳 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE⏳" tvg-id="DMAX"  tvg-logo="https://i.ibb.co.com/8DfxR99/dmax.png", DMAX 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B5H3K9Bn/ftv.png" group-title="LIFESTYLE🎉", FASHION TV 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B5H3K9Bn/ftv.png" group-title="LIFESTYLE🎉", FASHION TV 🇺🇸
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.ibb.co.com/B3YLxSh/history.png" group-title="KNOWLEDGE⏳", HISTORY 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
+https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-logo="https://i.ibb.co.com/zn7bHNn/cbeebies.png" group-title="KIDS😜", CBEEBIES 🇬🇧 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co.com/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="KIDS😜" , Baby Shark TV 🇰🇷
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/932vZfR/dreamworks.png" group-title="KIDS😜", DREAMWORKS 🇺🇸 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/NyMzNn3/disneych.png" group-title="KIDS😜", DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff8085fd9469913a6f11fb3a4dd3a1be:2496ee469b2d1a19c22271a7b89c29e0
+https://tvcdn.tv.telia.lt/live/eds/Disney_Channel_H/DASH_5_CPIX_NPVR/Disney_Channel_H.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/GdQY7KX/disneyjr.png" group-title="KIDS😜", DISNEY JR 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ecc83e1cbb1f4c1bd3343845f55b361:560a022b2d0e0909420fd363101b2e3b
+https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junior_H.mpd
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/qNpjCYr/kidsflix.png" group-title="KIDS😜", KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkNWGtG/legokidstv.png" tvg-chno="3210" group-title="KIDS😜" , LEGO Kids TV 🇺🇸
+https://jmp2.uk/stvp-USBA2300001S8
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id"  tvg-logo="https://i.ibb.co.com/Gkz5wjx/nickjr.png" group-title="KIDS😜", NICK JR 🇺🇸 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46beefe8a4d11f36822b75d9a67a42be:e94946dcfd579b24e2c41a1cb051e18a
+https://tvcdn.tv.telia.lt/live/eds/Nick_Jr_H/DASH_5_CPIX_NPVR/Nick_Jr_H.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS😜", POKEMON 24/7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85e598202aee21dd2be766740845cc66:82024f1667c874473f40bd895485b2a4
+https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/apmgpfkqtp/out/v1/bc7a58fc207e4b3f9ac862bd798521a3/cenc.mpd
+
+#EXTINF:-1 tvg-id="Discovery Channel.id" tvg-logo="https://i.ibb.co.com/nnf5htr/discoch.png" group-title="KNOWLEDGE⏳", DISCOVERY 🇺🇸 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8a266692eef1a35360a0247d5901bf8:2b901cff697cfc53a0a967ce5e13c64e
+https://tvcdn.tv.telia.lt/live/eds/Discovery_H/DASH_5_CPIX_NPVR/Discovery_H.mpd
+
+#EXTINF:-1 tvg-id="SCIENCE_IS_AMAZING" tvg-name="Science is Amazing" tvg-logo="https://i.ibb.co.com/Q31HkByM/knowledgeall.png" group-title="KNOWLEDGE⏳",Science is Amazing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cdce02de4ee021313752bf3f4170fb4:60dbfbe941a0462e0d56a95c7b9e3bee
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d9iunfir77/out/v1/4c1ded14e2db44d59915910e6dc2284d/cenc.mpd
+
+#EXTINF:-1 tvg-id="MYTHBUSTERS" tvg-name="Mythbusters" tvg-logo="https://i.ibb.co.com/Q31HkByM/knowledgeall.png" group-title="KNOWLEDGE⏳",Mythbusters
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dcf7207dd39c334d64c5059f6721639:d6b433c51aa8a84586126e42eb69bed0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugmfjiqwfd/out/v1/1c2804035667405cba6b37162ae105ea/cenc.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/960px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="Sports",beIN Sports USA
@@ -533,6 +653,9 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YicWOB.png" group-title="News",Russia Today
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://wisewatchoott.wiseplayout.com/RT/HD1080/HD1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FzqZJjc/rtdoc.png" group-title="KNOWLEDGE⏳", RT DOCUMENTARY
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg" group-title="News",Arirang TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36

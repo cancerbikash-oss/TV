@@ -547,6 +547,8 @@ https://ottlive.dishhome.com.np/protected/vVnVkZ4Bnu3lGwDQJxH-/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6136af0960e4fb8b535dd6b1dd307c8:7e73113b6fbcc167612a0b2e58715bd8
 https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="Nepali",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Nepali" group-title="Religious",Divya Darshan TV HD
 http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Nepali",Indigenous Television HD

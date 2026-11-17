@@ -99,6 +99,11 @@ https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
+#EXTINF:-1  tvg-id="MONO29.th"  group-title="MOVIES🍿", MONO 29 PLUS 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/MONOMAX_Sports_2026.svg" group-title="Movies",Mono29
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -152,6 +157,11 @@ https://cnt1-streamer6.cdn.3bbtv.com:8443/3bb/live/206/206.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://play-drm.aliiptv.com/live/warnertv.m3u8?verify=1790056290-4w7vbzmuwXKZyBBGiSOJERiRrXvWX5rqEGe_H61vbuQ
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/KwdwK84/wbtv.png" group-title="MOVIES🍿", WB TV 🇺🇸 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co.com/mF7gyWV/cn.png" group-title="KIDS😜", CARTOON NETWORK 🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -211,6 +221,21 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.ibb.co.com/f9XVz9j/axn.png" group-title="MOVIES🍿", AXN 🇺🇸 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="MOVIES🍿", CINEMAX 🇺🇸 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="MOVIES🍿", HBO 🇺🇸 🇻🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/B5H3K9Bn/ftv.png" group-title="LIFESTYLE🎉", FASHION TV 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -278,6 +303,36 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d9iunfir77/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dcf7207dd39c334d64c5059f6721639:d6b433c51aa8a84586126e42eb69bed0
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugmfjiqwfd/out/v1/1c2804035667405cba6b37162ae105ea/cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="MOVIES🍿", CINEMAX 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+#EXTINF:-1 tvg-id="HBO.th"  tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="MOVIES🍿", HBO 🇹🇭 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/r0rYwjC/hbofami.png" group-title="MOVIES🍿", HBO FAMILY 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cnt1-streamer8.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/tMw7TZj/hbohits.png" group-title="MOVIES🍿", HBO HITS 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/WBVQq4Y/hbosig.png" group-title="MOVIES🍿", HBO SIGNATURE 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/xX2dRh0/showcase.png" group-title="MOVIES🍿", SHOWCASE 🇨🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
+https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
 
 
 

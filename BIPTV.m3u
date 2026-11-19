@@ -172,6 +172,46 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/521/521.mpd
 #KODIPROP:inputstream.adaptive.license_key=95704f36428d4ee58e25300d6f66ae8c:77742e8bbf0d466b8436af4aaff5e860
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/523/523.mpd
 
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/601.png" group-title="GIGATV",BBC NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d08510237d62473e94dc53eb4deec786:dcb0bd98e615494b8b8ba82b20115a37
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/601/601.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/602.png" group-title="GIGATV",CNN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17b607df305e466dad1f08bd70d9aa07:07b8a8ce91514dd0bd1d05f7a167e651
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/602/602.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/603.png" group-title="GIGATV",BLOOMBERG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d743845ce1d7408091b2aca42334033a:9791cbe6f7af495f934c6fe0d7bc3516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/603/603.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/604.png" group-title="GIGATV",CGTN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46ff28ca17c14ff8ab166a00a0afca5b:7a89520ccd2148fb9e6979c6a4df9130
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/604/604.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/605.png" group-title="GIGATV",CCTV4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a68efc72fb1417ca6eaec280861a6f6:ebcceb0f362242cd8d2c23cc8677cf13
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/605/605.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/606.png" group-title="GIGATV",ALJAZEERA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a86a3d586e04cf6b0d9e6fa4d487c8d:465647e1c8ef48e58082f99ab4905dfc
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/606/606.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/607.png" group-title="GIGATV",CNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af002b30f2c447fbae2346541138b989:3ce20c1fa2c54ecc8bb2205ce4a338f8
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/607/607.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/608.png" group-title="GIGATV",NHK WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2896bdaccfd3406a8e40c07f9ad7cb7c:f9addc2a59934bf5b3c9825ce77f9439
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/608/608.mpd
+
 
 
 =========================================================== Singapore ==========================================================================================================

@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/110.png", Warner TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/110/110.mpd
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png" group-title="GIGATV",CH5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

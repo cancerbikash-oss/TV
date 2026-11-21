@@ -2270,6 +2270,14 @@ http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2
 http://107.167.16.138/sonymax2/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143814_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Gold 2
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159131_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Gold
+http://103.185.24.134:3001/Star-Gold/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD
+http://103.185.24.134:3001/SonyMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
 
 
 
@@ -2313,14 +2321,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" group-title="Movies",Colors Cineplex UK
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b696000.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143814_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Gold 2
-http://103.151.60.162:2122/play/a01v/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159131_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Gold
-http://103.185.24.134:3001/Star-Gold/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD
-http://103.185.24.134:3001/SonyMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max HD
-http://103.151.60.162:2122/play/a014/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Dsports_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Eurosport HD
 http://103.17.193.159:5001/live/875.m3u8
@@ -2348,6 +2348,14 @@ http://103.17.193.159:5001/live/474.m3u8
 http://103.17.193.159:5001/live/1393.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyMAX.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
 http://103.17.193.159:5001/live/476.m3u8
+
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="http://223.25.71.211:5001/jtvimage/SonyMAX.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/476
+http://223.25.71.211:5001/live/mpd/476
+
 #EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyMAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
 http://103.17.193.159:5001/live/483.m3u8
 #EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyPIX.png" tvg-language="English" tvg-type="Movies" group-title="Movies", Sony Pix HD
@@ -2356,6 +2364,8 @@ http://103.17.193.159:5001/live/762.m3u8
 http://103.17.193.159:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="279" tvg-name="Colors Rishtey" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsRishtey1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors Rishtey
 http://103.17.193.159:5001/live/279.m3u8
+#EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="https://i.imgur.com/a5uES9j.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
+http://103.17.193.159:5001/live/1158.m3u8
 #EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Colors_Infinity_HD_1.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
 http://103.17.193.159:5001/live/1158.m3u8
 #EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="http://103.17.193.159:5001/jtvimage/ColorsCineplexHD1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD

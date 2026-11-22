@@ -1,5 +1,6 @@
 #EXTM3U
 
+https://iptv-epg.org/files/epg-in.xml.gz, https://iptv-epg.org/files/epg-sg.xml.gz
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png" group-title="GIGATV",NBT2HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

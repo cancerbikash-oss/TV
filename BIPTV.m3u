@@ -252,6 +252,18 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CRTE
 #KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
 https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
 
+#EXTINF:-1 tvg-id="GLOBALTREKKER" tvg-name="Global Trekker" tvg-logo="https://smart.946985.filegear-sg.me/logo/Global-Trekker.png" group-title="myTVSuper",Global Trekker
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
+https://php.946985.filegear-sg.me/mytv265.php?id=SMS
+
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZooMoo" tvg-logo="https://smart.946985.filegear-sg.me/logo/ZooMoo.png" group-title="myTVSuper",ZooMoo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
+https://php.946985.filegear-sg.me/mytv265.php?id=ZOO
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Nepali" group-title="International" group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC2400019EF"  tvg-logo="https://i.ibb.co.com/Kh5Mwfd/zoomoo.png" group-title="KIDS😜", ZOO MOO 🇳🇿
